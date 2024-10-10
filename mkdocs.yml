@@ -2,3 +2,5 @@ site_name: My blog
 site_url: https://blog.alimov.pro
 theme:
   name: material
+extra:
+  cname: blog.alimov.pro
