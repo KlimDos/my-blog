@@ -1,8 +1,6 @@
 # About me
 ## Personal Summary
 
-Welcome to my blog! I have over 15 years of experience in the IT industry, with a passion for solving complex problems and supporting a wide range of IT projects. I specialize in DevOps, cloud-native solutions, and IT architecture, ensuring cost-efficient solutions across startups and enterprise environments.
-
 I aim to share insights, tips, and hands-on experiences in:
 
 - Cloud Operations (AWS, Kubernetes, etc.)
