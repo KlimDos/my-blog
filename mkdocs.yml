@@ -2,7 +2,7 @@ site_name: Dev Oops 🙊
 site_url: https://blog.alimov.pro
 theme:
   name: material
-  favicon: favicon.png
+  favicon: favicon.gif
 extra:
   cname: blog.alimov.pro
 extra_javascript:
