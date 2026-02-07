@@ -1,7 +1,11 @@
 site_name: Бип-бип, сука 🏍️💨
 site_url: https://blog.alimov.top
+site_description: Мотоновости для тех, кто понимает. Переводы статей о мотоциклах, обзоры, гонки и технологии.
+site_author: Moto News Bot
+
 theme:
   name: material
+  language: ru
   favicon: favicon.gif
   custom_dir: overrides
   font:
@@ -35,6 +39,8 @@ plugins:
       post_date_format: long
       post_url_format: "{slug}"
       post_excerpt: optional
+      post_readtime: true
+      post_readtime_words_per_minute: 200
       archive: true
       archive_name: Архив
       archive_date_format: MMMM yyyy
@@ -49,6 +55,17 @@ markdown_extensions:
 
 extra:
   cname: blog.alimov.top
+  comments:
+    enabled: true
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/your_channel
+      name: Telegram
+    - icon: fontawesome/brands/github
+      link: https://github.com/KlimDos
+      name: GitHub
+  generator: false
+
 extra_javascript:
   - js/analytics.js
 extra_css:

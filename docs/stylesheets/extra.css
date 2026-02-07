@@ -62,3 +62,16 @@
 .md-nav--primary > .md-nav__list > .md-nav__item:first-child {
     display: none;
 }
+
+/* Footer styling */
+.md-footer {
+    background: linear-gradient(135deg, #ff5722 0%, #ff9800 100%);
+}
+
+.md-footer-meta {
+    background: transparent;
+}
+
+.md-footer a:hover {
+    opacity: 0.8;
+}
