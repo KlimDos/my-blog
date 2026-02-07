@@ -1,0 +1,64 @@
+/* Hero section styling */
+.md-typeset h1 {
+    font-size: 2.5em;
+    font-weight: 700;
+    margin-bottom: 0.5em;
+}
+
+/* Blog post cards */
+.md-typeset .md-post {
+    border-radius: 12px;
+    overflow: hidden;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.md-typeset .md-post:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+}
+
+/* Post titles */
+.md-typeset .md-post__title {
+    font-size: 1.4em;
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+/* Featured images */
+.md-typeset .md-post img {
+    border-radius: 8px;
+}
+
+/* Header styling */
+.md-header {
+    background: linear-gradient(135deg, #ff5722 0%, #ff9800 100%);
+}
+
+/* Hide site name in header - we have hero */
+.md-header__title {
+    display: none;
+}
+
+/* Bigger logo */
+.md-logo {
+    font-size: 1.5rem;
+}
+
+/* Category badges */
+.md-typeset .md-tag {
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-weight: 500;
+}
+
+/* Hide "Blog" title and sidebar label */
+.md-content > .md-typeset > h1:first-of-type,
+.md-nav__title,
+.md-sidebar--primary .md-nav__item:first-child {
+    display: none !important;
+}
+
+/* Hide sidebar "Blog" link */
+.md-nav--primary > .md-nav__list > .md-nav__item:first-child {
+    display: none;
+}
