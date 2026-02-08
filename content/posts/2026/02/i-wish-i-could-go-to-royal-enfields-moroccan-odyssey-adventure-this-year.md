@@ -1,6 +1,6 @@
 ---
-date:
-  created: 2026-02-05T13:39:08
+title: "Я жаль, что не могу поехать на Марокканскую охоту Royal Enfield этого года."
+date: 2026-02-05T13:39:08
 categories:
   - Новости
   - Adventure & Dual-Sport
@@ -11,11 +11,11 @@ tags:
   - adventure
   - offroad capable
 source: https://www.rideapart.com/news/786312/royal-enfield-moroccan-odyssey-adventure-vacation-2026-details/
+cover:
+  image: "https://cdn.motor1.com/images/mgl/vx0136/s3/royal-enfield-moroccan-odyssey-2026.jpg"
+  alt: "Я жаль, что не могу поехать на Марокканскую охоту Royal Enfield этого года."
+  hidden: false
 ---
-
-# Я жаль, что не могу поехать на Марокканскую охоту Royal Enfield этого года.
-
-![Я жаль, что не могу поехать на Марокканскую охоту Royal Enfield этого года.](https://cdn.motor1.com/images/mgl/vx0136/s3/royal-enfield-moroccan-odyssey-2026.jpg)
 
 Вот русский перевод:
 

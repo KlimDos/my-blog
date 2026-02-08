@@ -1,7 +1,6 @@
-{% if page.meta.date %}
-<!-- Giscus Comments - only on blog posts -->
-<div id="__comments" style="margin-top: 3rem;">
-  <h2>💬 Комментарии</h2>
+{{ if .IsPage }}
+<div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border);">
+  <h2 style="margin-bottom: 1rem;">💬 Комментарии</h2>
   <script src="https://giscus.app/client.js"
           data-repo="KlimDos/my-blog"
           data-repo-id="R_kgDOM-d0iw"
@@ -18,4 +17,4 @@
           async>
   </script>
 </div>
-{% endif %}
+{{ end }}

@@ -1,6 +1,6 @@
 ---
-date:
-  created: 2026-02-08T14:31:56
+title: "А Трик Старка Варг? Конечно, почему нет."
+date: 2026-02-08T14:31:56
 categories:
   - Новости
   - Кастом
@@ -11,11 +11,11 @@ tags:
   - stark varg ex
   - trike
 source: https://www.rideapart.com/news/786551/trike-stark-varg-ex-conversion-video/
+cover:
+  image: "https://cdn.motor1.com/images/mgl/G3YGYq/s3/stark-varg-ex-trike-custom-build.jpg"
+  alt: "А Трик Старка Варг? Конечно, почему нет."
+  hidden: false
 ---
-
-# А Трик Старка Варг? Конечно, почему нет.
-
-![А Трик Старка Варг? Конечно, почему нет.](https://cdn.motor1.com/images/mgl/G3YGYq/s3/stark-varg-ex-trike-custom-build.jpg)
 
 Вот что я только что ворвался в свой дом после того, как сломал машину Stark Varg EX через наш район. Я уснул много колесных арьеров за миг и не раз думал: "Знаете что? Мне кажется, мне нужно меньше веса передней части, больше задней части и лучшее трение, чтобы я мог отбрасывать её с пешком."
 
