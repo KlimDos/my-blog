@@ -2,7 +2,8 @@ baseURL = "https://blog.alimov.top/"
 languageCode = "ru"
 title = "Бип-бип, сука 🏍️💨"
 theme = "PaperMod"
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 enableRobotsTXT = true
 buildDrafts = false
@@ -52,7 +53,7 @@ buildExpired = false
   tag = "tags"
 
 [permalinks]
-  posts = "/:filename/"
+  posts = "/:contentbasename/"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
