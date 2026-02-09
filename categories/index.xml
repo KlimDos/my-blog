@@ -120,5 +120,19 @@
       <guid>https://blog.alimov.top/categories/explainers/</guid>
       <description></description>
     </item>
+    <item>
+      <title>Data Deep Dives</title>
+      <link>https://blog.alimov.top/categories/data-deep-dives/</link>
+      <pubDate>Thu, 29 Jan 2026 12:34:41 +0000</pubDate>
+      <guid>https://blog.alimov.top/categories/data-deep-dives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rants</title>
+      <link>https://blog.alimov.top/categories/rants/</link>
+      <pubDate>Tue, 27 Jan 2026 12:50:04 +0000</pubDate>
+      <guid>https://blog.alimov.top/categories/rants/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
