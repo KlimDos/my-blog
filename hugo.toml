@@ -2,89 +2,89 @@ baseURL = "https://blog.alimov.top/"
 languageCode = "ru"
 title = "Бип-бип, сука 🏍️💨"
 theme = "PaperMod"
-[pagination]
-  pagerSize = 10
 
+[pagination]
+pagerSize = 10
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
 buildExpired = false
 
 [minify]
-  disableXML = true
-  minifyOutput = true
+disableXML = true
+minifyOutput = true
 
 [params]
-  env = "production"
-  description = "Мотоновости для тех, кто понимает. Переводы статей о мотоциклах, обзоры, гонки и технологии."
-  author = "Moto News Bot"
-  defaultTheme = "auto"
-  ShowReadingTime = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  ShowShareButtons = false
-  ShowRssButtonInSectionTermList = true
-  DateFormat = "2 January 2006"
-  customCSS = ["css/extra.css"]
+env = "production"
+description = "Мотоновости для тех, кто понимает. Переводы статей о мотоциклах, обзоры, гонки и технологии."
+author = "Moto News Bot"
+defaultTheme = "auto"
+ShowReadingTime = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowShareButtons = false
+ShowRssButtonInSectionTermList = true
+DateFormat = "2 January 2006"
+customCSS = ["css/extra.css"]
 
-  [params.homeInfoParams]
-    Title = "🏍️ Бип-бип, сука 💨"
-    Content = "Мотоновости для тех, кто понимает"
+[params.homeInfoParams]
+Title = "🏍️ Бип-бип, сука 💨"
+Content = "Мотоновости для тех, кто понимает"
 
-  [params.cover]
-    linkFullImages = true
-    responsiveImages = true
+[params.cover]
+linkFullImages = true
+responsiveImages = true
 
-  [[params.socialIcons]]
-    name = "telegram"
-    url = "https://t.me/your_channel"
+[[params.socialIcons]]
+name = "telegram"
+url = "https://t.me/your_channel"
 
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/KlimDos"
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/KlimDos"
 
-  [[params.socialIcons]]
-    name = "rss"
-    url = "/index.xml"
+[[params.socialIcons]]
+name = "rss"
+url = "/index.xml"
 
 [taxonomies]
-  category = "categories"
-  tag = "tags"
+category = "categories"
+tag = "tags"
 
 [permalinks]
-  posts = "/:contentbasename/"
+posts = "/:contentbasename/"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+home = ["HTML", "RSS", "JSON"]
 
 [menu]
-  [[menu.main]]
-    name = "Главная"
-    url = "/"
-    weight = 1
+[[menu.main]]
+name = "Главная"
+url = "/"
+weight = 1
 
-  [[menu.main]]
-    name = "Архив"
-    url = "/archives/"
-    weight = 5
+[[menu.main]]
+name = "Архив"
+url = "/archives/"
+weight = 5
 
-  [[menu.main]]
-    name = "Категории"
-    url = "/categories/"
-    weight = 10
+[[menu.main]]
+name = "Категории"
+url = "/categories/"
+weight = 10
 
-  [[menu.main]]
-    name = "Теги"
-    url = "/tags/"
-    weight = 15
+[[menu.main]]
+name = "Теги"
+url = "/tags/"
+weight = 15
 
-  [[menu.main]]
-    name = "Поиск"
-    url = "/search/"
-    weight = 20
+[[menu.main]]
+name = "Поиск"
+url = "/search/"
+weight = 20
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
