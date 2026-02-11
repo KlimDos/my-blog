@@ -50,7 +50,7 @@ buildExpired = false
     name = "rss"
     url = "/index.xml"
 
-taxonomies:
+[taxonomies]
   category = "categories"
   tag = "tags"
 
