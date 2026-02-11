@@ -1,7 +1,8 @@
 baseURL = "https://blog.alimov.top/"
 languageCode = "ru"
-title = "Бип-бип, сука 🏍️💨"
+title = "Бип-бип, сука 🚂🟦"
 theme = "PaperMod"
+
 [pagination]
   pagerSize = 10
 
@@ -27,9 +28,10 @@ buildExpired = false
   ShowRssButtonInSectionTermList = true
   DateFormat = "2 January 2006"
   customCSS = ["css/extra.css"]
+  sort = 'date'
 
   [params.homeInfoParams]
-    Title = "🏍️ Бип-бип, сука 💨"
+    Title = "🚂 Бип-бип, сука 🟦"
     Content = "Мотоновости для тех, кто понимает"
 
   [params.cover]
@@ -48,7 +50,7 @@ buildExpired = false
     name = "rss"
     url = "/index.xml"
 
-[taxonomies]
+taxonomies:
   category = "categories"
   tag = "tags"
 
