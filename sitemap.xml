@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.alimov.top/posts/</loc>
+    <lastmod>2026-02-11T14:57:28+00:00</lastmod>
+  </url><url>
     <loc>https://blog.alimov.top/categories/</loc>
     <lastmod>2026-02-11T14:57:28+00:00</lastmod>
   </url><url>
@@ -33,9 +36,6 @@
     <lastmod>2026-02-11T14:57:28+00:00</lastmod>
   </url><url>
     <loc>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</loc>
-    <lastmod>2026-02-11T14:57:28+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.alimov.top/posts/</loc>
     <lastmod>2026-02-11T14:57:28+00:00</lastmod>
   </url><url>
     <loc>https://blog.alimov.top/tags/yamaha/</loc>
