@@ -1,4 +1,4 @@
-{{- $author := .Site.Params.Author | default .Site.Author -}}
+{{- $author := .Site.Params.Author -}}
 {{- if .Param "authorbox" }}
 <div class="authorbox clearfix">
 	{{- if and (not $author.avatar) (not $author.name) (not $author.bio) }}
