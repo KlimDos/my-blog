@@ -1,0 +1,8 @@
+{{- $root := . -}}
+{{- $meta := .Site.Params.post_meta | default (slice "date" "categories") -}}
+{{- range $field := $meta -}}
+	{{- $p := printf "post_meta/%s" $field -}}
+	{{- if templates.Exists (printf "partials/%s.html" $p) -}}
+		{{- partial $p $root -}}
+	{{- end -}}
+{{- end -}}

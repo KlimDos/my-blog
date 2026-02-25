@@ -1,7 +1,7 @@
 baseURL = "https://blog.alimov.top/"
 languageCode = "ru"
-title = "Бип-бип, сука 🚂🟦"
-theme = "PaperMod"
+title = "🏍️ Бип-бип, сука"
+theme = "mainroad"
 
 [pagination]
   pagerSize = 10
@@ -15,40 +15,43 @@ buildExpired = false
   disableXML = true
   minifyOutput = true
 
-[params]
-  env = "production"
+# Articles live in content/posts/ — they appear on homepage and at /posts/
+mainSections = ["posts"]
+
+[Params]
+  [Params.Author]
+    name = "Moto News Bot"
+    bio = "Мотоновости для тех, кто понимает."
+    avatar = ""
+
   description = "Мотоновости для тех, кто понимает. Переводы статей о мотоциклах, обзоры, гонки и технологии."
-  author = "Moto News Bot"
-  defaultTheme = "auto"
-  ShowReadingTime = true
-  ShowPostNavLinks = true
-  ShowBreadCrumbs = true
-  ShowCodeCopyButtons = true
-  ShowShareButtons = false
-  ShowRssButtonInSectionTermList = true
-  DateFormat = "2 January 2006"
+  opengraph = true
+  twitter_cards = false
+  readmore = true
+  authorbox = true
+  pager = true
+  post_meta = ["date", "categories"]
+  mainSections = ["posts"]
+  dateformat = "2 January 2006"
   customCSS = ["css/extra.css"]
-  sort = 'date'
 
-  [params.homeInfoParams]
-    Title = "🚂 Бип-бип, сука 🟦"
-    Content = "Мотоновости для тех, кто понимает"
+  [Params.logo]
+    subtitle = "Мотоновости для тех, кто понимает"
 
-  [params.cover]
-    linkFullImages = true
-    responsiveImages = true
+  [Params.sidebar]
+    home = "right"
+    list = "right"
+    single = "right"
+    widgets = ["search", "recent", "categories", "taglist"]
 
-  [[params.socialIcons]]
-    name = "telegram"
-    url = "https://t.me/your_channel"
+  [Params.widgets]
+    recent_num = 10
+    tags_counter = true
+    taglist_limit = 25
 
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/KlimDos"
-
-  [[params.socialIcons]]
-    name = "rss"
-    url = "/index.xml"
+  [Params.widgets.search]
+    url = "https://www.google.com/search"
+    input = { name = "q", pre = "site:blog.alimov.top " }
 
 [taxonomies]
   category = "categories"
@@ -57,9 +60,6 @@ buildExpired = false
 [permalinks]
   posts = "/:contentbasename/"
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-
 [menu]
   [[menu.main]]
     name = "Главная"
@@ -67,9 +67,14 @@ buildExpired = false
     weight = 1
 
   [[menu.main]]
+    name = "Статьи"
+    url = "/posts/"
+    weight = 5
+
+  [[menu.main]]
     name = "Архив"
     url = "/archives/"
-    weight = 5
+    weight = 7
 
   [[menu.main]]
     name = "Категории"
@@ -81,12 +86,19 @@ buildExpired = false
     url = "/tags/"
     weight = 15
 
-  [[menu.main]]
-    name = "Поиск"
-    url = "/search/"
-    weight = 20
-
 [markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true

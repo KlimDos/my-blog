@@ -1,0 +1,29 @@
+{{- $thumbnail := .page.Params.thumbnail -}}
+{{- if and (not $thumbnail) .page.Params.cover -}}
+  {{- with .page.Params.cover.image -}}
+    {{- $thumbnail = . -}}
+  {{- end -}}
+{{- end -}}
+{{- if $thumbnail }}
+	{{- $class := .class }}
+	{{- $visibility := .page.Site.Params.thumbnail.visibility | default (slice "list" "post") }}
+
+	{{- $valueType := printf "%T" $thumbnail -}}
+	{{- $isMap := in $valueType "map" -}}
+	{{- $imgSrc := $thumbnail -}}
+	{{- if $isMap }}
+		{{ $visibility = default (slice "list" "post") (default .page.Site.Params.thumbnail.visibility $thumbnail.visibility) }}
+		{{ $imgSrc = $thumbnail.src }}
+	{{- end -}}
+	{{- if not (hasPrefix (printf "%s" $imgSrc) "http") }}
+		{{ $imgSrc = $imgSrc | relURL }}
+	{{- end }}
+
+	{{- if in $visibility $class }}
+	<figure class="{{ with $class }}{{ . }}__thumbnail {{ end }}thumbnail">
+		{{ if eq $class "list" }}<a class="thumbnail__link" href="{{ .page.RelPermalink }}">{{ end }}
+		<img class="thumbnail__image" src="{{ $imgSrc }}" alt="{{ default .page.Title .page.Params.cover.alt }}">
+		{{ if eq $class "list" }}</a>{{ end }}
+	</figure>
+	{{- end }}
+{{- end }}
