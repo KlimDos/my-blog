@@ -1,0 +1,3 @@
+# Override footer credits (project-level i18n overrides theme)
+- id: footer_credits
+  translation: "Сделано с ❤️ и бензином."
