@@ -10,6 +10,20 @@
 		{{ . }}
 	</div>
 	{{- end }}
+	<div class="content main__content clearfix list-filters">
+		<h3 class="list-filters__title">Фильтр по категориям</h3>
+		<p class="list-filters__links">
+			{{- range $i, $c := .Site.Taxonomies.categories }}
+			{{- if $i }} · {{ end }}<a class="list-filters__link" href="{{ $c.Page.Permalink }}">{{ $c.Page.Title }}</a>
+			{{- end }}
+		</p>
+		<h3 class="list-filters__title">Фильтр по тегам</h3>
+		<p class="list-filters__links">
+			{{- range $i, $t := .Site.Taxonomies.tags }}
+			{{- if $i }} · {{ end }}<a class="list-filters__link" href="{{ $t.Page.Permalink }}">{{ $t.Page.Title }}</a>
+			{{- end }}
+		</p>
+	</div>
 	{{- $paginator := .Paginate (.Pages.ByDate.Reverse) }}
 	<p class="list-sort">Сортировка: по дате (новые выше)</p>
 	{{- range $paginator.Pages }}
