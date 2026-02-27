@@ -1,5 +1,20 @@
-<!-- Сортировка по дате -->
-<a href='?sort=date'>Дата</a>
-
-<!-- Сортировка по названию -->
-<a href='?sort=title'>Название</a>
+{{ define "main" }}
+<main class="main list" role="main">
+	{{- with .Title }}
+	<header class="main__header">
+		<h1 class="main__title">{{ . }}</h1>
+	</header>
+	{{- end }}
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+	{{- $paginator := .Paginate (.Pages.ByDate.Reverse) }}
+	<p class="list-sort">Сортировка: по дате (новые выше)</p>
+	{{- range $paginator.Pages }}
+		{{- .Render "summary" }}
+	{{- end }}
+</main>
+{{ partial "pagination.html" . }}
+{{ end }}

@@ -1,0 +1,32 @@
+{{ define "main" }}
+<main class="main list" role="main">
+	<header class="main__header">
+		<h1 class="main__title">{{ .Title }}</h1>
+	</header>
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+	{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+	{{- range $pages.GroupByPublishDate "2006" }}
+	{{- if ne .Key "0001" }}
+	{{- $year := replace .Key "0001" "" }}
+	<section class="archives-group">
+		<h2 class="archives-year" id="{{ $year }}">{{ $year }}</h2>
+		{{- range .Pages.GroupByDate "2006-01" }}
+		<h3 class="archives-month" id="{{ $year }}-{{ .Key }}">{{ .Key }}</h3>
+		<ul class="archives-list">
+			{{- range .Pages.ByDate.Reverse }}
+			<li class="archives-item">
+				<time class="archives-item__date" datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan" }}</time>
+				<a class="archives-item__link" href="{{ .Permalink }}">{{ .Title }}</a>
+			</li>
+			{{- end }}
+		</ul>
+		{{- end }}
+	</section>
+	{{- end }}
+	{{- end }}
+</main>
+{{ end }}

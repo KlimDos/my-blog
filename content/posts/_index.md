@@ -1,3 +1,7 @@
+---
+title: "Статьи"
+---
+
 ### Фильтр по категориям
 {{ range .Site.Taxonomies.categories }}
   <a href='{{ .Page.Permalink }}'>{{ .Page.Title }}</a>
