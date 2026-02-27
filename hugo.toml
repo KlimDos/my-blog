@@ -32,7 +32,7 @@ mainSections = ["posts"]
   pager = true
   post_meta = ["date", "categories"]
   mainSections = ["posts"]
-  dateformat = "2 January 2006"
+  dateformat = "2 January 2006, 15:04"
   customCSS = ["css/extra.css"]
 
   [Params.logo]
