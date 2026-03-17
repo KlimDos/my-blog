@@ -1,27 +1,815 @@
-/* Stack theme – оранжевый акцент для мото-блога */
+/* ═══════════════════════════════════════════════════════
+   БИП-БИП — Asphalt & Fire
+   Full dark redesign. Russo One + PT Sans (both Cyrillic)
+   ═══════════════════════════════════════════════════════ */
+
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&family=PT+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* ── Design tokens ─────────────────────────────────── */
 :root {
-    --accent-color: #ff5722;
-    --accent-color-darker: #e64a19;
-    --accent-color-text: #fff;
+    --accent:      #ff4500;
+    --accent-dim:  rgba(255, 69, 0, .15);
+    --accent-glow: rgba(255, 69, 0, .30);
+
+    --bg:          #080808;
+    --bg-card:     #0e0e0e;
+    --bg-elevated: #161616;
+    --bg-subtle:   #111111;
+
+    --text:        #f2ece4;
+    --text-muted:  #b0a898;
+    --text-dim:    #666;
+
+    --border:      #222;
+    --border-mid:  #333;
 }
 
-[data-scheme="dark"] {
-    --accent-color: #ff8a65;
-    --accent-color-darker: #ff7043;
-    --accent-color-text: #000;
+/* ── Reading progress bar (pure CSS) ──────────────── */
+body::before {
+    content: '';
+    position: fixed;
+    top: 0; left: 0;
+    width: 100%; height: 3px;
+    background: linear-gradient(90deg, var(--accent), #ff8c00);
+    transform-origin: left center;
+    transform: scaleX(0);
+    animation: reading-progress linear;
+    animation-timeline: scroll(root block);
+    z-index: 9999;
+}
+@keyframes reading-progress {
+    from { transform: scaleX(0); }
+    to   { transform: scaleX(1); }
 }
 
-a:hover {
-    color: var(--accent-color);
+/* ── Global reset for dark theme ──────────────────── */
+body {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.78;
+    background: var(--bg);
+    color: var(--text);
+    -webkit-font-smoothing: antialiased;
 }
 
-/* Кнопка переключения темы и активный пункт меню */
-.left-sidebar .menu .current a,
-.left-sidebar .menu a:hover {
-    color: var(--accent-color);
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Russo One', sans-serif;
+    color: #fff;
+    letter-spacing: .02em;
 }
 
-.search-form button:hover,
-.article-list--compact a:hover {
-    color: var(--accent-color);
+a {
+    color: var(--text-muted);
+    transition: color .15s;
+}
+a:hover { color: var(--accent); }
+
+hr {
+    border-top-color: var(--border);
+}
+
+p { margin-bottom: 1.3rem; }
+
+blockquote {
+    border-left-color: var(--accent);
+    background: var(--bg-elevated);
+    padding: 12px 20px 12px 20px;
+    margin: 0 0 1.3rem;
+    color: var(--text-muted);
+}
+
+pre, code {
+    background: var(--bg-elevated);
+    border-color: var(--border-mid);
+    color: #e8c97d;
+}
+
+code { padding: 1px 6px; }
+
+mark {
+    background: rgba(255, 140, 0, .25);
+    color: var(--text);
+}
+
+/* ── Outer container ──────────────────────────────── */
+.container--outer {
+    margin: 0 auto;
+    box-shadow:
+        0 0 0 1px var(--border),
+        0 24px 80px rgba(0, 0, 0, .8),
+        0 0 80px rgba(255, 69, 0, .08);
+}
+
+.wrapper {
+    background: var(--bg-card);
+}
+
+/* ── Header ───────────────────────────────────────── */
+.header {
+    background: var(--bg) !important;
+    border-bottom: none;
+}
+
+.logo {
+    padding: 22px 25px 18px;
+}
+
+.logo__link { text-decoration: none; }
+
+@keyframes logo-entrance {
+    from {
+        opacity: 0;
+        transform: translateY(14px) skewX(-3deg);
+        filter: blur(6px) drop-shadow(0 0 0 transparent);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0) skewX(0);
+        filter: blur(0) drop-shadow(0 0 14px rgba(255,69,0,.45));
+    }
+}
+
+@keyframes logo-fire-sweep {
+    from { background-position: 0% center; }
+    to   { background-position: 100% center; }
+}
+
+.logo__title {
+    font-family: 'Russo One', sans-serif;
+    font-size: 2.4rem;
+    letter-spacing: .18em;
+    line-height: 1;
+    text-transform: uppercase;
+
+    /*
+     * Two identical tiles so position:0% and position:100% show the
+     * same visual — the loop restart is invisible.
+     * Each tile: white → amber → orange → deep-red → orange → amber → white
+     */
+    background: linear-gradient(
+        90deg,
+        #ffffff  0%,
+        #ffe566  7.5%,
+        #ff8800 15%,
+        #ff4500 22.5%,
+        #cc1f00 25%,
+        #ff4500 32.5%,
+        #ff8800 37.5%,
+        #ffe566 42.5%,
+        #ffffff 50%,
+        #ffe566 57.5%,
+        #ff8800 65%,
+        #ff4500 72.5%,
+        #cc1f00 75%,
+        #ff4500 82.5%,
+        #ff8800 87.5%,
+        #ffe566 92.5%,
+        #ffffff 100%
+    );
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent !important;
+
+    animation:
+        logo-entrance .7s cubic-bezier(.22,1,.36,1) both,
+        logo-fire-sweep 8s .7s linear infinite;
+
+    filter: drop-shadow(0 0 14px rgba(255,69,0,.45));
+    transition: letter-spacing .35s cubic-bezier(.22,1,.36,1),
+                filter .35s ease,
+                transform .35s ease;
+    will-change: background-position;
+}
+
+.logo__link:hover .logo__title {
+    filter: drop-shadow(0 0 28px rgba(255,80,0,.95))
+            drop-shadow(0 0 60px rgba(255,69,0,.5))
+            drop-shadow(0 0 4px rgba(255,220,80,.7));
+}
+
+.logo__tagline {
+    color: var(--text-dim) !important;
+    border-top-color: var(--border-mid) !important;
+    font-size: .68rem;
+    letter-spacing: .22em;
+    text-transform: uppercase;
+    padding-top: 8px;
+    margin-top: 8px;
+}
+
+/* ── Navigation ───────────────────────────────────── */
+.menu {
+    background: var(--bg-subtle);
+    border-bottom: 4px solid var(--accent) !important;
+    position: relative;
+}
+
+/* Оранжевый glow под навбаром */
+.menu::after {
+    content: '';
+    display: block;
+    height: 1px;
+    background: radial-gradient(ellipse at 50% 0%, rgba(255,69,0,.4) 0%, transparent 70%);
+    margin-top: -1px;
+}
+
+.menu__list {
+    background: var(--bg-subtle) !important;
+}
+
+.menu__item {
+    border-left-color: var(--border) !important;
+}
+
+/* Kill the background-highlight approach, use color instead */
+.menu__item:hover,
+.menu__item--active {
+    background: transparent !important;
+}
+
+.menu__link {
+    font-family: 'Russo One', sans-serif;
+    font-size: .75rem;
+    letter-spacing: .14em;
+    color: var(--text-dim) !important;
+    transition: color .15s;
+}
+
+.menu__link:hover,
+.menu__item--active .menu__link {
+    color: var(--accent) !important;
+    background: transparent !important;
+}
+
+/* Mobile menu button */
+.menu__btn {
+    background: var(--bg-subtle) !important;
+    color: var(--text-muted) !important;
+    border: none;
+}
+.menu__btn-title { color: inherit; }
+
+.js .menu__list {
+    background: var(--bg-subtle) !important;
+}
+.js .menu__list--active {
+    border-top-color: var(--border) !important;
+    border-bottom-color: var(--border) !important;
+}
+
+/* ── Breadcrumbs ──────────────────────────────────── */
+.breadcrumbs {
+    margin: 0 0 20px;
+    padding: 10px 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.breadcrumbs__list {
+    list-style: none;
+    margin: 0; padding: 0;
+    display: flex; flex-wrap: wrap;
+    align-items: center;
+}
+
+.breadcrumbs__item {
+    font-size: .72rem;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+}
+
+.breadcrumbs__item + .breadcrumbs__item::before {
+    content: '›';
+    margin: 0 7px;
+    color: var(--border-mid);
+}
+
+.breadcrumbs__link {
+    color: var(--text-dim);
+    text-decoration: none;
+}
+.breadcrumbs__link:hover { color: var(--accent); }
+
+.breadcrumbs__item--active {
+    font-family: 'Russo One', sans-serif;
+    color: var(--text-muted);
+}
+
+/* ── Post cards (list view) ───────────────────────── */
+.post {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-top: none;
+    padding: 22px !important;
+    margin-left: 0 !important;
+    transition: border-color .2s, box-shadow .2s, transform .2s;
+}
+
+.post:hover {
+    border-color: var(--accent);
+    box-shadow: 0 6px 30px rgba(0,0,0,.6), 0 0 0 1px rgba(255,69,0,.25), inset 0 0 40px rgba(255,69,0,.03);
+    transform: translateY(-2px);
+}
+
+.post + .post {
+    border-top: none;
+    margin-top: 12px;
+    padding-top: 22px !important;
+}
+
+/* Post thumbnail image — по умолчанию естественная высота */
+.post__thumbnail img {
+    width: 100%;
+    height: auto;
+    display: block;
+    filter: brightness(.9);
+    transition: filter .3s;
+}
+.post:hover .post__thumbnail img {
+    filter: brightness(1);
+}
+
+/* В списке постов — фиксированная высота для единообразия карточек */
+.main.list .post__thumbnail img {
+    height: 220px;
+    object-fit: cover;
+}
+
+/* Post title */
+.post__title {
+    font-family: 'Russo One', sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.2;
+    letter-spacing: .02em;
+    margin-bottom: .3em;
+}
+
+.post__title a {
+    color: #fff !important;
+    text-decoration: none;
+    transition: color .15s;
+}
+.post__title a:hover { color: var(--accent) !important; }
+
+.main__title {
+    font-family: 'Russo One', sans-serif;
+    color: var(--text);
+    font-size: 1.6rem;
+}
+
+/* Post metadata */
+.meta,
+.meta a,
+.post__meta {
+    color: var(--text-dim) !important;
+    font-size: .75rem;
+    letter-spacing: .07em;
+    text-transform: uppercase;
+}
+
+.meta a:hover,
+.post__meta a:hover {
+    color: var(--accent) !important;
+}
+
+.post__lead {
+    color: var(--text-muted);
+    font-size: 1rem;
+    font-style: italic;
+}
+
+/* Post body content */
+.post__content,
+.content {
+    color: var(--text);
+}
+
+.content h2,
+.content h3,
+.content h4 {
+    font-family: 'Russo One', sans-serif;
+    color: var(--text);
+    letter-spacing: .03em;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: .4em;
+    margin-top: 2em;
+}
+
+/* Category/tag pills */
+.post__tags a,
+.tags-cloud__item,
+.tag-cloud__link {
+    display: inline-block;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border-mid);
+    color: var(--text-muted) !important;
+    font-size: .72rem;
+    letter-spacing: .07em;
+    text-transform: uppercase;
+    padding: 2px 9px;
+    margin: 2px;
+    transition: background .15s, border-color .15s, color .15s;
+    text-decoration: none;
+}
+
+.post__tags a:hover,
+.tags-cloud__item:hover,
+.tag-cloud__link:hover {
+    background: var(--accent-dim);
+    border-color: var(--accent);
+    color: var(--accent) !important;
+}
+
+/* Read more button */
+.btn {
+    font-family: 'Russo One', sans-serif;
+    font-size: .72rem;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    background: transparent !important;
+    color: var(--accent) !important;
+    border: 1px solid var(--accent);
+    padding: 5px 14px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .15s, color .15s;
+}
+.btn:hover {
+    background: var(--accent) !important;
+    color: #fff !important;
+}
+
+/* ── TOC ──────────────────────────────────────────── */
+.post__toc {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border-mid);
+    border-left: 3px solid var(--accent);
+    padding: 16px 20px;
+    margin-bottom: 28px;
+    font-size: .9rem;
+}
+
+.post__toc nav { margin: 0; }
+
+.post__toc a {
+    color: var(--text-muted);
+    text-decoration: none;
+}
+.post__toc a:hover { color: var(--accent); }
+
+/* ── Article filters (posts list) ─────────────────── */
+.list-filters {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border-mid);
+    border-left: 3px solid var(--accent);
+    padding: 16px 20px;
+    margin-bottom: 24px;
+}
+
+.list-filters__title {
+    font-family: 'Russo One', sans-serif;
+    font-size: .7rem;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin: 0 0 8px;
+}
+
+.list-filters__title + .list-filters__title {
+    margin-top: 14px;
+}
+
+.list-filters__links {
+    margin: 0;
+    line-height: 2;
+    font-size: .88rem;
+}
+
+.list-filters__link {
+    color: var(--text-muted);
+    border-bottom: 1px dotted var(--border-mid);
+    text-decoration: none;
+    transition: color .15s, border-color .15s;
+}
+.list-filters__link:hover {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
+}
+
+.list-sort {
+    font-size: .7rem;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: 16px;
+}
+
+/* ── Pagination (list) ────────────────────────────── */
+.pagination {
+    border-top: 1px solid var(--border);
+    padding-top: 20px;
+    margin-top: 8px;
+}
+
+.pagination__item {
+    font-family: 'Russo One', sans-serif;
+    font-size: .75rem;
+    letter-spacing: .08em;
+    background: var(--bg-elevated);
+    border-color: var(--border-mid) !important;
+    color: var(--text-muted);
+}
+
+.pagination__item--current {
+    background: var(--accent) !important;
+    color: #fff;
+    border-color: var(--accent) !important;
+}
+
+.pagination__item:hover {
+    background: var(--bg-subtle);
+    color: var(--accent);
+}
+
+/* ── Pager (prev/next post) ───────────────────────── */
+.pager {
+    border-top: 1px solid var(--border);
+    margin-top: 36px;
+    padding-top: 24px;
+    gap: 14px;
+}
+
+.pager__link {
+    display: block;
+    padding: 14px 18px;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border-mid);
+    border-left: 3px solid var(--border-mid);
+    text-decoration: none;
+    transition: border-color .2s, background .2s;
+}
+.pager__link:hover {
+    border-left-color: var(--accent);
+    background: var(--bg-subtle);
+}
+
+.pager__subtitle {
+    font-family: 'Russo One', sans-serif;
+    font-size: .68rem;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    display: block;
+    margin-bottom: 5px;
+}
+
+.pager__title {
+    font-size: .95rem;
+    color: var(--text);
+    margin: 0;
+    line-height: 1.35;
+}
+
+/* ── Authorbox ────────────────────────────────────── */
+.authorbox {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border-mid);
+    border-top: 3px solid var(--accent);
+    padding: 20px;
+    margin-bottom: 24px;
+}
+
+.authorbox__name {
+    font-family: 'Russo One', sans-serif;
+    font-size: 1rem;
+    letter-spacing: .04em;
+    color: var(--text);
+}
+
+.authorbox__description {
+    color: var(--text-muted);
+    font-size: .92rem;
+}
+
+/* ── Sidebar ──────────────────────────────────────── */
+.sidebar {
+    border-left: 1px solid var(--border);
+    padding-left: 24px;
+    background: transparent;
+}
+
+.widget {
+    background: transparent;
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.widget:last-child {
+    border-bottom: none;
+}
+
+.widget__title {
+    font-family: 'Russo One', sans-serif;
+    font-size: .68rem;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    border-bottom: 2px solid var(--accent);
+    padding-bottom: 7px;
+    margin-bottom: 14px;
+}
+
+.widget__item { font-size: .9rem; }
+.widget__item a { color: var(--text-muted); }
+.widget__item a:hover { color: var(--accent); }
+
+/* Recent posts list */
+.widget__list a {
+    color: var(--text-muted);
+    font-size: .9rem;
+    line-height: 1.4;
+}
+.widget__list a:hover { color: var(--accent); }
+
+/* Search */
+.widget-search__form {
+    padding: 0;
+    background: transparent;
+}
+
+.widget-search__field {
+    width: 100%;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border-mid);
+    color: var(--text);
+    font-family: 'PT Sans', sans-serif;
+    font-size: .9rem;
+    padding: 7px 10px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.widget-search__field:focus {
+    border-color: var(--accent);
+    outline: none;
+}
+
+.widget-search__field::placeholder { color: var(--text-dim); }
+
+.search-form {
+    display: flex;
+    gap: 0;
+}
+
+.search-form__input {
+    flex: 1;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border-mid);
+    border-right: none;
+    color: var(--text);
+    font-family: 'PT Sans', sans-serif;
+    font-size: .9rem;
+    padding: 7px 10px;
+    outline: none;
+}
+.search-form__input:focus {
+    border-color: var(--accent);
+}
+.search-form__input::placeholder { color: var(--text-dim); }
+
+.search-form__btn,
+.search-form button {
+    background: var(--accent);
+    color: #fff;
+    border: 1px solid var(--accent);
+    padding: 7px 14px;
+    cursor: pointer;
+    font-family: 'Russo One', sans-serif;
+    font-size: .72rem;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    transition: background .15s;
+}
+.search-form__btn:hover,
+.search-form button:hover {
+    background: #e03d00;
+    border-color: #e03d00;
+}
+
+/* ── Footer ───────────────────────────────────────── */
+.footer {
+    background: var(--bg) !important;
+    color: var(--text-dim);
+    border-top: 1px solid var(--border);
+}
+
+.footer a { color: var(--text-dim); }
+.footer a:hover { color: var(--accent); }
+
+.footer__links {
+    font-family: 'Russo One', sans-serif;
+    font-size: .7rem;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+}
+
+.footer__copyright {
+    font-size: .78rem;
+    letter-spacing: .04em;
+}
+
+/* ── Tables ───────────────────────────────────────── */
+.content table {
+    border-color: var(--border-mid);
+}
+.content th {
+    background: var(--bg-elevated);
+    color: var(--text);
+    border-color: var(--border-mid);
+}
+.content td {
+    border-color: var(--border);
+    color: var(--text-muted);
+}
+.content tr:nth-child(even) td {
+    background: var(--bg-elevated);
+}
+
+/* ── Inputs / selects ─────────────────────────────── */
+input, select, textarea {
+    background: var(--bg-elevated);
+    color: var(--text);
+    border-color: var(--border-mid);
+}
+
+
+/* ── Back to top button ───────────────────────────── */
+#back-to-top {
+    position: fixed;
+    bottom: 28px;
+    right: 28px;
+    width: 40px;
+    height: 40px;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border-mid);
+    color: var(--text-muted);
+    font-size: 1.1rem;
+    line-height: 1;
+    cursor: pointer;
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity .2s, transform .2s, border-color .15s, color .15s;
+    z-index: 100;
+}
+#back-to-top.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+#back-to-top:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+}
+
+/* ── Widget "Show more" ───────────────────────────── */
+.widget-extra {
+    display: none !important;
+}
+
+.widget-categories.widget-expanded .widget-extra {
+    display: list-item !important;
+}
+
+.widget-taglist.widget-expanded .widget-extra {
+    display: inline-block !important;
+}
+
+.widget-more-btn {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    padding: 5px 10px;
+    background: transparent;
+    border: 1px solid var(--border-mid);
+    color: var(--text-dim);
+    font-family: 'Russo One', sans-serif;
+    font-size: .68rem;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: border-color .15s, color .15s;
+}
+
+.widget-more-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+}
+
+/* ── Utility: warning boxes ───────────────────────── */
+.warning {
+    background: var(--bg-elevated);
+    border-color: var(--border-mid);
+    color: var(--text-muted);
 }

@@ -1,23 +1,18 @@
 {{- $tags := .Site.Taxonomies.tags }}
-{{- $limit := .Site.Params.widgets.taglist_limit | default 25 }}
 {{- if gt (len $tags) 0 }}
+{{- $limit := 10 }}
+{{- $total := len $tags }}
 <div class="widget-taglist widget">
 	<h4 class="widget__title">{{ T "tags_title" }}</h4>
 	<div class="widget__content">
-	{{- $n := 0 }}
-	{{- range $name, $taxonomy := $tags }}
-		{{- if lt $n $limit }}
-		{{- with $.Site.GetPage (printf "/tags/%s" $name) }}
-		<a class="widget-taglist__link widget__link btn" href="{{ .RelPermalink }}" title="{{ .Title }}">
-			{{- .Title -}}{{- if $.Site.Params.widgets.tags_counter }} ({{ $taxonomy.Count }}){{ end -}}
-		</a>
-		{{- $n = add $n 1 }}
-		{{- end }}
-		{{- end }}
+	{{- range $i, $item := $tags.ByCount }}
+	<a class="widget-taglist__link widget__link btn{{ if ge $i $limit }} widget-extra{{ end }}" href="{{ $item.Page.RelPermalink }}" title="{{ $item.Page.Title }}">
+		{{- $item.Page.Title -}}{{- if $.Site.Params.widgets.tags_counter }} ({{ $item.Count }}){{ end -}}
+	</a>
+	{{- end }}
+	{{- if gt $total $limit }}
+	<button class="widget-more-btn" aria-expanded="false">Ещё {{ sub $total $limit }} ↓</button>
 	{{- end }}
 	</div>
-	{{- if gt (len $tags) $limit }}
-	<p class="widget__meta"><a href="{{ "tags/" | relLangURL }}">Все теги →</a></p>
-	{{- end }}
 </div>
 {{- end }}

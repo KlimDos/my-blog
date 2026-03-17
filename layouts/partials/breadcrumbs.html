@@ -1,0 +1,26 @@
+{{- $page := . -}}
+{{- if or .IsPage .IsSection -}}
+<nav class="breadcrumbs" aria-label="breadcrumb">
+    <ol class="breadcrumbs__list">
+        <li class="breadcrumbs__item">
+            <a class="breadcrumbs__link" href="{{ "/" | relURL }}">Главная</a>
+        </li>
+        {{- if .IsPage }}
+            {{- with .CurrentSection }}
+                {{- if not .IsHome }}
+                <li class="breadcrumbs__item">
+                    <a class="breadcrumbs__link" href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </li>
+                {{- end }}
+            {{- end }}
+            <li class="breadcrumbs__item breadcrumbs__item--active" aria-current="page">
+                {{ $page.Title }}
+            </li>
+        {{- else if .IsSection }}
+            <li class="breadcrumbs__item breadcrumbs__item--active" aria-current="page">
+                {{ .Title }}
+            </li>
+        {{- end }}
+    </ol>
+</nav>
+{{- end }}

@@ -34,6 +34,8 @@ mainSections = ["posts"]
   mainSections = ["posts"]
   dateformat = "2 January 2006, 15:04"
   customCSS = ["css/extra.css"]
+  customJS  = ["js/blog.js"]
+  toc = true
 
   [Params.logo]
     subtitle = "Мотоновости для тех, кто понимает"
@@ -85,6 +87,31 @@ mainSections = ["posts"]
     name = "Теги"
     url = "/tags/"
     weight = 15
+
+  [[menu.footer]]
+    name = "Главная"
+    url = "/"
+    weight = 1
+
+  [[menu.footer]]
+    name = "Статьи"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.footer]]
+    name = "Архив"
+    url = "/archives/"
+    weight = 3
+
+  [[menu.footer]]
+    name = "Категории"
+    url = "/categories/"
+    weight = 4
+
+  [[menu.footer]]
+    name = "Теги"
+    url = "/tags/"
+    weight = 5
 
 [markup]
   [markup.tableOfContents]
