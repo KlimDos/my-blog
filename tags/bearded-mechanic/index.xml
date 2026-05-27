@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Bearded Mechanic on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/bearded-mechanic/</link>
-    <description>Recent content in Bearded Mechanic on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Wed, 04 Feb 2026 13:53:13 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/bearded-mechanic/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Заведет ли этот снегоход, если я причина многолетнего простоя?</title>
-      <link>https://blog.alimov.top/will-this-snowmobile-run-even-if-im-the-reason-it-was-sitting-for-years/</link>
-      <pubDate>Wed, 04 Feb 2026 13:53:13 +0000</pubDate>
-      <guid>https://blog.alimov.top/will-this-snowmobile-run-even-if-im-the-reason-it-was-sitting-for-years/</guid>
-      <description>&lt;p&gt;Ты тоже из тех, кто постоянно что-то мастерит? Уверен, что таких, как ты, немало среди наших читателей RideApart. Я специально не стал говорить «завершитель проектов», потому что это совсем другая история, и я не хотел бы делать поспешные выводы.&lt;/p&gt;&#xA;&lt;p&gt;Признаюсь, сам я такой же. Проблема в том, что мне интересно очень многое, и я пытаюсь научиться делать это сам. Поэтому у меня нет стопки незаконченных проектов в одной конкретной области, которую можно было бы назвать «уголком стыда». Вместо этого у меня есть много разных проектов.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Вы испортили гаечный ключ на своем велосипеде: Что делать дальше?</title>
-      <link>https://blog.alimov.top/so-you-messed-up-wrenching-on-your-bike-what-do-you-do-next/</link>
-      <pubDate>Thu, 22 Jan 2026 12:52:10 +0000</pubDate>
-      <guid>https://blog.alimov.top/so-you-messed-up-wrenching-on-your-bike-what-do-you-do-next/</guid>
-      <description>&lt;p&gt;Одна из вещей, которые я по-настоящему люблю в Интернете, - это люди, которые очень увлечены чем-то, тратят тонны времени и энергии (а часто и денег, но ведь деньги не считаются, когда ты очень увлечен, не так ли?) на изучение всего, что связано с этим.&lt;/p&gt;&#xA;&lt;p&gt;А затем они делятся этой страстью с остальными. Во времена Flickr и форумов можно было найти длинные темы с подробным описанием того, как они сделали X сложную вещь со своим велосипедом, и как вы можете сделать это тоже. Целые объяснения, иногда с нарисованными от руки диаграммами, и все в таком духе. Это было очень похоже на цифровой эквивалент поиска группы друзей-единомышленников в своем районе, посиделок в их гараже, подвале или на кухне крошечной квартирки и простого выяснения, как изменить ту единственную вещь, которая сводит вас с ума в вашем мотоцикле.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Bearded Mechanic on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/bearded-mechanic/</link>
+		<description>Recent content in Bearded Mechanic on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 04 Feb 2026 13:53:13 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/bearded-mechanic/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Заведет ли этот снегоход, если я причина многолетнего простоя?</title>
+				<link>https://blog.alimov.top/will-this-snowmobile-run-even-if-im-the-reason-it-was-sitting-for-years/</link>
+				<pubDate>Wed, 04 Feb 2026 13:53:13 +0000</pubDate>
+				<guid>https://blog.alimov.top/will-this-snowmobile-run-even-if-im-the-reason-it-was-sitting-for-years/</guid>
+				<description>&lt;p&gt;Ты тоже из тех, кто постоянно что-то мастерит? Уверен, что таких, как ты, немало среди наших читателей RideApart. Я специально не стал говорить «завершитель проектов», потому что это совсем другая история, и я не хотел бы делать поспешные выводы.&lt;/p&gt;&#xA;&lt;p&gt;Признаюсь, сам я такой же. Проблема в том, что мне интересно очень многое, и я пытаюсь научиться делать это сам. Поэтому у меня нет стопки незаконченных проектов в одной конкретной области, которую можно было бы назвать «уголком стыда». Вместо этого у меня есть много разных проектов.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Вы испортили гаечный ключ на своем велосипеде: Что делать дальше?</title>
+				<link>https://blog.alimov.top/so-you-messed-up-wrenching-on-your-bike-what-do-you-do-next/</link>
+				<pubDate>Thu, 22 Jan 2026 12:52:10 +0000</pubDate>
+				<guid>https://blog.alimov.top/so-you-messed-up-wrenching-on-your-bike-what-do-you-do-next/</guid>
+				<description>&lt;p&gt;Одна из вещей, которые я по-настоящему люблю в Интернете, - это люди, которые очень увлечены чем-то, тратят тонны времени и энергии (а часто и денег, но ведь деньги не считаются, когда ты очень увлечен, не так ли?) на изучение всего, что связано с этим.&lt;/p&gt;&#xA;&lt;p&gt;А затем они делятся этой страстью с остальными. Во времена Flickr и форумов можно было найти длинные темы с подробным описанием того, как они сделали X сложную вещь со своим велосипедом, и как вы можете сделать это тоже. Целые объяснения, иногда с нарисованными от руки диаграммами, и все в таком духе. Это было очень похоже на цифровой эквивалент поиска группы друзей-единомышленников в своем районе, посиделок в их гараже, подвале или на кухне крошечной квартирки и простого выяснения, как изменить ту единственную вещь, которая сводит вас с ума в вашем мотоцикле.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

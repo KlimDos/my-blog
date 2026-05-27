@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Snowmobilers on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/snowmobilers/</link>
-    <description>Recent content in Snowmobilers on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Tue, 17 Feb 2026 12:18:28 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/snowmobilers/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Эта система рюкзаков может помочь вам выжить в лавине, но она не лишена критики</title>
-      <link>https://blog.alimov.top/this-backpack-system-could-help-you-survive-an-avalanche-but-its-not-without-cri/</link>
-      <pubDate>Tue, 17 Feb 2026 12:18:28 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-backpack-system-could-help-you-survive-an-avalanche-but-its-not-without-cri/</guid>
-      <description>&lt;p&gt;По сравнению почти со всеми другими увлечениями, мотоспорт гораздо опаснее, и нам это нравится. Я ни в коем случае не хочу сказать, что мы хотим умереть во время следующей вылазки, это далеко не так, но именно близость к опасности заставляет многих из нас чувствовать себя настоящим. Некоторые из нас любят подходить к этой опасности очень близко, а другим достаточно знать, что она где-то рядом. Всех любителей активного отдыха объединяет то, что все мы хотим выйти на улицу и сделать это снова - именно здесь на помощь приходит рюкзачная система SBX от Safeback.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Snowmobilers on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/snowmobilers/</link>
+		<description>Recent content in Snowmobilers on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 17 Feb 2026 12:18:28 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/snowmobilers/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Эта система рюкзаков может помочь вам выжить в лавине, но она не лишена критики</title>
+				<link>https://blog.alimov.top/this-backpack-system-could-help-you-survive-an-avalanche-but-its-not-without-cri/</link>
+				<pubDate>Tue, 17 Feb 2026 12:18:28 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-backpack-system-could-help-you-survive-an-avalanche-but-its-not-without-cri/</guid>
+				<description>&lt;p&gt;По сравнению почти со всеми другими увлечениями, мотоспорт гораздо опаснее, и нам это нравится. Я ни в коем случае не хочу сказать, что мы хотим умереть во время следующей вылазки, это далеко не так, но именно близость к опасности заставляет многих из нас чувствовать себя настоящим. Некоторые из нас любят подходить к этой опасности очень близко, а другим достаточно знать, что она где-то рядом. Всех любителей активного отдыха объединяет то, что все мы хотим выйти на улицу и сделать это снова - именно здесь на помощь приходит рюкзачная система SBX от Safeback.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

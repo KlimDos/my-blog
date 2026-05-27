@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Monowheel on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/monowheel/</link>
-    <description>Recent content in Monowheel on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Fri, 27 Feb 2026 14:31:16 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/monowheel/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Самодельный мотоцикл со всеми колесами едет на одном шаре</title>
-      <link>https://blog.alimov.top/this-homemade-motorcycle-has-all-the-wheels-and-rides-on-a-single-ball/</link>
-      <pubDate>Fri, 27 Feb 2026 14:31:16 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-homemade-motorcycle-has-all-the-wheels-and-rides-on-a-single-ball/</guid>
-      <description>&lt;p&gt;Вы когда-нибудь испытывали неприятное ощущение, когда кто-то проносился мимо вас на моноколесном скейтборде? Думаю, что слово &amp;ldquo;неприятное&amp;rdquo; здесь подходит, потому что такие устройства относительно тихие, в отличие от классических скейтбордов и лонгбордов. Когда кто-то проносится мимо вас по тротуару (или по улице) на моноколесе, это действительно становится неожиданностью.&lt;/p&gt;&#xA;&lt;p&gt;Теперь представьте на секунду, что было бы, если кто-то взял эту концепцию и превратил ее в транспортное средство, на котором можно ездить как на мотоцикле. Только вместо одного колеса у него их много, и все они работают вместе, чтобы это устройство двигалось и выглядело как большой гимнастический мяч. Оно действительно соприкасается с землей и перемещает райдера.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Monowheel on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/monowheel/</link>
+		<description>Recent content in Monowheel on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 27 Feb 2026 14:31:16 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/monowheel/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Самодельный мотоцикл со всеми колесами едет на одном шаре</title>
+				<link>https://blog.alimov.top/this-homemade-motorcycle-has-all-the-wheels-and-rides-on-a-single-ball/</link>
+				<pubDate>Fri, 27 Feb 2026 14:31:16 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-homemade-motorcycle-has-all-the-wheels-and-rides-on-a-single-ball/</guid>
+				<description>&lt;p&gt;Вы когда-нибудь испытывали неприятное ощущение, когда кто-то проносился мимо вас на моноколесном скейтборде? Думаю, что слово &amp;ldquo;неприятное&amp;rdquo; здесь подходит, потому что такие устройства относительно тихие, в отличие от классических скейтбордов и лонгбордов. Когда кто-то проносится мимо вас по тротуару (или по улице) на моноколесе, это действительно становится неожиданностью.&lt;/p&gt;&#xA;&lt;p&gt;Теперь представьте на секунду, что было бы, если кто-то взял эту концепцию и превратил ее в транспортное средство, на котором можно ездить как на мотоцикле. Только вместо одного колеса у него их много, и все они работают вместе, чтобы это устройство двигалось и выглядело как большой гимнастический мяч. Оно действительно соприкасается с землей и перемещает райдера.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

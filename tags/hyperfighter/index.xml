@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hyperfighter on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/hyperfighter/</link>
-    <description>Recent content in Hyperfighter on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Tue, 21 Apr 2026 10:52:14 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/hyperfighter/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Сайт Damon Motorcycles больше не работает</title>
-      <link>https://blog.alimov.top/looks-like-the-damon-motorcycles-website-no-longer-exists/</link>
-      <pubDate>Tue, 21 Apr 2026 10:52:14 +0000</pubDate>
-      <guid>https://blog.alimov.top/looks-like-the-damon-motorcycles-website-no-longer-exists/</guid>
-      <description>&lt;p&gt;Дела у Damon Motorcycles шли туго уже давно, и вот только месяц назад казалось, что чуть ли не все сотрудники разом уволились. Теперь компания, которая всегда стремилась выглядеть как можно более технологичной и передовой, кажется, закрыла свой официальный сайт.&lt;/p&gt;&#xA;&lt;p&gt;По состоянию на 20 апреля 2026 года, если вы зайдёте на Damon.com, вы обнаружите только сообщение об ошибке &amp;ldquo;Страница не найдена&amp;rdquo;. Под заголовком страницы отображается текст &amp;ldquo;Похоже, вы перешли по неработающей ссылке или ввели адрес, которого не существует в Netlify&amp;rdquo;.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Hyperfighter on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/hyperfighter/</link>
+		<description>Recent content in Hyperfighter on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 21 Apr 2026 10:52:14 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/hyperfighter/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Сайт Damon Motorcycles больше не работает</title>
+				<link>https://blog.alimov.top/looks-like-the-damon-motorcycles-website-no-longer-exists/</link>
+				<pubDate>Tue, 21 Apr 2026 10:52:14 +0000</pubDate>
+				<guid>https://blog.alimov.top/looks-like-the-damon-motorcycles-website-no-longer-exists/</guid>
+				<description>&lt;p&gt;Дела у Damon Motorcycles шли туго уже давно, и вот только месяц назад казалось, что чуть ли не все сотрудники разом уволились. Теперь компания, которая всегда стремилась выглядеть как можно более технологичной и передовой, кажется, закрыла свой официальный сайт.&lt;/p&gt;&#xA;&lt;p&gt;По состоянию на 20 апреля 2026 года, если вы зайдёте на Damon.com, вы обнаружите только сообщение об ошибке &amp;ldquo;Страница не найдена&amp;rdquo;. Под заголовком страницы отображается текст &amp;ldquo;Похоже, вы перешли по неработающей ссылке или ввели адрес, которого не существует в Netlify&amp;rdquo;.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Rants on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/categories/rants/</link>
-    <description>Recent content in Rants on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Tue, 31 Mar 2026 11:38:04 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/categories/rants/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>ИИ создаёт целые курсы по безопасности на мотоцикле, и это очень глупо</title>
-      <link>https://blog.alimov.top/ai-is-hallucinating-entire-motorcycle-safety-courses-now-and-its-very-dumb/</link>
-      <pubDate>Tue, 31 Mar 2026 11:38:04 +0000</pubDate>
-      <guid>https://blog.alimov.top/ai-is-hallucinating-entire-motorcycle-safety-courses-now-and-its-very-dumb/</guid>
-      <description>&lt;p&gt;Слушайте, я не могу научить никого критическому мышлению. Именно поэтому я искренне надеюсь, что если вы читаете эту статью (или, впрочем, RideApart в целом; может быть, стоит целить высоко, да?), то у вас уже есть это самое критическое мышление. А также разумное понимание того, как отличить правду от вымысла, независимо от того, согласны вы с этим или нет.&lt;/p&gt;&#xA;&lt;p&gt;У меня есть чувство юмора по поводу большинства вещей, вероятно, включая те, по которым не стоит шутить. Но безопасность мотоцикла - это тема, которую я воспринимаю очень серьезно, и именно поэтому меня бесит, что кто-то, кажется, воспользовался несчастным пробелом в возможностях базового курса безопасности MSF в Северном Иллинойсе/Чикаго, чтобы полностью выдумать курс, которого, кажется, никогда не существовало.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Космический стиль от Kushitani: почему это не настоящая мотоодежда?</title>
-      <link>https://blog.alimov.top/this-new-moto-apparel-from-kushitani-is-gundam-but-why-isnt-it-actual-moto-gear/</link>
-      <pubDate>Mon, 16 Mar 2026 12:09:27 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-new-moto-apparel-from-kushitani-is-gundam-but-why-isnt-it-actual-moto-gear/</guid>
-      <description>&lt;p&gt;Если вы, как и я, по сути большой ребёнок с деньгами взрослого (при всех вариациях этих вещей), то, возможно, вы с нетерпением ждёте последней коллаборации японского производителя мотоэкипировки Kushitani. Ждёте с excitementом и, возможно, небольшим разочарованием, но об этом чуть позже.&lt;/p&gt;&#xA;&lt;p&gt;Сначала о хорошем: Strict-G объединилась с Kushitani, чтобы предложить специальную коллекцию мотоэкипировки Gundam, которую фанаты гигантских роботов со всего мира могут купить напрямую на официальном онлайн-магазине Bandai.&lt;/p&gt;&#xA;&lt;p&gt;Если вам нравятся дизайны одежды и поясных сумок (которые можно легко носить как crossbody), то это отличная новость. Но если вы, как и я, надеялись, что при участии Kushitani в коллекции появится и защитная мотоэкипировка Gundam, то мне придётся вас разочаровать.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Судя по всему, Harley-Davidson (все еще) делает фиолетовые мотоциклы</title>
-      <link>https://blog.alimov.top/apparently-harley-davidson-still-makes-purple-motorcycles/</link>
-      <pubDate>Tue, 27 Jan 2026 12:50:04 +0000</pubDate>
-      <guid>https://blog.alimov.top/apparently-harley-davidson-still-makes-purple-motorcycles/</guid>
-      <description>&lt;p&gt;Я первым признаю, когда ошибаюсь или когда не проявил должной осмотрительности. В данном случае последнее более уместно. На прошлой неделе я писал о новом пакете отделки Solo от Harley-Davidson для мотоциклов Street Bob, Heritage Softail и Street Glide 2026 года. В этом минималистичном варианте отделки предлагается только один цвет, правда, серый.&lt;/p&gt;&#xA;&lt;p&gt;Я задавался вопросом, почему производители мотоциклов следуют по пути Millennial Gray к будущему без цвета, и почему мотоциклист, который хочет получить бесцветную версию мотоцикла, должен довольствоваться ахроматическим цветом. В свое оправдание могу сказать, что это было скорее подражание тенденции, которая началась в 2010-х годах, когда миллениалы после окончания колледжа стали окрашивать свои дома в серый цвет.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>По какой-то причине Harley-Davidson станет серым для 2026 года</title>
-      <link>https://blog.alimov.top/harley-davidson-goes-millennial-grey-for-2026-for-some-reason/</link>
-      <pubDate>Thu, 22 Jan 2026 14:03:02 +0000</pubDate>
-      <guid>https://blog.alimov.top/harley-davidson-goes-millennial-grey-for-2026-for-some-reason/</guid>
-      <description>&lt;p&gt;На прошлой неделе Harley-Davidson представил остальную часть своего модельного ряда 2026 года, в который вошли модели Custom Vehicle Operation (CVO) - пять мотоциклов, которые &amp;ldquo;представляют собой вершину дизайна, технологий и производительности Harley-Davidson&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;По словам Harley-Davidson, это ограниченный выпуск суперпремиальных мотоциклов, которые отличаются &amp;ldquo;потрясающей отделкой, высокими техническими характеристиками и эксклюзивными компонентами&amp;rdquo;. Они также обойдутся вам в кругленькую сумму.&lt;/p&gt;&#xA;&lt;p&gt;Также на презентации новой модели был представлен пакет отделки Solo, который будет доступен для трех моделей мотоциклов Motor Co. в 2026 году. Этот пакет включает в себя сиденье в стиле &amp;ldquo;соло&amp;rdquo;, краску &amp;ldquo;Dark Billiard Gray&amp;rdquo; и литые алюминиевые диски&amp;hellip; и все. Пакет Solo Trim Package будет доступен для моделей Street Bob, Heritage Classic и Street Glide по цене $14 999, $19 999 и $24 999 соответственно.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Rants on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/categories/rants/</link>
+		<description>Recent content in Rants on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 31 Mar 2026 11:38:04 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/categories/rants/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>ИИ создаёт целые курсы по безопасности на мотоцикле, и это очень глупо</title>
+				<link>https://blog.alimov.top/ai-is-hallucinating-entire-motorcycle-safety-courses-now-and-its-very-dumb/</link>
+				<pubDate>Tue, 31 Mar 2026 11:38:04 +0000</pubDate>
+				<guid>https://blog.alimov.top/ai-is-hallucinating-entire-motorcycle-safety-courses-now-and-its-very-dumb/</guid>
+				<description>&lt;p&gt;Слушайте, я не могу научить никого критическому мышлению. Именно поэтому я искренне надеюсь, что если вы читаете эту статью (или, впрочем, RideApart в целом; может быть, стоит целить высоко, да?), то у вас уже есть это самое критическое мышление. А также разумное понимание того, как отличить правду от вымысла, независимо от того, согласны вы с этим или нет.&lt;/p&gt;&#xA;&lt;p&gt;У меня есть чувство юмора по поводу большинства вещей, вероятно, включая те, по которым не стоит шутить. Но безопасность мотоцикла - это тема, которую я воспринимаю очень серьезно, и именно поэтому меня бесит, что кто-то, кажется, воспользовался несчастным пробелом в возможностях базового курса безопасности MSF в Северном Иллинойсе/Чикаго, чтобы полностью выдумать курс, которого, кажется, никогда не существовало.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Космический стиль от Kushitani: почему это не настоящая мотоодежда?</title>
+				<link>https://blog.alimov.top/this-new-moto-apparel-from-kushitani-is-gundam-but-why-isnt-it-actual-moto-gear/</link>
+				<pubDate>Mon, 16 Mar 2026 12:09:27 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-new-moto-apparel-from-kushitani-is-gundam-but-why-isnt-it-actual-moto-gear/</guid>
+				<description>&lt;p&gt;Если вы, как и я, по сути большой ребёнок с деньгами взрослого (при всех вариациях этих вещей), то, возможно, вы с нетерпением ждёте последней коллаборации японского производителя мотоэкипировки Kushitani. Ждёте с excitementом и, возможно, небольшим разочарованием, но об этом чуть позже.&lt;/p&gt;&#xA;&lt;p&gt;Сначала о хорошем: Strict-G объединилась с Kushitani, чтобы предложить специальную коллекцию мотоэкипировки Gundam, которую фанаты гигантских роботов со всего мира могут купить напрямую на официальном онлайн-магазине Bandai.&lt;/p&gt;&#xA;&lt;p&gt;Если вам нравятся дизайны одежды и поясных сумок (которые можно легко носить как crossbody), то это отличная новость. Но если вы, как и я, надеялись, что при участии Kushitani в коллекции появится и защитная мотоэкипировка Gundam, то мне придётся вас разочаровать.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Судя по всему, Harley-Davidson (все еще) делает фиолетовые мотоциклы</title>
+				<link>https://blog.alimov.top/apparently-harley-davidson-still-makes-purple-motorcycles/</link>
+				<pubDate>Tue, 27 Jan 2026 12:50:04 +0000</pubDate>
+				<guid>https://blog.alimov.top/apparently-harley-davidson-still-makes-purple-motorcycles/</guid>
+				<description>&lt;p&gt;Я первым признаю, когда ошибаюсь или когда не проявил должной осмотрительности. В данном случае последнее более уместно. На прошлой неделе я писал о новом пакете отделки Solo от Harley-Davidson для мотоциклов Street Bob, Heritage Softail и Street Glide 2026 года. В этом минималистичном варианте отделки предлагается только один цвет, правда, серый.&lt;/p&gt;&#xA;&lt;p&gt;Я задавался вопросом, почему производители мотоциклов следуют по пути Millennial Gray к будущему без цвета, и почему мотоциклист, который хочет получить бесцветную версию мотоцикла, должен довольствоваться ахроматическим цветом. В свое оправдание могу сказать, что это было скорее подражание тенденции, которая началась в 2010-х годах, когда миллениалы после окончания колледжа стали окрашивать свои дома в серый цвет.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>По какой-то причине Harley-Davidson станет серым для 2026 года</title>
+				<link>https://blog.alimov.top/harley-davidson-goes-millennial-grey-for-2026-for-some-reason/</link>
+				<pubDate>Thu, 22 Jan 2026 14:03:02 +0000</pubDate>
+				<guid>https://blog.alimov.top/harley-davidson-goes-millennial-grey-for-2026-for-some-reason/</guid>
+				<description>&lt;p&gt;На прошлой неделе Harley-Davidson представил остальную часть своего модельного ряда 2026 года, в который вошли модели Custom Vehicle Operation (CVO) - пять мотоциклов, которые &amp;ldquo;представляют собой вершину дизайна, технологий и производительности Harley-Davidson&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;По словам Harley-Davidson, это ограниченный выпуск суперпремиальных мотоциклов, которые отличаются &amp;ldquo;потрясающей отделкой, высокими техническими характеристиками и эксклюзивными компонентами&amp;rdquo;. Они также обойдутся вам в кругленькую сумму.&lt;/p&gt;&#xA;&lt;p&gt;Также на презентации новой модели был представлен пакет отделки Solo, который будет доступен для трех моделей мотоциклов Motor Co. в 2026 году. Этот пакет включает в себя сиденье в стиле &amp;ldquo;соло&amp;rdquo;, краску &amp;ldquo;Dark Billiard Gray&amp;rdquo; и литые алюминиевые диски&amp;hellip; и все. Пакет Solo Trim Package будет доступен для моделей Street Bob, Heritage Classic и Street Glide по цене $14 999, $19 999 и $24 999 соответственно.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

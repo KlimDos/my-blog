@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Apple Carplay on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/apple-carplay/</link>
-    <description>Recent content in Apple Carplay on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 05 Feb 2026 12:06:34 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/apple-carplay/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Есть ли место для Apple CarPlay в катерах PWC? Sea-Doo говорит: &#34;Да</title>
-      <link>https://blog.alimov.top/is-there-a-place-for-apple-carplay-in-pwcs-sea-doo-says-yes/</link>
-      <pubDate>Thu, 05 Feb 2026 12:06:34 +0000</pubDate>
-      <guid>https://blog.alimov.top/is-there-a-place-for-apple-carplay-in-pwcs-sea-doo-says-yes/</guid>
-      <description>&lt;p&gt;Apple CarPlay теперь повсюду. И я имею в виду везде. Практически каждый новый автомобиль, продаваемый сегодня, имеет эту функцию в стандартной комплектации, независимо от цены и сегмента. Черт возьми, я даже установил CarPlay в свой 14-летний автомобиль для автокросса, и в этом контексте он имеет идеальный смысл. Навигация, музыка, звонки, сообщения. Это действительно полезно, когда вы заперты в металлической коробке, имея дело с пробками, поручениями и повседневной жизнью.&lt;/p&gt;&#xA;&lt;p&gt;Именно поэтому Sea-Doo, потенциально способная получить Apple CarPlay, кажется&amp;hellip; странной.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Apple Carplay on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/apple-carplay/</link>
+		<description>Recent content in Apple Carplay on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 05 Feb 2026 12:06:34 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/apple-carplay/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Есть ли место для Apple CarPlay в катерах PWC? Sea-Doo говорит: &#34;Да</title>
+				<link>https://blog.alimov.top/is-there-a-place-for-apple-carplay-in-pwcs-sea-doo-says-yes/</link>
+				<pubDate>Thu, 05 Feb 2026 12:06:34 +0000</pubDate>
+				<guid>https://blog.alimov.top/is-there-a-place-for-apple-carplay-in-pwcs-sea-doo-says-yes/</guid>
+				<description>&lt;p&gt;Apple CarPlay теперь повсюду. И я имею в виду везде. Практически каждый новый автомобиль, продаваемый сегодня, имеет эту функцию в стандартной комплектации, независимо от цены и сегмента. Черт возьми, я даже установил CarPlay в свой 14-летний автомобиль для автокросса, и в этом контексте он имеет идеальный смысл. Навигация, музыка, звонки, сообщения. Это действительно полезно, когда вы заперты в металлической коробке, имея дело с пробками, поручениями и повседневной жизнью.&lt;/p&gt;&#xA;&lt;p&gt;Именно поэтому Sea-Doo, потенциально способная получить Apple CarPlay, кажется&amp;hellip; странной.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Timeless 1200 on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/timeless-1200/</link>
-    <description>Recent content in Timeless 1200 on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Mon, 04 May 2026 11:59:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/timeless-1200/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Компания представила мотоцикл, очень похожий на Triumph Bonneville</title>
-      <link>https://blog.alimov.top/this-motorcycle-company-just-launched-a-not-so-new-triumph-bonneville-lookalike/</link>
-      <pubDate>Mon, 04 May 2026 11:59:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-motorcycle-company-just-launched-a-not-so-new-triumph-bonneville-lookalike/</guid>
-      <description>&lt;p&gt;Morbidelli только что представила в Китае модель Timeless 1200. Если этот мотоцикл кажется вам знакомым, то это не случайно. Вы его уже видели, просто под другим именем. Это та же самая машина, которая была известна в Европе как Brixton Cromwell 1200 X и в Китае как Gaokin GK1200. Теперь она снова представлена, но уже как Morbidelli Timeless 1200. Честно говоря, название — это, пожалуй, самое точное в этом мотоцикле.&lt;/p&gt;&#xA;&lt;p&gt;Действительно, забавно. Мотоцикл с названием &amp;ldquo;Timeless&amp;rdquo; (вечный), по сути, представляет собой трехлетнюю платформу, которую снова выдают за новинку. Но с другой стороны, это тоже правда. Формула ретро-байков в стиле Bonneville с параллельным twin-цилиндровым двигателем не менялась десятилетиями и, скорее всего, не изменится в ближайшее время.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Timeless 1200 on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/timeless-1200/</link>
+		<description>Recent content in Timeless 1200 on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 04 May 2026 11:59:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/timeless-1200/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Компания представила мотоцикл, очень похожий на Triumph Bonneville</title>
+				<link>https://blog.alimov.top/this-motorcycle-company-just-launched-a-not-so-new-triumph-bonneville-lookalike/</link>
+				<pubDate>Mon, 04 May 2026 11:59:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-motorcycle-company-just-launched-a-not-so-new-triumph-bonneville-lookalike/</guid>
+				<description>&lt;p&gt;Morbidelli только что представила в Китае модель Timeless 1200. Если этот мотоцикл кажется вам знакомым, то это не случайно. Вы его уже видели, просто под другим именем. Это та же самая машина, которая была известна в Европе как Brixton Cromwell 1200 X и в Китае как Gaokin GK1200. Теперь она снова представлена, но уже как Morbidelli Timeless 1200. Честно говоря, название — это, пожалуй, самое точное в этом мотоцикле.&lt;/p&gt;&#xA;&lt;p&gt;Действительно, забавно. Мотоцикл с названием &amp;ldquo;Timeless&amp;rdquo; (вечный), по сути, представляет собой трехлетнюю платформу, которую снова выдают за новинку. Но с другой стороны, это тоже правда. Формула ретро-байков в стиле Bonneville с параллельным twin-цилиндровым двигателем не менялась десятилетиями и, скорее всего, не изменится в ближайшее время.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

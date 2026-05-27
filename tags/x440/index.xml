@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>X440 on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/x440/</link>
-    <description>Recent content in X440 on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Wed, 11 Feb 2026 13:23:25 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/x440/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Харли-Дэвидсон получил карт-бланш на Индию — и это может всё изменить</title>
-      <link>https://blog.alimov.top/harley-just-got-a-free-pass-into-india-and-this-might-change-everything/</link>
-      <pubDate>Wed, 11 Feb 2026 13:23:25 +0000</pubDate>
-      <guid>https://blog.alimov.top/harley-just-got-a-free-pass-into-india-and-this-might-change-everything/</guid>
-      <description>&lt;p&gt;Бренд Harley-Davidson по-прежнему занимает особое место в культуре, но будем реалистами, его нынешнее положение далеко от идеального. Хотя бренд все еще пользуется уважением и мгновенно узнаваем, его актуальность среди молодых райдеров во всем мире снизилась. Притяжение сместилось в сторону более компактных, легких и доступных мотоциклов, а не культа.&lt;/p&gt;&#xA;&lt;p&gt;Конечно, преданные поклонники Harley-Davidson чрезвычайно увлечены. Однако их энтузиазм порой создает слишком оптимистичную картину состояния компании. Тем не менее, факт остается фактом: многие нынешние райдеры отдают предпочтение доступности над избыточностью, а Harley-Davidson никогда не был брендом, который мог бы похвастаться разумностью.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>X440 on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/x440/</link>
+		<description>Recent content in X440 on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 11 Feb 2026 13:23:25 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/x440/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Харли-Дэвидсон получил карт-бланш на Индию — и это может всё изменить</title>
+				<link>https://blog.alimov.top/harley-just-got-a-free-pass-into-india-and-this-might-change-everything/</link>
+				<pubDate>Wed, 11 Feb 2026 13:23:25 +0000</pubDate>
+				<guid>https://blog.alimov.top/harley-just-got-a-free-pass-into-india-and-this-might-change-everything/</guid>
+				<description>&lt;p&gt;Бренд Harley-Davidson по-прежнему занимает особое место в культуре, но будем реалистами, его нынешнее положение далеко от идеального. Хотя бренд все еще пользуется уважением и мгновенно узнаваем, его актуальность среди молодых райдеров во всем мире снизилась. Притяжение сместилось в сторону более компактных, легких и доступных мотоциклов, а не культа.&lt;/p&gt;&#xA;&lt;p&gt;Конечно, преданные поклонники Harley-Davidson чрезвычайно увлечены. Однако их энтузиазм порой создает слишком оптимистичную картину состояния компании. Тем не менее, факт остается фактом: многие нынешние райдеры отдают предпочтение доступности над избыточностью, а Harley-Davidson никогда не был брендом, который мог бы похвастаться разумностью.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

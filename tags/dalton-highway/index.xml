@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dalton Highway on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/dalton-highway/</link>
-    <description>Recent content in Dalton Highway on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Mon, 18 May 2026 11:01:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/dalton-highway/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Федеральные земли Аляски переданы: как это скажется на твоих off-road зонах и охотничьих угодьях</title>
-      <link>https://blog.alimov.top/alaskas-federal-public-lands-transfer-shows-how-feds-will-sell-your-off-road-and/</link>
-      <pubDate>Mon, 18 May 2026 11:01:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/alaskas-federal-public-lands-transfer-shows-how-feds-will-sell-your-off-road-and/</guid>
-      <description>&lt;p&gt;Администрация Трампа делает все возможное, чтобы распродать наши общественные земли. Очередной атакой стало распоряжение Министерства внутренних дел США (DOI), которое сняло федеральную защиту с земель, расположенных вдоль шоссе Далтон на Аляске. Шоссе Далтон — это в основном гравийная дорога, которую можно увидеть в нескольких документальных фильмах о мотоциклах, и место, которое я сам очень хочу посетить.&lt;/p&gt;&#xA;&lt;p&gt;Если вы не знакомы с Далтоном и его экосистемой, то это дом для карибу, мигрирующих птиц и невероятно pristine wilderness, каких не найти за пределами Аляски. Если вы когда-либо видели видео мотоциклистов или охотников, едущих в сторону залива Прудхо, они, скорее всего, использовали Далтон. Наш друг Itchy Boots проехал по этому маршруту несколько лет назад.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Dalton Highway on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/dalton-highway/</link>
+		<description>Recent content in Dalton Highway on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 18 May 2026 11:01:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/dalton-highway/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Федеральные земли Аляски переданы: как это скажется на твоих off-road зонах и охотничьих угодьях</title>
+				<link>https://blog.alimov.top/alaskas-federal-public-lands-transfer-shows-how-feds-will-sell-your-off-road-and/</link>
+				<pubDate>Mon, 18 May 2026 11:01:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/alaskas-federal-public-lands-transfer-shows-how-feds-will-sell-your-off-road-and/</guid>
+				<description>&lt;p&gt;Администрация Трампа делает все возможное, чтобы распродать наши общественные земли. Очередной атакой стало распоряжение Министерства внутренних дел США (DOI), которое сняло федеральную защиту с земель, расположенных вдоль шоссе Далтон на Аляске. Шоссе Далтон — это в основном гравийная дорога, которую можно увидеть в нескольких документальных фильмах о мотоциклах, и место, которое я сам очень хочу посетить.&lt;/p&gt;&#xA;&lt;p&gt;Если вы не знакомы с Далтоном и его экосистемой, то это дом для карибу, мигрирующих птиц и невероятно pristine wilderness, каких не найти за пределами Аляски. Если вы когда-либо видели видео мотоциклистов или охотников, едущих в сторону залива Прудхо, они, скорее всего, использовали Далтон. Наш друг Itchy Boots проехал по этому маршруту несколько лет назад.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

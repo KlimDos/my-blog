@@ -1,33 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Vespa on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/vespa/</link>
-    <description>Recent content in Vespa on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:39:37 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/vespa/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Гонки Vespa на rooftop-трек: звучит скучно, а выглядит — огонь!</title>
-      <link>https://blog.alimov.top/a-bunch-of-vespa-scooters-once-raced-on-a-rooftop-race-track-and-its-so-much-coo/</link>
-      <pubDate>Tue, 28 Apr 2026 11:39:37 +0000</pubDate>
-      <guid>https://blog.alimov.top/a-bunch-of-vespa-scooters-once-raced-on-a-rooftop-race-track-and-its-so-much-coo/</guid>
-      <description>&lt;p&gt;23 апреля 2026 года марка Vespa отметила свой 80-летний юбилей, и самое время вспомнить о сумасшедших трюках, которые исполняли ваши друзья на этих скутерах. Разве не для этого существуют дни рождения? Я тоже так подумал!&lt;/p&gt;&#xA;&lt;p&gt;Примерно 15 лет назад, в 2011 году, толпа веспистов (надеюсь, это правильное коллективное название) descended на очень специальную гоночную трассу в Италии. Нет, не на ту. И не на ту тоже, хотя, скорее всего, скутеры Vespa когда-то были на большинстве трасс, о которых вы думаете.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Восьмидесятилетие Vespa: очаровательные рекламные плакаты из прошлого</title>
-      <link>https://blog.alimov.top/vespa-just-turned-80-and-look-at-these-charming-ads-from-its-past/</link>
-      <pubDate>Mon, 27 Apr 2026 11:10:31 +0000</pubDate>
-      <guid>https://blog.alimov.top/vespa-just-turned-80-and-look-at-these-charming-ads-from-its-past/</guid>
-      <description>&lt;p&gt;В идеале, цель любой рекламы — сделать так, чтобы рекламируемый продукт запомнился вам. В идеале, это происходит потому, что вы хотите узнать о нём больше или купить его, испытать его или как-то принять в нём участие. Возможно, он вас просто сделает счастливым, или, если это не получается, то хотя бы удивит вас настолько, что вы его запомните.&lt;/p&gt;&#xA;&lt;p&gt;Если вы не знали, любимый бренд скутеров всего мира, Vespa, отметил недавно свой 80-летний юбилей. Да, 23 апреля 1946 года был тот самый день, когда этот очаровательный маленький «шершень» появился на свет, и с тех пор он никогда не исчезал.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>У Vespa появились самые маленькие скутеры с дисковыми тормозами со всех сторон</title>
-      <link>https://blog.alimov.top/vespas-smallest-scooters-finally-get-disc-brakes-all-around-in-the-year-2026/</link>
-      <pubDate>Sat, 21 Mar 2026 12:53:01 +0000</pubDate>
-      <guid>https://blog.alimov.top/vespas-smallest-scooters-finally-get-disc-brakes-all-around-in-the-year-2026/</guid>
-      <description>&lt;p&gt;Середина марта, а в стране Vespa уже весна. Откуда я знаю? Да потому, что вышли обновления Primavera и Sprint S на 2026 год, и это не просто новая палитра цветов, которую предлагает Piaggio для поклонников Vespa.&lt;/p&gt;&#xA;&lt;p&gt;Начнем с самой большой новости: никаких барабанных тормозов сзади! Да, вы правильно прочитали; независимо от того, выберете ли вы версию своего любимого стильного скутера объемом 50cc, 125cc, 150cc или EV, теперь у вас будет полный комплект дискового тормоза с 220-мм стальным тормозным диском и двухпоршневым суппортом сзади. На переднем колесе уже был дисковый тормоз, и ABS также идет в стандартной комплектации, поэтому останавливаться на любом из скутеров Vespa 2026 года должно быть еще лучше.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Vespa on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/vespa/</link>
+		<description>Recent content in Vespa on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 27 May 2026 11:44:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/vespa/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Vespa отзывает все скутеры Officina 8 в США из-за проблем с зеркалом</title>
+				<link>https://blog.alimov.top/vespa-is-recalling-all-its-officina-8-scooters-in-us-over-a-mirror-mixup/</link>
+				<pubDate>Wed, 27 May 2026 11:44:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/vespa-is-recalling-all-its-officina-8-scooters-in-us-over-a-mirror-mixup/</guid>
+				<description>&lt;p&gt;Красивая ливрея Officina 8, которую Piaggio Group нанесла на некоторые модели скутеров Vespa для 2026 года, вам знакома? Речь идет о GTV 310, Primavera 150 и Primavera 50. Если вы являетесь владельцем одного из этих скутеров в США, то вам следует знать о новой отзывной кампании.&lt;/p&gt;&#xA;&lt;p&gt;Примерно 285 скутеров участвуют в этой отзывной кампании, что составляет 100% от общего количества, согласно записям Piaggio Group Americas. Проблема связана с зеркалами на скутерах в этой ливрее, которые, по всей видимости, являются зеркалами для европейского рынка, установленными на концах руля.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Гонки Vespa на rooftop-трек: звучит скучно, а выглядит — огонь!</title>
+				<link>https://blog.alimov.top/a-bunch-of-vespa-scooters-once-raced-on-a-rooftop-race-track-and-its-so-much-coo/</link>
+				<pubDate>Tue, 28 Apr 2026 11:39:37 +0000</pubDate>
+				<guid>https://blog.alimov.top/a-bunch-of-vespa-scooters-once-raced-on-a-rooftop-race-track-and-its-so-much-coo/</guid>
+				<description>&lt;p&gt;23 апреля 2026 года марка Vespa отметила свой 80-летний юбилей, и самое время вспомнить о сумасшедших трюках, которые исполняли ваши друзья на этих скутерах. Разве не для этого существуют дни рождения? Я тоже так подумал!&lt;/p&gt;&#xA;&lt;p&gt;Примерно 15 лет назад, в 2011 году, толпа веспистов (надеюсь, это правильное коллективное название) descended на очень специальную гоночную трассу в Италии. Нет, не на ту. И не на ту тоже, хотя, скорее всего, скутеры Vespa когда-то были на большинстве трасс, о которых вы думаете.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Восьмидесятилетие Vespa: очаровательные рекламные плакаты из прошлого</title>
+				<link>https://blog.alimov.top/vespa-just-turned-80-and-look-at-these-charming-ads-from-its-past/</link>
+				<pubDate>Mon, 27 Apr 2026 11:10:31 +0000</pubDate>
+				<guid>https://blog.alimov.top/vespa-just-turned-80-and-look-at-these-charming-ads-from-its-past/</guid>
+				<description>&lt;p&gt;В идеале, цель любой рекламы — сделать так, чтобы рекламируемый продукт запомнился вам. В идеале, это происходит потому, что вы хотите узнать о нём больше или купить его, испытать его или как-то принять в нём участие. Возможно, он вас просто сделает счастливым, или, если это не получается, то хотя бы удивит вас настолько, что вы его запомните.&lt;/p&gt;&#xA;&lt;p&gt;Если вы не знали, любимый бренд скутеров всего мира, Vespa, отметил недавно свой 80-летний юбилей. Да, 23 апреля 1946 года был тот самый день, когда этот очаровательный маленький «шершень» появился на свет, и с тех пор он никогда не исчезал.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>У Vespa появились самые маленькие скутеры с дисковыми тормозами со всех сторон</title>
+				<link>https://blog.alimov.top/vespas-smallest-scooters-finally-get-disc-brakes-all-around-in-the-year-2026/</link>
+				<pubDate>Sat, 21 Mar 2026 12:53:01 +0000</pubDate>
+				<guid>https://blog.alimov.top/vespas-smallest-scooters-finally-get-disc-brakes-all-around-in-the-year-2026/</guid>
+				<description>&lt;p&gt;Середина марта, а в стране Vespa уже весна. Откуда я знаю? Да потому, что вышли обновления Primavera и Sprint S на 2026 год, и это не просто новая палитра цветов, которую предлагает Piaggio для поклонников Vespa.&lt;/p&gt;&#xA;&lt;p&gt;Начнем с самой большой новости: никаких барабанных тормозов сзади! Да, вы правильно прочитали; независимо от того, выберете ли вы версию своего любимого стильного скутера объемом 50cc, 125cc, 150cc или EV, теперь у вас будет полный комплект дискового тормоза с 220-мм стальным тормозным диском и двухпоршневым суппортом сзади. На переднем колесе уже был дисковый тормоз, и ABS также идет в стандартной комплектации, поэтому останавливаться на любом из скутеров Vespa 2026 года должно быть еще лучше.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

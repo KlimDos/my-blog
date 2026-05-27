@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Harley Davidson Sportster on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/harley-davidson-sportster/</link>
-    <description>Recent content in Harley Davidson Sportster on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 14 May 2026 12:45:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/harley-davidson-sportster/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Китайский хардтейл-круизер с мотором от старого Sportster</title>
-      <link>https://blog.alimov.top/this-chinese-hardtail-cruiser-is-powered-by-an-old-sportster-motor/</link>
-      <pubDate>Thu, 14 May 2026 12:45:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-chinese-hardtail-cruiser-is-powered-by-an-old-sportster-motor/</guid>
-      <description>&lt;p&gt;Если вы, как и я, никогда не слышали о марке Bashan, то самое время познакомиться. Этот китайский производитель уже пару десятилетий выпускает небольшие одноцилиндровые мотоциклы, но, кажется, что-то новенькое уже на подходе.&lt;/p&gt;&#xA;&lt;p&gt;Последняя заявка на одобрение типа от китайского производителя - это 1200-кубический V-twin боббер, построенный на основе двигателя Shineray, который является копией мотора Harley-Davidson Sportster. Если вы не знаете, что такое Shineray, то я тоже был с вами солидарен. Оказывается, Shineray Group - это китайский производитель, специализирующийся на автомобилях, мотоциклах, сельхозтехнике и оборудовании, и владеющий итальянским брендом SWM.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Harley Davidson Sportster on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/harley-davidson-sportster/</link>
+		<description>Recent content in Harley Davidson Sportster on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 14 May 2026 12:45:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/harley-davidson-sportster/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Китайский хардтейл-круизер с мотором от старого Sportster</title>
+				<link>https://blog.alimov.top/this-chinese-hardtail-cruiser-is-powered-by-an-old-sportster-motor/</link>
+				<pubDate>Thu, 14 May 2026 12:45:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-chinese-hardtail-cruiser-is-powered-by-an-old-sportster-motor/</guid>
+				<description>&lt;p&gt;Если вы, как и я, никогда не слышали о марке Bashan, то самое время познакомиться. Этот китайский производитель уже пару десятилетий выпускает небольшие одноцилиндровые мотоциклы, но, кажется, что-то новенькое уже на подходе.&lt;/p&gt;&#xA;&lt;p&gt;Последняя заявка на одобрение типа от китайского производителя - это 1200-кубический V-twin боббер, построенный на основе двигателя Shineray, который является копией мотора Harley-Davidson Sportster. Если вы не знаете, что такое Shineray, то я тоже был с вами солидарен. Оказывается, Shineray Group - это китайский производитель, специализирующийся на автомобилях, мотоциклах, сельхозтехнике и оборудовании, и владеющий итальянским брендом SWM.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

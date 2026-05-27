@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mt 07 on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/mt-07/</link>
-    <description>Recent content in Mt 07 on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Wed, 18 Feb 2026 13:08:56 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/mt-07/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Этот дикий гибридный мотоцикл Yamaha имеет полный привод, и это безумие</title>
-      <link>https://blog.alimov.top/this-wild-hybrid-yamaha-motorcycle-has-all-wheel-drive-and-its-insane/</link>
-      <pubDate>Wed, 18 Feb 2026 13:08:56 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-wild-hybrid-yamaha-motorcycle-has-all-wheel-drive-and-its-insane/</guid>
-      <description>&lt;p&gt;Yamaha MT-07 - один из моих любимых мотоциклов всех времен. Он не самый быстрый на планете. Он не самый премиальный. Но этот 689-кубовый твин CP2, этот пробивной среднечастотник, это игривое шасси, то, как он заваливает переднее колесо только потому, что вы странно посмотрели на дроссель. Это чистая хулиганская энергия на двух колесах.&lt;/p&gt;&#xA;&lt;p&gt;Поэтому, когда небольшая французская инженерная компания Furion решила использовать MT-07 в качестве базы для своего последнего прототипа, я обратил внимание.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Mt 07 on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/mt-07/</link>
+		<description>Recent content in Mt 07 on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 18 Feb 2026 13:08:56 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/mt-07/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Этот дикий гибридный мотоцикл Yamaha имеет полный привод, и это безумие</title>
+				<link>https://blog.alimov.top/this-wild-hybrid-yamaha-motorcycle-has-all-wheel-drive-and-its-insane/</link>
+				<pubDate>Wed, 18 Feb 2026 13:08:56 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-wild-hybrid-yamaha-motorcycle-has-all-wheel-drive-and-its-insane/</guid>
+				<description>&lt;p&gt;Yamaha MT-07 - один из моих любимых мотоциклов всех времен. Он не самый быстрый на планете. Он не самый премиальный. Но этот 689-кубовый твин CP2, этот пробивной среднечастотник, это игривое шасси, то, как он заваливает переднее колесо только потому, что вы странно посмотрели на дроссель. Это чистая хулиганская энергия на двух колесах.&lt;/p&gt;&#xA;&lt;p&gt;Поэтому, когда небольшая французская инженерная компания Furion решила использовать MT-07 в качестве базы для своего последнего прототипа, я обратил внимание.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ducati Hypermotard on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/ducati-hypermotard/</link>
-    <description>Recent content in Ducati Hypermotard on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Tue, 19 May 2026 13:01:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/ducati-hypermotard/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Новый Hypermotard от Ducati — злой байк в чёрном</title>
-      <link>https://blog.alimov.top/ducatis-new-blacked-out-hypermotard-looks-like-a-super-moto-villain/</link>
-      <pubDate>Tue, 19 May 2026 13:01:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/ducatis-new-blacked-out-hypermotard-looks-like-a-super-moto-villain/</guid>
-      <description>&lt;p&gt;Компания Ducati только что представила новый Hypermotard 698 Mono Nera, и кажется, что инженеры взяли уже неплохой 77-сильный supermoto и решили, что ему не хватает драматизма.&lt;/p&gt;&#xA;&lt;p&gt;Теперь его полностью вычернили.&lt;/p&gt;&#xA;&lt;p&gt;Это не просто матовый черный цвет для повседневной езды. Этот мотоцикл выглядит так, будто его дизайнер всю жизнь мечтал о том, чтобы заваливаться в повороты, газовать на пешеходов и вывешивать колесо между светофорами. Новая версия Nera получила полностью черно-красную окраску с красными колесами, красными акцентами рамы, черными глушителями Termignoni и систему Quick Shift в стандартной комплектации.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Ducati Hypermotard on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/ducati-hypermotard/</link>
+		<description>Recent content in Ducati Hypermotard on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 19 May 2026 13:01:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/ducati-hypermotard/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Новый Hypermotard от Ducati — злой байк в чёрном</title>
+				<link>https://blog.alimov.top/ducatis-new-blacked-out-hypermotard-looks-like-a-super-moto-villain/</link>
+				<pubDate>Tue, 19 May 2026 13:01:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/ducatis-new-blacked-out-hypermotard-looks-like-a-super-moto-villain/</guid>
+				<description>&lt;p&gt;Компания Ducati только что представила новый Hypermotard 698 Mono Nera, и кажется, что инженеры взяли уже неплохой 77-сильный supermoto и решили, что ему не хватает драматизма.&lt;/p&gt;&#xA;&lt;p&gt;Теперь его полностью вычернили.&lt;/p&gt;&#xA;&lt;p&gt;Это не просто матовый черный цвет для повседневной езды. Этот мотоцикл выглядит так, будто его дизайнер всю жизнь мечтал о том, чтобы заваливаться в повороты, газовать на пешеходов и вывешивать колесо между светофорами. Новая версия Nera получила полностью черно-красную окраску с красными колесами, красными акцентами рамы, черными глушителями Termignoni и систему Quick Shift в стандартной комплектации.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

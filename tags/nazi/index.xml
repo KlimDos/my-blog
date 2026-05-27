@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Nazi on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/nazi/</link>
-    <description>Recent content in Nazi on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Wed, 04 Feb 2026 13:03:13 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/nazi/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Сообщается, что в этом году на выставке Colorado Motorcycle Expo был продан товар от нацистов</title>
-      <link>https://blog.alimov.top/a-vendor-at-the-colorado-motorcycle-expo-reportedly-featured-nazi-merchandise-th/</link>
-      <pubDate>Wed, 04 Feb 2026 13:03:13 +0000</pubDate>
-      <guid>https://blog.alimov.top/a-vendor-at-the-colorado-motorcycle-expo-reportedly-featured-nazi-merchandise-th/</guid>
-      <description>&lt;p&gt;Победители Второй мировой войны - нацисты - почему-то все еще существуют в 2026 году. После того как мой дед, а также многие другие деды и бабушки основательно поколотили их до почти полного исчезновения, их ряды так и не исчезли для многих людей, которые просто не могут смириться с тем, что они проиграли войну и, по сути, являются неудачниками.&lt;/p&gt;&#xA;&lt;p&gt;К несчастью для мотосообщества, многие купили мотоциклы после войны и передали свою ненависть, злодейство, пивные кишки и дурной вкус в мотоциклетных шлемах, так как тонна вне закона мотоциклетных MC поддерживала их мерзкий менталитет проигравших. Вот почему вы часто видите молнии SS, свастики и эмблемы головы смерти на мотоциклетной экипировке и эмблемах MC.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Nazi on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/nazi/</link>
+		<description>Recent content in Nazi on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 04 Feb 2026 13:03:13 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/nazi/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Сообщается, что в этом году на выставке Colorado Motorcycle Expo был продан товар от нацистов</title>
+				<link>https://blog.alimov.top/a-vendor-at-the-colorado-motorcycle-expo-reportedly-featured-nazi-merchandise-th/</link>
+				<pubDate>Wed, 04 Feb 2026 13:03:13 +0000</pubDate>
+				<guid>https://blog.alimov.top/a-vendor-at-the-colorado-motorcycle-expo-reportedly-featured-nazi-merchandise-th/</guid>
+				<description>&lt;p&gt;Победители Второй мировой войны - нацисты - почему-то все еще существуют в 2026 году. После того как мой дед, а также многие другие деды и бабушки основательно поколотили их до почти полного исчезновения, их ряды так и не исчезли для многих людей, которые просто не могут смириться с тем, что они проиграли войну и, по сути, являются неудачниками.&lt;/p&gt;&#xA;&lt;p&gt;К несчастью для мотосообщества, многие купили мотоциклы после войны и передали свою ненависть, злодейство, пивные кишки и дурной вкус в мотоциклетных шлемах, так как тонна вне закона мотоциклетных MC поддерживала их мерзкий менталитет проигравших. Вот почему вы часто видите молнии SS, свастики и эмблемы головы смерти на мотоциклетной экипировке и эмблемах MC.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

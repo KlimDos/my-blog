@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Utah Code on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/utah-code/</link>
-    <description>Recent content in Utah Code on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Mon, 20 Apr 2026 11:05:17 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/utah-code/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>В штате Юта мотоциклистам запретят фильтровать полосы движения</title>
-      <link>https://blog.alimov.top/utah-motorcycle-riders-lane-filtering-is-next-on-the-list-to-be-outlawed/</link>
-      <pubDate>Mon, 20 Apr 2026 11:05:17 +0000</pubDate>
-      <guid>https://blog.alimov.top/utah-motorcycle-riders-lane-filtering-is-next-on-the-list-to-be-outlawed/</guid>
-      <description>&lt;p&gt;Я человек, который любит исследования. Настолько, что, возможно, даже слишком сильно; вы не хотите знать, сколько кроличьих нор я регулярно проваливаюсь, пытаясь отследить информацию. И я практически всегда был таким; если есть первичный источник, я хочу добраться до него и как можно больше понять его. Использую ли я когда-нибудь эту информацию снова в будущем? Может быть! Я переполнен случайными фактами, и, видимо, мне нравится, что мой мозг работает именно так.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Utah Code on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/utah-code/</link>
+		<description>Recent content in Utah Code on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 20 Apr 2026 11:05:17 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/utah-code/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>В штате Юта мотоциклистам запретят фильтровать полосы движения</title>
+				<link>https://blog.alimov.top/utah-motorcycle-riders-lane-filtering-is-next-on-the-list-to-be-outlawed/</link>
+				<pubDate>Mon, 20 Apr 2026 11:05:17 +0000</pubDate>
+				<guid>https://blog.alimov.top/utah-motorcycle-riders-lane-filtering-is-next-on-the-list-to-be-outlawed/</guid>
+				<description>&lt;p&gt;Я человек, который любит исследования. Настолько, что, возможно, даже слишком сильно; вы не хотите знать, сколько кроличьих нор я регулярно проваливаюсь, пытаясь отследить информацию. И я практически всегда был таким; если есть первичный источник, я хочу добраться до него и как можно больше понять его. Использую ли я когда-нибудь эту информацию снова в будущем? Может быть! Я переполнен случайными фактами, и, видимо, мне нравится, что мой мозг работает именно так.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

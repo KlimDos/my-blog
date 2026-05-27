@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Powerful on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/powerful/</link>
-    <description>Recent content in Powerful on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Sun, 26 Apr 2026 12:55:30 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/powerful/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Электрический бой: Zero или SurRon для весеннего бездорожья?</title>
-      <link>https://blog.alimov.top/zero-vs-surron-dirt-bikes-which-is-best-in-the-spring-bear-woods/</link>
-      <pubDate>Sun, 26 Apr 2026 12:55:30 +0000</pubDate>
-      <guid>https://blog.alimov.top/zero-vs-surron-dirt-bikes-which-is-best-in-the-spring-bear-woods/</guid>
-      <description>&lt;p&gt;Честно говоря, я считаю, что электрические внедорожные мотоциклы займут достойное место в охотничьих угодьях. Не только потому, что они проще в обслуживании, тише и, как правило, мощнее своих бензиновых собратьев, но и потому, что на них проще ездить - не нужно беспокоиться о сцеплении, переключении передач и поддержании оборотов, чтобы мотоцикл не заглох.&lt;/p&gt;&#xA;&lt;p&gt;Теперь примените эти характеристики к охотничьим ситуациям, и вы получите отличную платформу для выезда, исследования и проезда на более дальние расстояния, прежде чем ваши ноги и легкие заставят вас пройти последние несколько миль пешком. Я сам взял Stark Varg EX в Орегон, чтобы охотиться на чернохвостых оленей, и хотя я не вернулся с заполненным разрешением на добычу, я смог добраться до мест, недоступных для других, или сделать это гораздо проще - и это сделало опыт намного лучше.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Powerful on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/powerful/</link>
+		<description>Recent content in Powerful on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 26 Apr 2026 12:55:30 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/powerful/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Электрический бой: Zero или SurRon для весеннего бездорожья?</title>
+				<link>https://blog.alimov.top/zero-vs-surron-dirt-bikes-which-is-best-in-the-spring-bear-woods/</link>
+				<pubDate>Sun, 26 Apr 2026 12:55:30 +0000</pubDate>
+				<guid>https://blog.alimov.top/zero-vs-surron-dirt-bikes-which-is-best-in-the-spring-bear-woods/</guid>
+				<description>&lt;p&gt;Честно говоря, я считаю, что электрические внедорожные мотоциклы займут достойное место в охотничьих угодьях. Не только потому, что они проще в обслуживании, тише и, как правило, мощнее своих бензиновых собратьев, но и потому, что на них проще ездить - не нужно беспокоиться о сцеплении, переключении передач и поддержании оборотов, чтобы мотоцикл не заглох.&lt;/p&gt;&#xA;&lt;p&gt;Теперь примените эти характеристики к охотничьим ситуациям, и вы получите отличную платформу для выезда, исследования и проезда на более дальние расстояния, прежде чем ваши ноги и легкие заставят вас пройти последние несколько миль пешком. Я сам взял Stark Varg EX в Орегон, чтобы охотиться на чернохвостых оленей, и хотя я не вернулся с заполненным разрешением на добычу, я смог добраться до мест, недоступных для других, или сделать это гораздо проще - и это сделало опыт намного лучше.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

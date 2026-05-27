@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Enrique Aldama on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/enrique-aldama/</link>
-    <description>Recent content in Enrique Aldama on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Fri, 13 Feb 2026 12:08:32 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/enrique-aldama/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dorna мертва, да здравствует MotoGP Sport Entertainment SL!</title>
-      <link>https://blog.alimov.top/dorna-is-dead-long-live-motogp-sport-entertainment-sl/</link>
-      <pubDate>Fri, 13 Feb 2026 12:08:32 +0000</pubDate>
-      <guid>https://blog.alimov.top/dorna-is-dead-long-live-motogp-sport-entertainment-sl/</guid>
-      <description>&lt;p&gt;MotoGP переживает одну из самых больших эпох перемен в спорте, если не самую большую, и я говорю не только о новом регламенте 2027 года. В 2025 году Европейская комиссия и регулирующие органы одобрили продажу Dorna Sports компании Liberty Media, которая приобрела 84% капитала за 3,1 миллиарда евро. Сейчас мы наблюдаем первые крупные перестановки после приобретения.&lt;/p&gt;&#xA;&lt;p&gt;Первое большое изменение в 2026 году - это новое название. Dorna в том виде, в котором мы ее знаем, умерла, а ее название официально изменено на MotoGP Sport Entertainment SL. Смена названия, продержавшегося в индустрии почти четыре десятилетия, интересна, но еще больше интригует включение в новое имя слова &amp;ldquo;MotoGP&amp;rdquo;, поскольку Dorna также управляла World Superbike (WorldSBK) и World Rally Championship (WRC).&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Enrique Aldama on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/enrique-aldama/</link>
+		<description>Recent content in Enrique Aldama on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 13 Feb 2026 12:08:32 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/enrique-aldama/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Dorna мертва, да здравствует MotoGP Sport Entertainment SL!</title>
+				<link>https://blog.alimov.top/dorna-is-dead-long-live-motogp-sport-entertainment-sl/</link>
+				<pubDate>Fri, 13 Feb 2026 12:08:32 +0000</pubDate>
+				<guid>https://blog.alimov.top/dorna-is-dead-long-live-motogp-sport-entertainment-sl/</guid>
+				<description>&lt;p&gt;MotoGP переживает одну из самых больших эпох перемен в спорте, если не самую большую, и я говорю не только о новом регламенте 2027 года. В 2025 году Европейская комиссия и регулирующие органы одобрили продажу Dorna Sports компании Liberty Media, которая приобрела 84% капитала за 3,1 миллиарда евро. Сейчас мы наблюдаем первые крупные перестановки после приобретения.&lt;/p&gt;&#xA;&lt;p&gt;Первое большое изменение в 2026 году - это новое название. Dorna в том виде, в котором мы ее знаем, умерла, а ее название официально изменено на MotoGP Sport Entertainment SL. Смена названия, продержавшегося в индустрии почти четыре десятилетия, интересна, но еще больше интригует включение в новое имя слова &amp;ldquo;MotoGP&amp;rdquo;, поскольку Dorna также управляла World Superbike (WorldSBK) и World Rally Championship (WRC).&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Storage Bin on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/storage-bin/</link>
-    <description>Recent content in Storage Bin on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Mon, 09 Feb 2026 12:01:59 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/storage-bin/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Скучный новый патент Honda сделал UTV еще более практичным</title>
-      <link>https://blog.alimov.top/hondas-boring-new-patent-just-made-utvs-even-more-practical/</link>
-      <pubDate>Mon, 09 Feb 2026 12:01:59 +0000</pubDate>
-      <guid>https://blog.alimov.top/hondas-boring-new-patent-just-made-utvs-even-more-practical/</guid>
-      <description>&lt;p&gt;Honda только что подала заявку на новый патент UTV, и это самое лучшее, что Honda могла сделать. Никакого дикого стайлинга. Никаких изысков. Просто более разумный способ выжать больше пользы из машины, которая уже существует для выполнения работы.&lt;/p&gt;&#xA;&lt;p&gt;В патенте описывается UTV с откидывающейся (самосвальной) кроватью и бункером для хранения, аккуратно расположенным под ней. Само по себе это не является революционным. Интересно то, как Honda соединяет эти два элемента механически, превращая простой ящик для хранения в нечто более безопасное, умное и действительно более практичное.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Storage Bin on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/storage-bin/</link>
+		<description>Recent content in Storage Bin on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 09 Feb 2026 12:01:59 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/storage-bin/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Скучный новый патент Honda сделал UTV еще более практичным</title>
+				<link>https://blog.alimov.top/hondas-boring-new-patent-just-made-utvs-even-more-practical/</link>
+				<pubDate>Mon, 09 Feb 2026 12:01:59 +0000</pubDate>
+				<guid>https://blog.alimov.top/hondas-boring-new-patent-just-made-utvs-even-more-practical/</guid>
+				<description>&lt;p&gt;Honda только что подала заявку на новый патент UTV, и это самое лучшее, что Honda могла сделать. Никакого дикого стайлинга. Никаких изысков. Просто более разумный способ выжать больше пользы из машины, которая уже существует для выполнения работы.&lt;/p&gt;&#xA;&lt;p&gt;В патенте описывается UTV с откидывающейся (самосвальной) кроватью и бункером для хранения, аккуратно расположенным под ней. Само по себе это не является революционным. Интересно то, как Honda соединяет эти два элемента механически, превращая простой ящик для хранения в нечто более безопасное, умное и действительно более практичное.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

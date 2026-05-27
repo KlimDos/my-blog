@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ducati Multistrada on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/ducati-multistrada/</link>
-    <description>Recent content in Ducati Multistrada on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 23 Apr 2026 12:10:10 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/ducati-multistrada/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Дукати выпустила Multistrada V4 Rally в версии для самостоятельного приключения</title>
-      <link>https://blog.alimov.top/ducati-just-turned-the-multistrada-v4-rally-into-a-build-your-own-adventure-boss/</link>
-      <pubDate>Thu, 23 Apr 2026 12:10:10 +0000</pubDate>
-      <guid>https://blog.alimov.top/ducati-just-turned-the-multistrada-v4-rally-into-a-build-your-own-adventure-boss/</guid>
-      <description>&lt;p&gt;Компания Ducati расширила программу Ducati Factory Made на Ducati Multistrada V4 Rally. По сути, это означает, что вы можете заказать уже немаленький, а именно этот мотоцикл для путешествий по всему миру, прямо с завода-изготовителя, настроенный именно так, как вам хочется.&lt;/p&gt;&#xA;&lt;p&gt;Multistrada V4 Rally никогда не был незаметным мотоциклом. У него огромный 30-литровый бак, подвеска Adaptive DSS EVO с длинным ходом и такой уровень комфорта, что можно наматывать серьезные километры без ощущения, что ваша спина протестует. Он создан для пересечения штатов, стран и, может быть, даже континентов, если вы чувствуете себя амбициозно. Теперь Ducati позволяет вам настроить его как при заказе суперкара.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Ducati Multistrada on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/ducati-multistrada/</link>
+		<description>Recent content in Ducati Multistrada on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 23 Apr 2026 12:10:10 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/ducati-multistrada/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Дукати выпустила Multistrada V4 Rally в версии для самостоятельного приключения</title>
+				<link>https://blog.alimov.top/ducati-just-turned-the-multistrada-v4-rally-into-a-build-your-own-adventure-boss/</link>
+				<pubDate>Thu, 23 Apr 2026 12:10:10 +0000</pubDate>
+				<guid>https://blog.alimov.top/ducati-just-turned-the-multistrada-v4-rally-into-a-build-your-own-adventure-boss/</guid>
+				<description>&lt;p&gt;Компания Ducati расширила программу Ducati Factory Made на Ducati Multistrada V4 Rally. По сути, это означает, что вы можете заказать уже немаленький, а именно этот мотоцикл для путешествий по всему миру, прямо с завода-изготовителя, настроенный именно так, как вам хочется.&lt;/p&gt;&#xA;&lt;p&gt;Multistrada V4 Rally никогда не был незаметным мотоциклом. У него огромный 30-литровый бак, подвеска Adaptive DSS EVO с длинным ходом и такой уровень комфорта, что можно наматывать серьезные километры без ощущения, что ваша спина протестует. Он создан для пересечения штатов, стран и, может быть, даже континентов, если вы чувствуете себя амбициозно. Теперь Ducati позволяет вам настроить его как при заказе суперкара.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>E-Bikes on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/e-bikes/</link>
-    <description>Recent content in E-Bikes on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 21 May 2026 14:38:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/e-bikes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Электровелосипеды - это круто, но их будущее под угрозой из-за неразберихи</title>
-      <link>https://blog.alimov.top/e-bikes-are-actually-cool-but-category-confusion-and-pearl-clutching-are-killing/</link>
-      <pubDate>Thu, 21 May 2026 14:38:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/e-bikes-are-actually-cool-but-category-confusion-and-pearl-clutching-are-killing/</guid>
-      <description>&lt;p&gt;не убил подросток на электровелосипеде, хотя пару раз я был очень близок к этому.&lt;/p&gt;&#xA;&lt;p&gt;Ладно, возможно, я немного преувеличиваю, но давайте я расскажу вам эту историю. Когда у нас есть время, мой партнёр и я любим выезжать на мотоциклах или электровелосипедах, если погода позволяет. Живя в Чикаго, мы сталкиваемся с зимой, и поэтому значительную часть года не очень комфортно находиться на открытом воздухе на двухколёсном транспорте без защиты на высокой скорости.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>E-Bikes on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/e-bikes/</link>
+		<description>Recent content in E-Bikes on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 21 May 2026 14:38:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/e-bikes/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Электровелосипеды - это круто, но их будущее под угрозой из-за неразберихи</title>
+				<link>https://blog.alimov.top/e-bikes-are-actually-cool-but-category-confusion-and-pearl-clutching-are-killing/</link>
+				<pubDate>Thu, 21 May 2026 14:38:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/e-bikes-are-actually-cool-but-category-confusion-and-pearl-clutching-are-killing/</guid>
+				<description>&lt;p&gt;не убил подросток на электровелосипеде, хотя пару раз я был очень близок к этому.&lt;/p&gt;&#xA;&lt;p&gt;Ладно, возможно, я немного преувеличиваю, но давайте я расскажу вам эту историю. Когда у нас есть время, мой партнёр и я любим выезжать на мотоциклах или электровелосипедах, если погода позволяет. Живя в Чикаго, мы сталкиваемся с зимой, и поэтому значительную часть года не очень комфортно находиться на открытом воздухе на двухколёсном транспорте без защиты на высокой скорости.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

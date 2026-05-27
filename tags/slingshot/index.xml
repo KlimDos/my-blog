@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Slingshot on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/slingshot/</link>
-    <description>Recent content in Slingshot on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 19 Feb 2026 12:18:39 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/slingshot/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Что такое мотоцикл? В США хотят изменить его определение</title>
-      <link>https://blog.alimov.top/what-even-is-a-motorcycle-anyway-us-lawmakers-want-to-redefine-it/</link>
-      <pubDate>Thu, 19 Feb 2026 12:18:39 +0000</pubDate>
-      <guid>https://blog.alimov.top/what-even-is-a-motorcycle-anyway-us-lawmakers-want-to-redefine-it/</guid>
-      <description>&lt;p&gt;Когда кто-то говорит слово «мотоцикл», что приходит на ум в первую очередь? Какая картинка мгновенно возникает перед глазами? Если вы райдер, то, может быть, это один из ваших собственных байков, и это вполне разумно. А если вы только думаете о том, чтобы заняться мотоциклетным спортом, то, возможно, это ваш мотоцикл мечты, что также вполне понятно.&lt;/p&gt;&#xA;&lt;p&gt;На что я готов поставить, так это на то, что это вряд ли будет Polaris Slingshot или любой подобный транспорт, управляемый похожим образом. Чтобы было ясно, я не осуждаю вас, если вы владеете или наслаждаетесь Slingshot; это ваш выбор, и не каждый транспорт подходит каждому человеку.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Slingshot on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/slingshot/</link>
+		<description>Recent content in Slingshot on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 19 Feb 2026 12:18:39 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/slingshot/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Что такое мотоцикл? В США хотят изменить его определение</title>
+				<link>https://blog.alimov.top/what-even-is-a-motorcycle-anyway-us-lawmakers-want-to-redefine-it/</link>
+				<pubDate>Thu, 19 Feb 2026 12:18:39 +0000</pubDate>
+				<guid>https://blog.alimov.top/what-even-is-a-motorcycle-anyway-us-lawmakers-want-to-redefine-it/</guid>
+				<description>&lt;p&gt;Когда кто-то говорит слово «мотоцикл», что приходит на ум в первую очередь? Какая картинка мгновенно возникает перед глазами? Если вы райдер, то, может быть, это один из ваших собственных байков, и это вполне разумно. А если вы только думаете о том, чтобы заняться мотоциклетным спортом, то, возможно, это ваш мотоцикл мечты, что также вполне понятно.&lt;/p&gt;&#xA;&lt;p&gt;На что я готов поставить, так это на то, что это вряд ли будет Polaris Slingshot или любой подобный транспорт, управляемый похожим образом. Чтобы было ясно, я не осуждаю вас, если вы владеете или наслаждаетесь Slingshot; это ваш выбор, и не каждый транспорт подходит каждому человеку.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

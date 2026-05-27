@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Alex Marquez on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/alex-marquez/</link>
-    <description>Recent content in Alex Marquez on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Wed, 04 Feb 2026 12:32:45 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/alex-marquez/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Кого Ducati выберет в напарники Марку Маркесу в 2027 году? Педро Акоста или Алекс Маркес</title>
-      <link>https://blog.alimov.top/who-will-ducati-pick-to-partner-with-marc-marquez-in-2027-pedro-acosta-or-alex-m/</link>
-      <pubDate>Wed, 04 Feb 2026 12:32:45 +0000</pubDate>
-      <guid>https://blog.alimov.top/who-will-ducati-pick-to-partner-with-marc-marquez-in-2027-pedro-acosta-or-alex-m/</guid>
-      <description>&lt;p&gt;В прошлом году сюжетом, благодаря которому сезон MotoGP остался в моем сердце, была борьба за титул между Марком и Алексом Маркесами. Первый впоследствии взял титул, но долгое время борьба была очень близкой, поскольку оба обменивались колкостями на протяжении всего сезона, в определенные моменты опережая друг друга. За этим было приятно наблюдать, и это сделало завоевание титула Марком еще более особенным.&lt;/p&gt;&#xA;&lt;p&gt;Но мы уже прошли это, и хотя мы еще даже не начали смотреть, каким будет сезон MotoGP 2026 года, поскольку только начались тесты, мы уже в полной мере ощущаем сезон глупостей, связанных со сменой пилотов. Почему? Потому что в сезоне 2027 года мотоциклы, на которых все будут гоняться, будут полностью переделаны, причем изменения будут настолько радикальными, что все уже сейчас борются за то, кто, по их мнению, выйдет на первое место в жеребьевке регламента.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Alex Marquez on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/alex-marquez/</link>
+		<description>Recent content in Alex Marquez on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 04 Feb 2026 12:32:45 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/alex-marquez/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Кого Ducati выберет в напарники Марку Маркесу в 2027 году? Педро Акоста или Алекс Маркес</title>
+				<link>https://blog.alimov.top/who-will-ducati-pick-to-partner-with-marc-marquez-in-2027-pedro-acosta-or-alex-m/</link>
+				<pubDate>Wed, 04 Feb 2026 12:32:45 +0000</pubDate>
+				<guid>https://blog.alimov.top/who-will-ducati-pick-to-partner-with-marc-marquez-in-2027-pedro-acosta-or-alex-m/</guid>
+				<description>&lt;p&gt;В прошлом году сюжетом, благодаря которому сезон MotoGP остался в моем сердце, была борьба за титул между Марком и Алексом Маркесами. Первый впоследствии взял титул, но долгое время борьба была очень близкой, поскольку оба обменивались колкостями на протяжении всего сезона, в определенные моменты опережая друг друга. За этим было приятно наблюдать, и это сделало завоевание титула Марком еще более особенным.&lt;/p&gt;&#xA;&lt;p&gt;Но мы уже прошли это, и хотя мы еще даже не начали смотреть, каким будет сезон MotoGP 2026 года, поскольку только начались тесты, мы уже в полной мере ощущаем сезон глупостей, связанных со сменой пилотов. Почему? Потому что в сезоне 2027 года мотоциклы, на которых все будут гоняться, будут полностью переделаны, причем изменения будут настолько радикальными, что все уже сейчас борются за то, кто, по их мнению, выйдет на первое место в жеребьевке регламента.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

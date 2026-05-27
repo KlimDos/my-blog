@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Super Cub on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/super-cub/</link>
-    <description>Recent content in Super Cub on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 12 Feb 2026 12:39:53 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/super-cub/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Honda внезапно убрала Super Cub из американской линейки?</title>
-      <link>https://blog.alimov.top/did-honda-quietly-discontinue-the-beloved-super-cub-in-the-us/</link>
-      <pubDate>Thu, 12 Feb 2026 12:39:53 +0000</pubDate>
-      <guid>https://blog.alimov.top/did-honda-quietly-discontinue-the-beloved-super-cub-in-the-us/</guid>
-      <description>&lt;p&gt;Друзья, у меня есть плохие новости для мотолюбителей в США. Я только что подтвердил информацию с American Honda: 2024 год стал последним для Honda Super Cub на американском рынке.&lt;/p&gt;&#xA;&lt;p&gt;Компания не делала официальных объявлений на этот счёт, но я проверил информацию напрямую. Для модельного года 2025 Super Cub просто пропал с сайта American Honda. Если вы не искали его, вы, возможно, даже не заметили; если же искали, то, вероятно, подумали, что новый модельный год будет объявлен позже.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Super Cub on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/super-cub/</link>
+		<description>Recent content in Super Cub on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 12 Feb 2026 12:39:53 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/super-cub/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Honda внезапно убрала Super Cub из американской линейки?</title>
+				<link>https://blog.alimov.top/did-honda-quietly-discontinue-the-beloved-super-cub-in-the-us/</link>
+				<pubDate>Thu, 12 Feb 2026 12:39:53 +0000</pubDate>
+				<guid>https://blog.alimov.top/did-honda-quietly-discontinue-the-beloved-super-cub-in-the-us/</guid>
+				<description>&lt;p&gt;Друзья, у меня есть плохие новости для мотолюбителей в США. Я только что подтвердил информацию с American Honda: 2024 год стал последним для Honda Super Cub на американском рынке.&lt;/p&gt;&#xA;&lt;p&gt;Компания не делала официальных объявлений на этот счёт, но я проверил информацию напрямую. Для модельного года 2025 Super Cub просто пропал с сайта American Honda. Если вы не искали его, вы, возможно, даже не заметили; если же искали, то, вероятно, подумали, что новый модельный год будет объявлен позже.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

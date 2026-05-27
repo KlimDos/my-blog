@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Interceptor on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/interceptor/</link>
-    <description>Recent content in Interceptor on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Tue, 17 Feb 2026 14:25:18 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/interceptor/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Королевская экспансия: Royal Enfield выпустит 2 миллиона мотоциклов в год.</title>
-      <link>https://blog.alimov.top/royal-enfield-is-about-to-build-two-million-bikes-a-year-let-that-sink-in/</link>
-      <pubDate>Tue, 17 Feb 2026 14:25:18 +0000</pubDate>
-      <guid>https://blog.alimov.top/royal-enfield-is-about-to-build-two-million-bikes-a-year-let-that-sink-in/</guid>
-      <description>&lt;p&gt;Eicher Motors - не самое известное имя в США, но это один из наиболее влиятельных игроков индийского автопрома. Компания имеет корни в производстве коммерческих автомобилей благодаря совместному предприятию с Volvo, и ей принадлежит Royal Enfield, который стал одним из самых важных брендов мотоциклов среднего класса в мире. На этой неделе Eicher сообщила инвесторам, что существенно нарастит производство. Рынок позитивно отреагировал на эту новость: акции резко подскочили и достигли рекордных значений.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Interceptor on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/interceptor/</link>
+		<description>Recent content in Interceptor on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 17 Feb 2026 14:25:18 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/interceptor/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Королевская экспансия: Royal Enfield выпустит 2 миллиона мотоциклов в год.</title>
+				<link>https://blog.alimov.top/royal-enfield-is-about-to-build-two-million-bikes-a-year-let-that-sink-in/</link>
+				<pubDate>Tue, 17 Feb 2026 14:25:18 +0000</pubDate>
+				<guid>https://blog.alimov.top/royal-enfield-is-about-to-build-two-million-bikes-a-year-let-that-sink-in/</guid>
+				<description>&lt;p&gt;Eicher Motors - не самое известное имя в США, но это один из наиболее влиятельных игроков индийского автопрома. Компания имеет корни в производстве коммерческих автомобилей благодаря совместному предприятию с Volvo, и ей принадлежит Royal Enfield, который стал одним из самых важных брендов мотоциклов среднего класса в мире. На этой неделе Eicher сообщила инвесторам, что существенно нарастит производство. Рынок позитивно отреагировал на эту новость: акции резко подскочили и достигли рекордных значений.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

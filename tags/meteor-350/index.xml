@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Meteor 350 on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/meteor-350/</link>
-    <description>Recent content in Meteor 350 on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Fri, 15 May 2026 11:45:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/meteor-350/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Ройал Энфилд построит новый завод и нарастит производство на 900 тысяч мотоциклов</title>
-      <link>https://blog.alimov.top/royal-enfield-to-open-new-factory-boost-production-by-900k-units-per-year/</link>
-      <pubDate>Fri, 15 May 2026 11:45:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/royal-enfield-to-open-new-factory-boost-production-by-900k-units-per-year/</guid>
-      <description>&lt;p&gt;Компания Royal Enfield собралась строить огромный новый завод в Индии, и если честно, это больше похоже на покорение мирового рынка, чем на обычное расширение производства.&lt;/p&gt;&#xA;&lt;p&gt;Бренд только что подтвердил планы строительства нового производственного комплекса и парка поставщиков в штате Андхра-Прадеш с инвестициями в размере примерно 230 миллионов долларов США. Когда завод выйдет на полную мощность в 2032 году, он сможет производить 900 000 мотоциклов в год. Это абсурдно большая цифра для компании, которую многие американцы до сих пор считают «тем ретро-брендом с медленными одиночными мотоциклами».&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Meteor 350 on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/meteor-350/</link>
+		<description>Recent content in Meteor 350 on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 15 May 2026 11:45:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/meteor-350/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Ройал Энфилд построит новый завод и нарастит производство на 900 тысяч мотоциклов</title>
+				<link>https://blog.alimov.top/royal-enfield-to-open-new-factory-boost-production-by-900k-units-per-year/</link>
+				<pubDate>Fri, 15 May 2026 11:45:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/royal-enfield-to-open-new-factory-boost-production-by-900k-units-per-year/</guid>
+				<description>&lt;p&gt;Компания Royal Enfield собралась строить огромный новый завод в Индии, и если честно, это больше похоже на покорение мирового рынка, чем на обычное расширение производства.&lt;/p&gt;&#xA;&lt;p&gt;Бренд только что подтвердил планы строительства нового производственного комплекса и парка поставщиков в штате Андхра-Прадеш с инвестициями в размере примерно 230 миллионов долларов США. Когда завод выйдет на полную мощность в 2032 году, он сможет производить 900 000 мотоциклов в год. Это абсурдно большая цифра для компании, которую многие американцы до сих пор считают «тем ретро-брендом с медленными одиночными мотоциклами».&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

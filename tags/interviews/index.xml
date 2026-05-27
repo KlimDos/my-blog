@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Interviews on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/interviews/</link>
-    <description>Recent content in Interviews on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 09 Apr 2026 13:12:21 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/interviews/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>В пожарной департамент добавили команду спасения на электробайках, мы узнали подробности</title>
-      <link>https://blog.alimov.top/this-fire-department-added-an-e-bike-rescue-team-to-its-ranks-we-found-out-more/</link>
-      <pubDate>Thu, 09 Apr 2026 13:12:21 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-fire-department-added-an-e-bike-rescue-team-to-its-ranks-we-found-out-more/</guid>
-      <description>&lt;p&gt;начале апреля вы, возможно, видели несколько новостных статей из различных изданий о новой программе реагирования на чрезвычайные ситуации с помощью электромотоциклов департамента пожарной охраны Лос-Анджелеса (LAFD). Посты в социальных сетях и новости множились, и комментарии в основном сводились к двум вопросам: был ли это первоапрельский розыгрыш, и насколько хороша идея использовать электромотоциклы в ситуациях, требующих пожарных.&lt;/p&gt;&#xA;&lt;p&gt;Интернет есть интернет - и люди, и боты могут быстро заполнить раздел комментариев множеством вещей, которые могут или не могут иметь смысл. Но дело в том, что ни одна из этих реакций не казалась особенно нелепой. Первоапрельские шутки, хотите ли вы их считать смешными или нет, случаются. Что касается предполагаемых пожарных рисков, есть множество историй о несчастьях, связанных с электромотоциклами с неисправными батареями, которые причинили серьезный ущерб огнем строениям, включая целый гараж, принадлежащий полицейскому департаменту в Айдахо.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Покупка частным капиталом оказалась лучшим решением для Dainese, считает гендиректор Angel Sanchez</title>
-      <link>https://blog.alimov.top/being-bought-by-private-equity-was-the-best-thing-that-could-happen-to-dainese-s/</link>
-      <pubDate>Tue, 07 Apr 2026 13:00:22 +0000</pubDate>
-      <guid>https://blog.alimov.top/being-bought-by-private-equity-was-the-best-thing-that-could-happen-to-dainese-s/</guid>
-      <description>&lt;p&gt;считают, что словосочетание «частный капитал» несет в себе негативную окраску, подразумевая снижение качества продукции, недостаточные инвестиции в компанию, сокращение штата и, как следствие, гибель бренда. Мы не раз становились свидетелями подобной ситуации, когда венчурные капиталисты привлекали крупные суммы денег, покупали компанию по завышенной цене, немедленно сокращали персонал и через пару лет продавали ее остатки за копейки, оставляя не у дел всех, кто вложил в нее свой труд, пот и годы.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Мобильность — ключ к успеху на охоте, считает Реми Уоррен и его UTV</title>
-      <link>https://blog.alimov.top/being-mobile-is-an-important-way-in-finding-hunting-success-says-remi-warren-abo/</link>
-      <pubDate>Wed, 25 Feb 2026 12:01:39 +0000</pubDate>
-      <guid>https://blog.alimov.top/being-mobile-is-an-important-way-in-finding-hunting-success-says-remi-warren-abo/</guid>
-      <description>&lt;p&gt;Реми Уоррен - охотник, который привлекает внимание.&lt;/p&gt;&#xA;&lt;p&gt;Как охотник, начавший свой путь во взрослом возрасте, в отличие от большинства других охотников, которые получают знания через YouTube University, пытаясь продать вам что-то или убедить, что только их способ охоты правильный, цель Уоррена - сделать так, чтобы обучение было важнее. Он хочет, чтобы вы были в поле, испытывали то, что испытывает он. Будь то пронзительный крик быка-элка, раннее утреннее восход солнца, волосы на затылке, встающие дыбом от адреналина после удачного выстрела, или красота связи с землей, на которой мы живем, через добычу животного, которое наполнит ваш холодильник.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Interviews on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/interviews/</link>
+		<description>Recent content in Interviews on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 09 Apr 2026 13:12:21 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/interviews/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>В пожарной департамент добавили команду спасения на электробайках, мы узнали подробности</title>
+				<link>https://blog.alimov.top/this-fire-department-added-an-e-bike-rescue-team-to-its-ranks-we-found-out-more/</link>
+				<pubDate>Thu, 09 Apr 2026 13:12:21 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-fire-department-added-an-e-bike-rescue-team-to-its-ranks-we-found-out-more/</guid>
+				<description>&lt;p&gt;начале апреля вы, возможно, видели несколько новостных статей из различных изданий о новой программе реагирования на чрезвычайные ситуации с помощью электромотоциклов департамента пожарной охраны Лос-Анджелеса (LAFD). Посты в социальных сетях и новости множились, и комментарии в основном сводились к двум вопросам: был ли это первоапрельский розыгрыш, и насколько хороша идея использовать электромотоциклы в ситуациях, требующих пожарных.&lt;/p&gt;&#xA;&lt;p&gt;Интернет есть интернет - и люди, и боты могут быстро заполнить раздел комментариев множеством вещей, которые могут или не могут иметь смысл. Но дело в том, что ни одна из этих реакций не казалась особенно нелепой. Первоапрельские шутки, хотите ли вы их считать смешными или нет, случаются. Что касается предполагаемых пожарных рисков, есть множество историй о несчастьях, связанных с электромотоциклами с неисправными батареями, которые причинили серьезный ущерб огнем строениям, включая целый гараж, принадлежащий полицейскому департаменту в Айдахо.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Покупка частным капиталом оказалась лучшим решением для Dainese, считает гендиректор Angel Sanchez</title>
+				<link>https://blog.alimov.top/being-bought-by-private-equity-was-the-best-thing-that-could-happen-to-dainese-s/</link>
+				<pubDate>Tue, 07 Apr 2026 13:00:22 +0000</pubDate>
+				<guid>https://blog.alimov.top/being-bought-by-private-equity-was-the-best-thing-that-could-happen-to-dainese-s/</guid>
+				<description>&lt;p&gt;считают, что словосочетание «частный капитал» несет в себе негативную окраску, подразумевая снижение качества продукции, недостаточные инвестиции в компанию, сокращение штата и, как следствие, гибель бренда. Мы не раз становились свидетелями подобной ситуации, когда венчурные капиталисты привлекали крупные суммы денег, покупали компанию по завышенной цене, немедленно сокращали персонал и через пару лет продавали ее остатки за копейки, оставляя не у дел всех, кто вложил в нее свой труд, пот и годы.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Мобильность — ключ к успеху на охоте, считает Реми Уоррен и его UTV</title>
+				<link>https://blog.alimov.top/being-mobile-is-an-important-way-in-finding-hunting-success-says-remi-warren-abo/</link>
+				<pubDate>Wed, 25 Feb 2026 12:01:39 +0000</pubDate>
+				<guid>https://blog.alimov.top/being-mobile-is-an-important-way-in-finding-hunting-success-says-remi-warren-abo/</guid>
+				<description>&lt;p&gt;Реми Уоррен - охотник, который привлекает внимание.&lt;/p&gt;&#xA;&lt;p&gt;Как охотник, начавший свой путь во взрослом возрасте, в отличие от большинства других охотников, которые получают знания через YouTube University, пытаясь продать вам что-то или убедить, что только их способ охоты правильный, цель Уоррена - сделать так, чтобы обучение было важнее. Он хочет, чтобы вы были в поле, испытывали то, что испытывает он. Будь то пронзительный крик быка-элка, раннее утреннее восход солнца, волосы на затылке, встающие дыбом от адреналина после удачного выстрела, или красота связи с землей, на которой мы живем, через добычу животного, которое наполнит ваш холодильник.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

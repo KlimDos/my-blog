@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Verge Ts Pro on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/verge-ts-pro/</link>
-    <description>Recent content in Verge Ts Pro on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Mon, 05 Jan 2026 17:45:58 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/verge-ts-pro/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Сможет ли твердотельная батарея Donut с большим радиусом действия спасти EV-мотоциклы?</title>
-      <link>https://blog.alimov.top/can-donuts-high-range-solid-state-battery-really-save-ev-motorcycles/</link>
-      <pubDate>Mon, 05 Jan 2026 17:45:58 +0000</pubDate>
-      <guid>https://blog.alimov.top/can-donuts-high-range-solid-state-battery-really-save-ev-motorcycles/</guid>
-      <description>&lt;p&gt;Сегодня я разговаривал с Патриком Джорджем из InsideEVs, как раз после анонса твердотельных батарей от Donut Lab и Verge Motorcycles. Мы обсуждали характеристики новой батареи. И действительно, это впечатляющий прорыв, поскольку Verge TS Pro с новой твердотельной батареей утверждает, что она обеспечивает огромный запас хода в 370 миль и быструю зарядку до 100% заряда менее чем за 20 минут. &lt;/p&gt;&#xA;&lt;p&gt;В общем, это все, что вы можете пожелать от батареи для мотоцикла EV. Но он задал мне особенно острый вопрос, который важен для всего остального мира; настолько, что это послужило толчком к написанию этой статьи.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Verge Ts Pro on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/verge-ts-pro/</link>
+		<description>Recent content in Verge Ts Pro on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 05 Jan 2026 17:45:58 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/verge-ts-pro/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Сможет ли твердотельная батарея Donut с большим радиусом действия спасти EV-мотоциклы?</title>
+				<link>https://blog.alimov.top/can-donuts-high-range-solid-state-battery-really-save-ev-motorcycles/</link>
+				<pubDate>Mon, 05 Jan 2026 17:45:58 +0000</pubDate>
+				<guid>https://blog.alimov.top/can-donuts-high-range-solid-state-battery-really-save-ev-motorcycles/</guid>
+				<description>&lt;p&gt;Сегодня я разговаривал с Патриком Джорджем из InsideEVs, как раз после анонса твердотельных батарей от Donut Lab и Verge Motorcycles. Мы обсуждали характеристики новой батареи. И действительно, это впечатляющий прорыв, поскольку Verge TS Pro с новой твердотельной батареей утверждает, что она обеспечивает огромный запас хода в 370 миль и быструю зарядку до 100% заряда менее чем за 20 минут. &lt;/p&gt;&#xA;&lt;p&gt;В общем, это все, что вы можете пожелать от батареи для мотоцикла EV. Но он задал мне особенно острый вопрос, который важен для всего остального мира; настолько, что это послужило толчком к написанию этой статьи.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

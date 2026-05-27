@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Evo 80 on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/evo-80/</link>
-    <description>Recent content in Evo 80 on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 19 Feb 2026 14:32:30 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/evo-80/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Новые триальные велосипеды Beta доказывают, что лошадиные силы ничего не значат без баланса</title>
-      <link>https://blog.alimov.top/betas-new-trials-bikes-prove-that-horsepower-means-nothing-without-balance/</link>
-      <pubDate>Thu, 19 Feb 2026 14:32:30 +0000</pubDate>
-      <guid>https://blog.alimov.top/betas-new-trials-bikes-prove-that-horsepower-means-nothing-without-balance/</guid>
-      <description>&lt;p&gt;Если проследить половину современных техник верховой езды, которые мы считаем само собой разумеющимися, то окажешься на грязном поле в Великобритании или Испании 1960-х годов, наблюдая, как кто-то скачет по камню со скоростью пешехода. Триал - именно такая дисциплина. Здесь оттачивают до тонкостей дроссельную заслонку, синхронизацию сцепления и баланс. Его используют гонщики MotoGP. Легенды хард-эндуро клянутся им. Даже уличные гонщики, которые никогда не ездили по грязи, могут извлечь из этого пользу.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Evo 80 on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/evo-80/</link>
+		<description>Recent content in Evo 80 on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 19 Feb 2026 14:32:30 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/evo-80/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Новые триальные велосипеды Beta доказывают, что лошадиные силы ничего не значат без баланса</title>
+				<link>https://blog.alimov.top/betas-new-trials-bikes-prove-that-horsepower-means-nothing-without-balance/</link>
+				<pubDate>Thu, 19 Feb 2026 14:32:30 +0000</pubDate>
+				<guid>https://blog.alimov.top/betas-new-trials-bikes-prove-that-horsepower-means-nothing-without-balance/</guid>
+				<description>&lt;p&gt;Если проследить половину современных техник верховой езды, которые мы считаем само собой разумеющимися, то окажешься на грязном поле в Великобритании или Испании 1960-х годов, наблюдая, как кто-то скачет по камню со скоростью пешехода. Триал - именно такая дисциплина. Здесь оттачивают до тонкостей дроссельную заслонку, синхронизацию сцепления и баланс. Его используют гонщики MotoGP. Легенды хард-эндуро клянутся им. Даже уличные гонщики, которые никогда не ездили по грязи, могут извлечь из этого пользу.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

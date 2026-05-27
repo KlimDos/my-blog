@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Segway on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/segway/</link>
-    <description>Recent content in Segway on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Wed, 20 May 2026 15:55:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/segway/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Сегвей выпустил безумный багги SX20T - теперь доступен в США</title>
-      <link>https://blog.alimov.top/segways-insane-super-villain-sx20t-side-by-side-is-now-available-in-the-us-and-w/</link>
-      <pubDate>Wed, 20 May 2026 15:55:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/segways-insane-super-villain-sx20t-side-by-side-is-now-available-in-the-us-and-w/</guid>
-      <description>&lt;p&gt;Несколько лет назад я видел Segway Super Villain на выставке Consumer Electronics Showcase (CES) в Лас-Вегасе. Это был предсерийный образец, но идея была ясна: Segway хотела ворваться на рынок ультра-внедорожных транспортных средств (UTV) и создала 235-сильную машину с 2,0-литровым рядным четырехцилиндровым турбированным двигателем и множеством технологий, чтобы выделиться среди других в этом классе.&lt;/p&gt;&#xA;&lt;p&gt;Ходили слухи о гибридной силовой установке, которая могла бы выдавать более 300 лошадиных сил, но гибридные двигатели означают большие батареи, а значит, и большой вес. Поэтому бренд решил остановиться на традиционном двигателе внутреннего сгорания для своего первого предложения на рынке UTV. И вот, спустя несколько лет, Super Villain наконец-то поступает в продажу в США.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Первый электромотоцикл Segway для бездорожья удивительно дешёвый и захочется детям</title>
-      <link>https://blog.alimov.top/segways-first-ev-dirt-bike-is-cheap-as-hell-and-your-kid-is-going-to-want-it/</link>
-      <pubDate>Mon, 18 May 2026 20:01:09 +0000</pubDate>
-      <guid>https://blog.alimov.top/segways-first-ev-dirt-bike-is-cheap-as-hell-and-your-kid-is-going-to-want-it/</guid>
-      <description>&lt;p&gt;На прошлой неделе я тестировал новый электрический квадроцикл Can-Am Outlander в сельской местности Висконсина, и как вы ожидаете, тема электромобилей в загородной местности не могла не возникнуть. И действительно, мы говорили о том, что молодежь сегодня гораздо более активно принимает эту технологию, особенно в сегменте электрических мотоциклов для бездорожья.&lt;/p&gt;&#xA;&lt;p&gt;Однако, несмотря на то, что есть еще некоторое количество консерваторов, которые сетуют на переход от бензиновых двигателей к электрическим (&amp;ldquo;эти молодые выскочки должны научиться регулировать карбюратор, черт возьми!&amp;rdquo;), в отрасли все больше голосов звучат за будущее, которое будет работать исключительно на электромобилях.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Segway зовёт на помощь: улучшаем новый электробайк вместе!</title>
-      <link>https://blog.alimov.top/segway-wants-you-to-help-make-its-new-ev-dirt-bike-better/</link>
-      <pubDate>Tue, 28 Apr 2026 11:14:51 +0000</pubDate>
-      <guid>https://blog.alimov.top/segway-wants-you-to-help-make-its-new-ev-dirt-bike-better/</guid>
-      <description>&lt;p&gt;Когда я думаю о Segway, мне сразу приходят на ум туристы в велосипедных шлемах, катающиеся по городу на двухколесных транспортных средствах, похожих на астро-механических дроидов (помните R2-D2), сопровождаемых гидом с флагом на рюкзаке. Ведь компания Segway сделала себе имя на рынке двухколесных самобалансирующихся транспортных средств.&lt;/p&gt;&#xA;&lt;p&gt;Segway HT, или «Human Transporter», был изобретен американским инженером и предпринимателем Дином Каменом и вышел на рынок 25 лет назад. В 2015 году компания была приобретена Ninebot, пекинским конкурентом, который впоследствии расширил ассортимент транспортных средств, выпускаемых под брендом Segway, — скутеры, электробайки, роботизированные газонокосилки, гок-арты и UTV.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Segway on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/segway/</link>
+		<description>Recent content in Segway on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 20 May 2026 15:55:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/segway/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Сегвей выпустил безумный багги SX20T - теперь доступен в США</title>
+				<link>https://blog.alimov.top/segways-insane-super-villain-sx20t-side-by-side-is-now-available-in-the-us-and-w/</link>
+				<pubDate>Wed, 20 May 2026 15:55:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/segways-insane-super-villain-sx20t-side-by-side-is-now-available-in-the-us-and-w/</guid>
+				<description>&lt;p&gt;Несколько лет назад я видел Segway Super Villain на выставке Consumer Electronics Showcase (CES) в Лас-Вегасе. Это был предсерийный образец, но идея была ясна: Segway хотела ворваться на рынок ультра-внедорожных транспортных средств (UTV) и создала 235-сильную машину с 2,0-литровым рядным четырехцилиндровым турбированным двигателем и множеством технологий, чтобы выделиться среди других в этом классе.&lt;/p&gt;&#xA;&lt;p&gt;Ходили слухи о гибридной силовой установке, которая могла бы выдавать более 300 лошадиных сил, но гибридные двигатели означают большие батареи, а значит, и большой вес. Поэтому бренд решил остановиться на традиционном двигателе внутреннего сгорания для своего первого предложения на рынке UTV. И вот, спустя несколько лет, Super Villain наконец-то поступает в продажу в США.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Первый электромотоцикл Segway для бездорожья удивительно дешёвый и захочется детям</title>
+				<link>https://blog.alimov.top/segways-first-ev-dirt-bike-is-cheap-as-hell-and-your-kid-is-going-to-want-it/</link>
+				<pubDate>Mon, 18 May 2026 20:01:09 +0000</pubDate>
+				<guid>https://blog.alimov.top/segways-first-ev-dirt-bike-is-cheap-as-hell-and-your-kid-is-going-to-want-it/</guid>
+				<description>&lt;p&gt;На прошлой неделе я тестировал новый электрический квадроцикл Can-Am Outlander в сельской местности Висконсина, и как вы ожидаете, тема электромобилей в загородной местности не могла не возникнуть. И действительно, мы говорили о том, что молодежь сегодня гораздо более активно принимает эту технологию, особенно в сегменте электрических мотоциклов для бездорожья.&lt;/p&gt;&#xA;&lt;p&gt;Однако, несмотря на то, что есть еще некоторое количество консерваторов, которые сетуют на переход от бензиновых двигателей к электрическим (&amp;ldquo;эти молодые выскочки должны научиться регулировать карбюратор, черт возьми!&amp;rdquo;), в отрасли все больше голосов звучат за будущее, которое будет работать исключительно на электромобилях.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Segway зовёт на помощь: улучшаем новый электробайк вместе!</title>
+				<link>https://blog.alimov.top/segway-wants-you-to-help-make-its-new-ev-dirt-bike-better/</link>
+				<pubDate>Tue, 28 Apr 2026 11:14:51 +0000</pubDate>
+				<guid>https://blog.alimov.top/segway-wants-you-to-help-make-its-new-ev-dirt-bike-better/</guid>
+				<description>&lt;p&gt;Когда я думаю о Segway, мне сразу приходят на ум туристы в велосипедных шлемах, катающиеся по городу на двухколесных транспортных средствах, похожих на астро-механических дроидов (помните R2-D2), сопровождаемых гидом с флагом на рюкзаке. Ведь компания Segway сделала себе имя на рынке двухколесных самобалансирующихся транспортных средств.&lt;/p&gt;&#xA;&lt;p&gt;Segway HT, или «Human Transporter», был изобретен американским инженером и предпринимателем Дином Каменом и вышел на рынок 25 лет назад. В 2015 году компания была приобретена Ninebot, пекинским конкурентом, который впоследствии расширил ассортимент транспортных средств, выпускаемых под брендом Segway, — скутеры, электробайки, роботизированные газонокосилки, гок-арты и UTV.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

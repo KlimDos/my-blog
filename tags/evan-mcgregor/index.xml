@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Evan Mcgregor on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/evan-mcgregor/</link>
-    <description>Recent content in Evan Mcgregor on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Mon, 23 Feb 2026 14:59:59 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/evan-mcgregor/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Двух байкеров обвинили в шпионаже после поездки в Иран</title>
-      <link>https://blog.alimov.top/two-motorcyclists-rode-into-iran-theyve-now-been-charged-with-being-spies/</link>
-      <pubDate>Mon, 23 Feb 2026 14:59:59 +0000</pubDate>
-      <guid>https://blog.alimov.top/two-motorcyclists-rode-into-iran-theyve-now-been-charged-with-being-spies/</guid>
-      <description>&lt;p&gt;Путешествия на мотоцикле вокруг света - это что-то из разряда легенд. Чёрт, Юэн Макгрегор и Чарли Бурман сделали на этом целую карьеру, путешествуя в самые отдалённые уголки нашей голубой планеты. Однако для таких поездок часто требуется months тщательного планирования, карты с точной информацией и работа в тесном сотрудничестве с посольствами по всему миру.&lt;/p&gt;&#xA;&lt;p&gt;Зачем столько хлопот перед поездкой, спросите вы? Да потому что если не подготовиться как следует, можно запросто оказаться в зоне конфликта, оказаться на неправильной стороне закона или, как в случае с двумя британскими мотоциклистами, быть арестованными в Иране и обвиненными в шпионаже.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Evan Mcgregor on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/evan-mcgregor/</link>
+		<description>Recent content in Evan Mcgregor on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 23 Feb 2026 14:59:59 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/evan-mcgregor/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Двух байкеров обвинили в шпионаже после поездки в Иран</title>
+				<link>https://blog.alimov.top/two-motorcyclists-rode-into-iran-theyve-now-been-charged-with-being-spies/</link>
+				<pubDate>Mon, 23 Feb 2026 14:59:59 +0000</pubDate>
+				<guid>https://blog.alimov.top/two-motorcyclists-rode-into-iran-theyve-now-been-charged-with-being-spies/</guid>
+				<description>&lt;p&gt;Путешествия на мотоцикле вокруг света - это что-то из разряда легенд. Чёрт, Юэн Макгрегор и Чарли Бурман сделали на этом целую карьеру, путешествуя в самые отдалённые уголки нашей голубой планеты. Однако для таких поездок часто требуется months тщательного планирования, карты с точной информацией и работа в тесном сотрудничестве с посольствами по всему миру.&lt;/p&gt;&#xA;&lt;p&gt;Зачем столько хлопот перед поездкой, спросите вы? Да потому что если не подготовиться как следует, можно запросто оказаться в зоне конфликта, оказаться на неправильной стороне закона или, как в случае с двумя британскими мотоциклистами, быть арестованными в Иране и обвиненными в шпионаже.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

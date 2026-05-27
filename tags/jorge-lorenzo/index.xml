@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jorge Lorenzo on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/jorge-lorenzo/</link>
-    <description>Recent content in Jorge Lorenzo on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Mon, 23 Mar 2026 13:47:25 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/jorge-lorenzo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Росси сорвал джек-пот в МотоГП, остальные остались в убытке</title>
-      <link>https://blog.alimov.top/rossi-won-the-motogp-genetic-lottery-others-paid-hefty-prices/</link>
-      <pubDate>Mon, 23 Mar 2026 13:47:25 +0000</pubDate>
-      <guid>https://blog.alimov.top/rossi-won-the-motogp-genetic-lottery-others-paid-hefty-prices/</guid>
-      <description>&lt;p&gt;Ты не можешь потянуть на себя рычаг тормоза, ты едва можешь пошевелить пальцами, чтобы удержаться за мотоцикл, потому что застоявшаяся в предплечьях кровь делает хватку почти невозможной — у тебя синдром замкнутого пространства, известный как «мёртвые руки» или «арм-помпа», бич мотогонщиков. Любой, кто серьёзно пытался улучшить свои навыки в мотокроссе, сталкивался с арм-помпой. И хотя тебе, возможно, придётся подняться по карьерной лестнице в шоссейно-кольцевых гонках, прежде чем это тебя настигнет, это всё равно практически неизбежно, если только твоё имя не Валентино Росси.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Jorge Lorenzo on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/jorge-lorenzo/</link>
+		<description>Recent content in Jorge Lorenzo on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 23 Mar 2026 13:47:25 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/jorge-lorenzo/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Росси сорвал джек-пот в МотоГП, остальные остались в убытке</title>
+				<link>https://blog.alimov.top/rossi-won-the-motogp-genetic-lottery-others-paid-hefty-prices/</link>
+				<pubDate>Mon, 23 Mar 2026 13:47:25 +0000</pubDate>
+				<guid>https://blog.alimov.top/rossi-won-the-motogp-genetic-lottery-others-paid-hefty-prices/</guid>
+				<description>&lt;p&gt;Ты не можешь потянуть на себя рычаг тормоза, ты едва можешь пошевелить пальцами, чтобы удержаться за мотоцикл, потому что застоявшаяся в предплечьях кровь делает хватку почти невозможной — у тебя синдром замкнутого пространства, известный как «мёртвые руки» или «арм-помпа», бич мотогонщиков. Любой, кто серьёзно пытался улучшить свои навыки в мотокроссе, сталкивался с арм-помпой. И хотя тебе, возможно, придётся подняться по карьерной лестнице в шоссейно-кольцевых гонках, прежде чем это тебя настигнет, это всё равно практически неизбежно, если только твоё имя не Валентино Росси.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

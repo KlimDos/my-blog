@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Stark Varg on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/stark-varg/</link>
-    <description>Recent content in Stark Varg on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Sun, 19 Apr 2026 13:47:46 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/stark-varg/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Стартап электробайков утроил выручку и вышел в плюс</title>
-      <link>https://blog.alimov.top/this-ev-dirt-bike-startup-just-tripled-revenue-and-went-profitable/</link>
-      <pubDate>Sun, 19 Apr 2026 13:47:46 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-ev-dirt-bike-startup-just-tripled-revenue-and-went-profitable/</guid>
-      <description>&lt;p&gt;Stark Future только что опубликовала финансовые результаты за первый квартал 2026 года, и они весьма впечатляют. Выручка компании выросла на 212 процентов по сравнению с аналогичным периодом прошлого года. Это相当于 росту в 3,12 раза всего за один квартал. Не опечатка.&lt;/p&gt;&#xA;&lt;p&gt;Параллельно компания достигла своего первого периода прибыльности по EBITDA, что означает, что она не только продаёт мотоциклы, но и зарабатывает на этом.&lt;/p&gt;&#xA;&lt;p&gt;Давайте посмотрим на это под другим углом. Большинство стартапов в сфере электромобилей всё ещё застряли на этапе, когда рост сопровождается большими убытками. Они сжигают деньги, масштабируются позже, и пытаются разобраться во всём этом в конечном итоге. Stark просто пропустила этот этап и сказала: «Мы будем расти быстро и действовать дисциплинированно». Уже это делает отчёт достойным внимания.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Stark Varg on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/stark-varg/</link>
+		<description>Recent content in Stark Varg on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 19 Apr 2026 13:47:46 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/stark-varg/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Стартап электробайков утроил выручку и вышел в плюс</title>
+				<link>https://blog.alimov.top/this-ev-dirt-bike-startup-just-tripled-revenue-and-went-profitable/</link>
+				<pubDate>Sun, 19 Apr 2026 13:47:46 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-ev-dirt-bike-startup-just-tripled-revenue-and-went-profitable/</guid>
+				<description>&lt;p&gt;Stark Future только что опубликовала финансовые результаты за первый квартал 2026 года, и они весьма впечатляют. Выручка компании выросла на 212 процентов по сравнению с аналогичным периодом прошлого года. Это相当于 росту в 3,12 раза всего за один квартал. Не опечатка.&lt;/p&gt;&#xA;&lt;p&gt;Параллельно компания достигла своего первого периода прибыльности по EBITDA, что означает, что она не только продаёт мотоциклы, но и зарабатывает на этом.&lt;/p&gt;&#xA;&lt;p&gt;Давайте посмотрим на это под другим углом. Большинство стартапов в сфере электромобилей всё ещё застряли на этапе, когда рост сопровождается большими убытками. Они сжигают деньги, масштабируются позже, и пытаются разобраться во всём этом в конечном итоге. Stark просто пропустила этот этап и сказала: «Мы будем расти быстро и действовать дисциплинированно». Уже это делает отчёт достойным внимания.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

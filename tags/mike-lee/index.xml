@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mike Lee on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/mike-lee/</link>
-    <description>Recent content in Mike Lee on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 26 Feb 2026 12:13:59 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/mike-lee/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Законодатели штата Юта снова пытаются продать земли общего пользования</title>
-      <link>https://blog.alimov.top/utahs-legislature-is-back-trying-to-sell-off-your-public-lands/</link>
-      <pubDate>Thu, 26 Feb 2026 12:13:59 +0000</pubDate>
-      <guid>https://blog.alimov.top/utahs-legislature-is-back-trying-to-sell-off-your-public-lands/</guid>
-      <description>&lt;p&gt;Кто бы ни сказал, что &amp;ldquo;дьявол в деталях&amp;rdquo;, тот явно никогда не встречался с политиками или не прогуливался по нашей нынешней бюрократии. Политики и их новые законопроекты процветают в двусмысленности языка, где слова, кажется, не имеют значения, но зато оказывают давление и напрягают системы, которые они контролируют. Эти люди любят общие фразы, поскольку они могут означать что угодно и одновременно ничего.&lt;/p&gt;&#xA;&lt;p&gt;Это позволяет им постоянно водить за нос своих избирателей.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Mike Lee on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/mike-lee/</link>
+		<description>Recent content in Mike Lee on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 26 Feb 2026 12:13:59 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/mike-lee/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Законодатели штата Юта снова пытаются продать земли общего пользования</title>
+				<link>https://blog.alimov.top/utahs-legislature-is-back-trying-to-sell-off-your-public-lands/</link>
+				<pubDate>Thu, 26 Feb 2026 12:13:59 +0000</pubDate>
+				<guid>https://blog.alimov.top/utahs-legislature-is-back-trying-to-sell-off-your-public-lands/</guid>
+				<description>&lt;p&gt;Кто бы ни сказал, что &amp;ldquo;дьявол в деталях&amp;rdquo;, тот явно никогда не встречался с политиками или не прогуливался по нашей нынешней бюрократии. Политики и их новые законопроекты процветают в двусмысленности языка, где слова, кажется, не имеют значения, но зато оказывают давление и напрягают системы, которые они контролируют. Эти люди любят общие фразы, поскольку они могут означать что угодно и одновременно ничего.&lt;/p&gt;&#xA;&lt;p&gt;Это позволяет им постоянно водить за нос своих избирателей.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

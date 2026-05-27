@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Guruma on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/guruma/</link>
-    <description>Recent content in Guruma on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Wed, 22 Apr 2026 11:48:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/guruma/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Китайская супербайк склонировала конкурента и обставила его по технологиям</title>
-      <link>https://blog.alimov.top/this-chinese-superbike-copied-the-copy-and-then-added-a-ton-of-technology/</link>
-      <pubDate>Wed, 22 Apr 2026 11:48:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-chinese-superbike-copied-the-copy-and-then-added-a-ton-of-technology/</guid>
-      <description>&lt;p&gt;Супербайки всегда были на острие прогресса в мотоспорте. С тех пор, как такие иконы, как Honda Fireblade и Yamaha YZF-R1, переписали правила игры для литровых мотоциклов, этот сегмент стал ориентирован на追求 чистой производительности. Больше мощности, меньше веса, острее управляемость. Эта формула по-прежнему актуальна, но понятие «передовой край» существенно изменилось.&lt;/p&gt;&#xA;&lt;p&gt;Электроника теперь играет не менее важную роль, чем характеристики двигателя. Современные супербайки оснащены ИМУ, контролем тяги, Cornering ABS и режимами езды, которые могут превратить страшную машину в нечто удивительно управляемое. Это одна из причин, почему сегмент по-прежнему привлекает людей. Теперь это не только скорость. Это о том, чтобы сделать эту скорость доступной.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Guruma on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/guruma/</link>
+		<description>Recent content in Guruma on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 22 Apr 2026 11:48:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/guruma/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Китайская супербайк склонировала конкурента и обставила его по технологиям</title>
+				<link>https://blog.alimov.top/this-chinese-superbike-copied-the-copy-and-then-added-a-ton-of-technology/</link>
+				<pubDate>Wed, 22 Apr 2026 11:48:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-chinese-superbike-copied-the-copy-and-then-added-a-ton-of-technology/</guid>
+				<description>&lt;p&gt;Супербайки всегда были на острие прогресса в мотоспорте. С тех пор, как такие иконы, как Honda Fireblade и Yamaha YZF-R1, переписали правила игры для литровых мотоциклов, этот сегмент стал ориентирован на追求 чистой производительности. Больше мощности, меньше веса, острее управляемость. Эта формула по-прежнему актуальна, но понятие «передовой край» существенно изменилось.&lt;/p&gt;&#xA;&lt;p&gt;Электроника теперь играет не менее важную роль, чем характеристики двигателя. Современные супербайки оснащены ИМУ, контролем тяги, Cornering ABS и режимами езды, которые могут превратить страшную машину в нечто удивительно управляемое. Это одна из причин, почему сегмент по-прежнему привлекает людей. Теперь это не только скорость. Это о том, чтобы сделать эту скорость доступной.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

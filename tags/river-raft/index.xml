@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>River Raft on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/river-raft/</link>
-    <description>Recent content in River Raft on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 05 Feb 2026 13:56:12 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/river-raft/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Снежный патруль: экстремальные спасатели вызволили лошадь в горах</title>
-      <link>https://blog.alimov.top/quick-thinking-snowmobilers-just-rescued-a-missing-horse-in-the-mountains/</link>
-      <pubDate>Thu, 05 Feb 2026 13:56:12 +0000</pubDate>
-      <guid>https://blog.alimov.top/quick-thinking-snowmobilers-just-rescued-a-missing-horse-in-the-mountains/</guid>
-      <description>&lt;p&gt;Представьте себе прекрасную зимнюю прогулку на снегоходе. Если ваши сани в порядке, вы мчитесь с друзьями, наслаждаясь хорошим временем и не заботясь ни о чем, потому что вы все теплые и уютные в своей экипировке.&lt;/p&gt;&#xA;&lt;p&gt;Это великолепно, свежо и солнечно, и воздух имеет ту самую удивительную тихую качество, которое появляется только когда вокруг вас серьезные сугробы, и все становится намного тише. Может быть, даже ваш загруженный ум успокаивается; хвала этому.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>River Raft on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/river-raft/</link>
+		<description>Recent content in River Raft on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 05 Feb 2026 13:56:12 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/river-raft/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Снежный патруль: экстремальные спасатели вызволили лошадь в горах</title>
+				<link>https://blog.alimov.top/quick-thinking-snowmobilers-just-rescued-a-missing-horse-in-the-mountains/</link>
+				<pubDate>Thu, 05 Feb 2026 13:56:12 +0000</pubDate>
+				<guid>https://blog.alimov.top/quick-thinking-snowmobilers-just-rescued-a-missing-horse-in-the-mountains/</guid>
+				<description>&lt;p&gt;Представьте себе прекрасную зимнюю прогулку на снегоходе. Если ваши сани в порядке, вы мчитесь с друзьями, наслаждаясь хорошим временем и не заботясь ни о чем, потому что вы все теплые и уютные в своей экипировке.&lt;/p&gt;&#xA;&lt;p&gt;Это великолепно, свежо и солнечно, и воздух имеет ту самую удивительную тихую качество, которое появляется только когда вокруг вас серьезные сугробы, и все становится намного тише. Может быть, даже ваш загруженный ум успокаивается; хвала этому.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

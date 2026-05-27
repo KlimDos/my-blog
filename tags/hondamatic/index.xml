@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hondamatic on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/hondamatic/</link>
-    <description>Recent content in Hondamatic on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 22 Jan 2026 13:28:36 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/hondamatic/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Вы, вероятно, ошибаетесь насчет электронного сцепления Honda, и вот почему</title>
-      <link>https://blog.alimov.top/youre-probably-wrong-about-hondas-e-clutch-and-heres-why/</link>
-      <pubDate>Thu, 22 Jan 2026 13:28:36 +0000</pubDate>
-      <guid>https://blog.alimov.top/youre-probably-wrong-about-hondas-e-clutch-and-heres-why/</guid>
-      <description>&lt;p&gt;Повторяйте за мной: Honda E-Clutch - это не автомат.&lt;/p&gt;&#xA;&lt;p&gt;Это не вопрос мнения, это факт, который может подтвердить каждый, кто ездил на таком мотоцикле. Хотя E-Clutch действительно функционирует иначе, чем стандартный рычаг сцепления мотоцикла, который вы, возможно, уже знаете и любите, он все равно требует участия водителя, чтобы переключить передачу. Поэтому оно по определению не является автоматическим.&lt;/p&gt;&#xA;&lt;p&gt;Существуют мотоциклы с автоматической коробкой передач, и Honda даже делала некоторые из них в прошлом (Hondamatic, кто-нибудь?). Но этот? Это не то. И в интересах демистификации различных типов современных систем переключения передач, которые можно встретить на двух- и трехколесных мотоциклах и трициклах в наши дни, мы собираемся поговорить обо всех них, о том, как они работают, и чего вы можете ожидать, если поедете на таком мотоцикле. Готовы? Поехали.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Hondamatic on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/hondamatic/</link>
+		<description>Recent content in Hondamatic on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 22 Jan 2026 13:28:36 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/hondamatic/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Вы, вероятно, ошибаетесь насчет электронного сцепления Honda, и вот почему</title>
+				<link>https://blog.alimov.top/youre-probably-wrong-about-hondas-e-clutch-and-heres-why/</link>
+				<pubDate>Thu, 22 Jan 2026 13:28:36 +0000</pubDate>
+				<guid>https://blog.alimov.top/youre-probably-wrong-about-hondas-e-clutch-and-heres-why/</guid>
+				<description>&lt;p&gt;Повторяйте за мной: Honda E-Clutch - это не автомат.&lt;/p&gt;&#xA;&lt;p&gt;Это не вопрос мнения, это факт, который может подтвердить каждый, кто ездил на таком мотоцикле. Хотя E-Clutch действительно функционирует иначе, чем стандартный рычаг сцепления мотоцикла, который вы, возможно, уже знаете и любите, он все равно требует участия водителя, чтобы переключить передачу. Поэтому оно по определению не является автоматическим.&lt;/p&gt;&#xA;&lt;p&gt;Существуют мотоциклы с автоматической коробкой передач, и Honda даже делала некоторые из них в прошлом (Hondamatic, кто-нибудь?). Но этот? Это не то. И в интересах демистификации различных типов современных систем переключения передач, которые можно встретить на двух- и трехколесных мотоциклах и трициклах в наши дни, мы собираемся поговорить обо всех них, о том, как они работают, и чего вы можете ожидать, если поедете на таком мотоцикле. Готовы? Поехали.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

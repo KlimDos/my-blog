@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Wyofile on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/wyofile/</link>
-    <description>Recent content in Wyofile on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Fri, 27 Feb 2026 12:39:08 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/wyofile/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Волкобаяние в Вайоминге: Коди Робертс заключил сделку и избежал тюрьмы</title>
-      <link>https://blog.alimov.top/is-this-the-end-to-the-wyoming-wolf-whacking-case-cody-roberts-takes-plea-deal-a/</link>
-      <pubDate>Fri, 27 Feb 2026 12:39:08 +0000</pubDate>
-      <guid>https://blog.alimov.top/is-this-the-end-to-the-wyoming-wolf-whacking-case-cody-roberts-takes-plea-deal-a/</guid>
-      <description>&lt;p&gt;Два года назад мир был возмущен действиями Коди Робертса, жителя Вайоминга. Суть дела заключалась в том, что Робертс на снегоходе сбил волка, а вместо того, чтобы добить его, он запечатал ему рот и оттащил в местный бар, где фотографировался с ним. Позже он добил волка прямо в баре. И, конечно же, он опубликовал фотографии в интернете, как это часто бывает.&lt;/p&gt;&#xA;&lt;p&gt;Как можно было ожидать, история получила широкий резонанс, и различные организации, занимающиеся защитой животных, а также ассоциации снегоходчиков и охотников, подвергли Робертса жесткой критике. Практически все, кроме нескольких ранчеров, были возмущены его действиями.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Wyofile on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/wyofile/</link>
+		<description>Recent content in Wyofile on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 27 Feb 2026 12:39:08 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/wyofile/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Волкобаяние в Вайоминге: Коди Робертс заключил сделку и избежал тюрьмы</title>
+				<link>https://blog.alimov.top/is-this-the-end-to-the-wyoming-wolf-whacking-case-cody-roberts-takes-plea-deal-a/</link>
+				<pubDate>Fri, 27 Feb 2026 12:39:08 +0000</pubDate>
+				<guid>https://blog.alimov.top/is-this-the-end-to-the-wyoming-wolf-whacking-case-cody-roberts-takes-plea-deal-a/</guid>
+				<description>&lt;p&gt;Два года назад мир был возмущен действиями Коди Робертса, жителя Вайоминга. Суть дела заключалась в том, что Робертс на снегоходе сбил волка, а вместо того, чтобы добить его, он запечатал ему рот и оттащил в местный бар, где фотографировался с ним. Позже он добил волка прямо в баре. И, конечно же, он опубликовал фотографии в интернете, как это часто бывает.&lt;/p&gt;&#xA;&lt;p&gt;Как можно было ожидать, история получила широкий резонанс, и различные организации, занимающиеся защитой животных, а также ассоциации снегоходчиков и охотников, подвергли Робертса жесткой критике. Практически все, кроме нескольких ранчеров, были возмущены его действиями.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

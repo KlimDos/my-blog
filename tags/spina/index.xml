@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Spina on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/spina/</link>
-    <description>Recent content in Spina on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Fri, 22 May 2026 12:14:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/spina/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Защита спины для мотоцикла - безопасность на дороге круглый год.</title>
-      <link>https://blog.alimov.top/this-motorcycle-back-protector-exists-because-crashing-in-summer-still-counts-as/</link>
-      <pubDate>Fri, 22 May 2026 12:14:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-motorcycle-back-protector-exists-because-crashing-in-summer-still-counts-as/</guid>
-      <description>&lt;p&gt;В мире мотоциклетного снаряжения есть одна странная вещь, если хорошенько подумать. Мы фанатично изучаем графики динамометров, бесконечно спорим о составах шин, часами смотрим видео о настройке подвески на YouTube, а затем запросто расстаемся с несколькими сотнями баксов на защиту и&amp;hellip; просто доверяем ей. Никаких тест-драйвов, никаких реальных демонстраций, никаких драматических откровений.&lt;/p&gt;&#xA;&lt;p&gt;Вы просто покупаете вещь, прячете ее в куртку и надеетесь, что она будет работать нормально в течение следующего десятка лет. Потому что если ваш спинной протектор когда-нибудь действительно понадобится, это значит, что ваш день уже пошел наперекосяк.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Spina on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/spina/</link>
+		<description>Recent content in Spina on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 22 May 2026 12:14:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/spina/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Защита спины для мотоцикла - безопасность на дороге круглый год.</title>
+				<link>https://blog.alimov.top/this-motorcycle-back-protector-exists-because-crashing-in-summer-still-counts-as/</link>
+				<pubDate>Fri, 22 May 2026 12:14:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-motorcycle-back-protector-exists-because-crashing-in-summer-still-counts-as/</guid>
+				<description>&lt;p&gt;В мире мотоциклетного снаряжения есть одна странная вещь, если хорошенько подумать. Мы фанатично изучаем графики динамометров, бесконечно спорим о составах шин, часами смотрим видео о настройке подвески на YouTube, а затем запросто расстаемся с несколькими сотнями баксов на защиту и&amp;hellip; просто доверяем ей. Никаких тест-драйвов, никаких реальных демонстраций, никаких драматических откровений.&lt;/p&gt;&#xA;&lt;p&gt;Вы просто покупаете вещь, прячете ее в куртку и надеетесь, что она будет работать нормально в течение следующего десятка лет. Потому что если ваш спинной протектор когда-нибудь действительно понадобится, это значит, что ваш день уже пошел наперекосяк.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

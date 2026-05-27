@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Yamaha Tenere 700 on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/yamaha-tenere-700/</link>
-    <description>Recent content in Yamaha Tenere 700 on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Fri, 27 Feb 2026 12:18:35 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/yamaha-tenere-700/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2026 Ducati DesertX V2: Эволюция Настоящего Внедорожного Мотоцикла</title>
-      <link>https://blog.alimov.top/2026-ducati-desertx-v2-refines-ducatis-vision-of-a-true-off-road-motorcycle/</link>
-      <pubDate>Fri, 27 Feb 2026 12:18:35 +0000</pubDate>
-      <guid>https://blog.alimov.top/2026-ducati-desertx-v2-refines-ducatis-vision-of-a-true-off-road-motorcycle/</guid>
-      <description>&lt;p&gt;Когда-то время от времени появлялись слухи о том, что сегмент приключенческих мотоциклов ждёт революция. Казалось, что производители просто копируют уже существующие решения, и ничего нового не происходит. Но затем на рынок вышли такие модели, как Yamaha Tenere 700 и KTM 790 Adventure R, и всё кардинально изменилось.&lt;/p&gt;&#xA;&lt;p&gt;Эти мотоциклы показали, что можно создать по-настоящему универсальный аппарат, способный как пересечь континент, так и проехать по серьёзному бездорожью. И Ducati не стала исключением, выпустив DesertX — мотоцикл, который стал по-настоящему важным событием в мире мототехники.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Yamaha Tenere 700 on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/yamaha-tenere-700/</link>
+		<description>Recent content in Yamaha Tenere 700 on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 27 Feb 2026 12:18:35 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/yamaha-tenere-700/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>2026 Ducati DesertX V2: Эволюция Настоящего Внедорожного Мотоцикла</title>
+				<link>https://blog.alimov.top/2026-ducati-desertx-v2-refines-ducatis-vision-of-a-true-off-road-motorcycle/</link>
+				<pubDate>Fri, 27 Feb 2026 12:18:35 +0000</pubDate>
+				<guid>https://blog.alimov.top/2026-ducati-desertx-v2-refines-ducatis-vision-of-a-true-off-road-motorcycle/</guid>
+				<description>&lt;p&gt;Когда-то время от времени появлялись слухи о том, что сегмент приключенческих мотоциклов ждёт революция. Казалось, что производители просто копируют уже существующие решения, и ничего нового не происходит. Но затем на рынок вышли такие модели, как Yamaha Tenere 700 и KTM 790 Adventure R, и всё кардинально изменилось.&lt;/p&gt;&#xA;&lt;p&gt;Эти мотоциклы показали, что можно создать по-настоящему универсальный аппарат, способный как пересечь континент, так и проехать по серьёзному бездорожью. И Ducati не стала исключением, выпустив DesertX — мотоцикл, который стал по-настоящему важным событием в мире мототехники.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cyclone on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/cyclone/</link>
-    <description>Recent content in Cyclone on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Tue, 12 May 2026 13:22:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/cyclone/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Китайский ADV-байк для новичков: готов к Дакару с первого взгляда</title>
-      <link>https://blog.alimov.top/this-chinese-adv-motorcycle-will-make-beginners-look-like-theyre-ready-for-dakar/</link>
-      <pubDate>Tue, 12 May 2026 13:22:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-chinese-adv-motorcycle-will-make-beginners-look-like-theyre-ready-for-dakar/</guid>
-      <description>&lt;p&gt;Китайские бренды мотоциклов последние десять лет пытаются избавиться от репутации производителей дешевых подделок, и некоторым компаниям это наконец-то удается. Бренды вроде CFMoto и Benelli (через материнскую компанию QJ Motor) уже проникли на американский рынок, и многие райдеры готовы поручиться за качество их продукции.&lt;/p&gt;&#xA;&lt;p&gt;Однако, как мы уже обсуждали, мировой рынок мотоциклов намного больше американского, и есть немало других китайских производителей, которые начали добиваться успеха в Европе. Одним из них является Zongshen, один из старейших китайских производителей мотоциклов. Основанный в 1992 году, Zongshen - это не случайный стартап, выпускающий одноразовые скутеры. Компания производит двигатели, мототранспорт и компоненты в огромных масштабах и уже много лет работает с мировыми брендами.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Cyclone on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/cyclone/</link>
+		<description>Recent content in Cyclone on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 12 May 2026 13:22:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/cyclone/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Китайский ADV-байк для новичков: готов к Дакару с первого взгляда</title>
+				<link>https://blog.alimov.top/this-chinese-adv-motorcycle-will-make-beginners-look-like-theyre-ready-for-dakar/</link>
+				<pubDate>Tue, 12 May 2026 13:22:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-chinese-adv-motorcycle-will-make-beginners-look-like-theyre-ready-for-dakar/</guid>
+				<description>&lt;p&gt;Китайские бренды мотоциклов последние десять лет пытаются избавиться от репутации производителей дешевых подделок, и некоторым компаниям это наконец-то удается. Бренды вроде CFMoto и Benelli (через материнскую компанию QJ Motor) уже проникли на американский рынок, и многие райдеры готовы поручиться за качество их продукции.&lt;/p&gt;&#xA;&lt;p&gt;Однако, как мы уже обсуждали, мировой рынок мотоциклов намного больше американского, и есть немало других китайских производителей, которые начали добиваться успеха в Европе. Одним из них является Zongshen, один из старейших китайских производителей мотоциклов. Основанный в 1992 году, Zongshen - это не случайный стартап, выпускающий одноразовые скутеры. Компания производит двигатели, мототранспорт и компоненты в огромных масштабах и уже много лет работает с мировыми брендами.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

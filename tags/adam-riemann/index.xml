@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Adam Riemann on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/adam-riemann/</link>
-    <description>Recent content in Adam Riemann on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Fri, 13 Feb 2026 14:04:14 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/adam-riemann/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Насколько важна техника при езде на разных велосипедах по бездорожью?</title>
-      <link>https://blog.alimov.top/how-much-does-technique-matter-when-you-ride-different-bikes-off-road/</link>
-      <pubDate>Fri, 13 Feb 2026 14:04:14 +0000</pubDate>
-      <guid>https://blog.alimov.top/how-much-does-technique-matter-when-you-ride-different-bikes-off-road/</guid>
-      <description>&lt;p&gt;Когда-то (и это было не так давно) тренировочное поле, подобное тому, что мы видим в новом видео Адама Римана, могло бы меня напугать. Я знаю, знаю, это просто грязь, верно? Она не выглядит ни песчаной, ни каменистой, ни грязной, ни изрезанной колеями, ни даже как будто расположенная под каким-то особенно крутым углом.&lt;/p&gt;&#xA;&lt;p&gt;Но дело в том, что я не рос верхом, и хотя я играл в грязи столько же, сколько, наверное, любой маленький ребенок, я обычно не делал этого ни на чем, кроме своих собственных ног. А когда я научился кататься, то только на улице. Так что мысль о том, что я могу потерять сцепление с дорогой, а задний борт может вывернуться так, что я не смогу его контролировать, вызывала у меня холодный пот, понимаете?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Adam Riemann on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/adam-riemann/</link>
+		<description>Recent content in Adam Riemann on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 13 Feb 2026 14:04:14 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/adam-riemann/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Насколько важна техника при езде на разных велосипедах по бездорожью?</title>
+				<link>https://blog.alimov.top/how-much-does-technique-matter-when-you-ride-different-bikes-off-road/</link>
+				<pubDate>Fri, 13 Feb 2026 14:04:14 +0000</pubDate>
+				<guid>https://blog.alimov.top/how-much-does-technique-matter-when-you-ride-different-bikes-off-road/</guid>
+				<description>&lt;p&gt;Когда-то (и это было не так давно) тренировочное поле, подобное тому, что мы видим в новом видео Адама Римана, могло бы меня напугать. Я знаю, знаю, это просто грязь, верно? Она не выглядит ни песчаной, ни каменистой, ни грязной, ни изрезанной колеями, ни даже как будто расположенная под каким-то особенно крутым углом.&lt;/p&gt;&#xA;&lt;p&gt;Но дело в том, что я не рос верхом, и хотя я играл в грязи столько же, сколько, наверное, любой маленький ребенок, я обычно не делал этого ни на чем, кроме своих собственных ног. А когда я научился кататься, то только на улице. Так что мысль о том, что я могу потерять сцепление с дорогой, а задний борт может вывернуться так, что я не смогу его контролировать, вызывала у меня холодный пот, понимаете?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

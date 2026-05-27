@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kawasaki Ninja 500 on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/kawasaki-ninja-500/</link>
-    <description>Recent content in Kawasaki Ninja 500 on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Fri, 08 May 2026 11:03:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/kawasaki-ninja-500/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Китайская новинка: спортбайк для тех, кто устал от трека</title>
-      <link>https://blog.alimov.top/this-new-chinese-sportbike-knows-that-not-everyone-wants-a-race-bike/</link>
-      <pubDate>Fri, 08 May 2026 11:03:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-new-chinese-sportbike-knows-that-not-everyone-wants-a-race-bike/</guid>
-      <description>&lt;p&gt;На протяжении многих лет мотоциклы вроде Kawasaki Ninja 500 (и 250, 300, 400 до него) и Honda CBR500R по сути являлись своего рода «входными билетами» в мир спортбайков. Это те мотоциклы, которые покупают, когда на стенах еще висят плакаты с кричащими суперспортами, но навыки, уверенность и страховые премии пока не соответствуют.&lt;/p&gt;&#xA;&lt;p&gt;Они дают новичкам-райдерам ровно столько агрессии, скорости и стиля, чтобы чувствовать excitement, не подвергая себя немедленному наказанию за каждую ошибку.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Kawasaki Ninja 500 on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/kawasaki-ninja-500/</link>
+		<description>Recent content in Kawasaki Ninja 500 on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 08 May 2026 11:03:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/kawasaki-ninja-500/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Китайская новинка: спортбайк для тех, кто устал от трека</title>
+				<link>https://blog.alimov.top/this-new-chinese-sportbike-knows-that-not-everyone-wants-a-race-bike/</link>
+				<pubDate>Fri, 08 May 2026 11:03:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-new-chinese-sportbike-knows-that-not-everyone-wants-a-race-bike/</guid>
+				<description>&lt;p&gt;На протяжении многих лет мотоциклы вроде Kawasaki Ninja 500 (и 250, 300, 400 до него) и Honda CBR500R по сути являлись своего рода «входными билетами» в мир спортбайков. Это те мотоциклы, которые покупают, когда на стенах еще висят плакаты с кричащими суперспортами, но навыки, уверенность и страховые премии пока не соответствуют.&lt;/p&gt;&#xA;&lt;p&gt;Они дают новичкам-райдерам ровно столько агрессии, скорости и стиля, чтобы чувствовать excitement, не подвергая себя немедленному наказанию за каждую ошибку.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

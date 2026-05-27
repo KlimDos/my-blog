@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>One on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/one/</link>
-    <description>Recent content in One on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Mon, 23 Mar 2026 12:16:09 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/one/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>LiveWire снижает цены на зарубежных рынках, чтобы конкурировать с Honda WN7 и попадает впросак</title>
-      <link>https://blog.alimov.top/livewire-slashes-prices-overseas-to-compete-with-hondas-wn7-creating-a-new-finan/</link>
-      <pubDate>Mon, 23 Mar 2026 12:16:09 +0000</pubDate>
-      <guid>https://blog.alimov.top/livewire-slashes-prices-overseas-to-compete-with-hondas-wn7-creating-a-new-finan/</guid>
-      <description>&lt;p&gt;Думали ли вы когда-нибудь: «Я бы точно купил LiveWire One, если бы он стоил около 17 000 долларов»? Нет, и я тоже. Но если кто-то в Европе задумывался об этом, то сейчас ваш счастливый день. Мы наблюдали, как цена мотоциклов LiveWire снижалась на протяжении нескольких лет из-за низких продаж, и хотя цифры немного улучшились, кажется, LiveWire считает, что One не сможет конкурировать с новым Honda WN7 без очередного снижения цены.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>One on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/one/</link>
+		<description>Recent content in One on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 23 Mar 2026 12:16:09 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/one/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>LiveWire снижает цены на зарубежных рынках, чтобы конкурировать с Honda WN7 и попадает впросак</title>
+				<link>https://blog.alimov.top/livewire-slashes-prices-overseas-to-compete-with-hondas-wn7-creating-a-new-finan/</link>
+				<pubDate>Mon, 23 Mar 2026 12:16:09 +0000</pubDate>
+				<guid>https://blog.alimov.top/livewire-slashes-prices-overseas-to-compete-with-hondas-wn7-creating-a-new-finan/</guid>
+				<description>&lt;p&gt;Думали ли вы когда-нибудь: «Я бы точно купил LiveWire One, если бы он стоил около 17 000 долларов»? Нет, и я тоже. Но если кто-то в Европе задумывался об этом, то сейчас ваш счастливый день. Мы наблюдали, как цена мотоциклов LiveWire снижалась на протяжении нескольких лет из-за низких продаж, и хотя цифры немного улучшились, кажется, LiveWire считает, что One не сможет конкурировать с новым Honda WN7 без очередного снижения цены.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

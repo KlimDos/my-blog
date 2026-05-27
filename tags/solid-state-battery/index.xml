@@ -1,40 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Solid State Battery on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/solid-state-battery/</link>
-    <description>Recent content in Solid State Battery on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Wed, 22 Apr 2026 12:55:30 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/solid-state-battery/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Утверждается, что «твёрдотельная» батарея электромотоцикла построена на обмане</title>
-      <link>https://blog.alimov.top/theres-a-big-claim-that-this-ev-companys-solid-state-motorcycle-battery-is-built/</link>
-      <pubDate>Wed, 22 Apr 2026 12:55:30 +0000</pubDate>
-      <guid>https://blog.alimov.top/theres-a-big-claim-that-this-ev-companys-solid-state-motorcycle-battery-is-built/</guid>
-      <description>&lt;p&gt;Честно говоря, я всегда держался на расстоянии от новой твердотельной батареи Donut Labs, хотя ценю усилия небольших компаний, которые толкают технический прогресс вперед. Однако история Donut Labs, которая грешит на приукрашивание технических характеристик, заставляет быть осторожным.&lt;/p&gt;&#xA;&lt;p&gt;Самый вопиющий пример - это их &amp;ldquo;мировой рекорд&amp;rdquo; по дальности хода на скорости всего 12 миль в час в пробках Лондона. Любой мотоцикл покажет сумасшедший запас хода в таких условиях.&lt;/p&gt;&#xA;&lt;p&gt;Когда Donut Labs и их партнер Verge Motorcycles объявили о создании твердотельной батареи, которая десятилетиями была целью всего автомобильного и электротехнического мира, и установили ее на мотоцикл, мой внутренний детектив был настороже. Затем компании начали публиковать результаты &amp;ldquo;сторонних&amp;rdquo; тестов, которые подтверждали ряд чересчур оптимистичных заявлений.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Испытали твёрдотельный мотоциклетный аккумулятор. Осталось много вопросов</title>
-      <link>https://blog.alimov.top/this-solid-state-motorcycle-battery-was-independently-tested-im-still-not-convin/</link>
-      <pubDate>Tue, 24 Feb 2026 14:38:52 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-solid-state-motorcycle-battery-was-independently-tested-im-still-not-convin/</guid>
-      <description>&lt;p&gt;Несколько недель назад компании Donut Labs и Verge Motorcycles представили то, что они называют революционным мотоциклом. По их заявлениям, это первый в мире мотоцикл с твердотельной батареей. И обещания были весьма громкими.&lt;/p&gt;&#xA;&lt;p&gt;Неслыханные скорости зарядки. Невероятно большая емкость батареи, позволяющая совершать дальние поездки. И меньшее количество компонентов, к тому же. Батарея кажется неким философским камнем в мире электромобилей, поскольку все пытаются создать ее раньше других. Но как и упомянутый алхимический материал, характеристики батареи казались слишком хорошими, чтобы быть правдой. Особенно после демонстраций Verge по валидации.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Мотоцикл с питанием от твердотельных аккумуляторов от Verge Не стоит откладывать, если вы уже</title>
-      <link>https://blog.alimov.top/verges-solid-state-battery-powered-motorcycle-shouldnt-be-delayed-if-you-already/</link>
-      <pubDate>Mon, 09 Feb 2026 13:52:56 +0000</pubDate>
-      <guid>https://blog.alimov.top/verges-solid-state-battery-powered-motorcycle-shouldnt-be-delayed-if-you-already/</guid>
-      <description>&lt;p&gt;Новость о том, что Verge Motorcycles и финский стартап Donut Lab будут работать вместе над созданием первого в мире серийного мотоцикла, работающего от твердотельного аккумулятора, заставила всех производителей насторожиться. Но вскоре после того, как исполнительный редактор Джонатон Кляйн написал эту новость, мы узнали, что производство будет отложено. Ну, оно задерживается только в том случае, если вы закажете мотоцикл сегодня.&lt;/p&gt;&#xA;&lt;p&gt;Поставки Verge Motorcycles TS Pro, оснащенного твердотельным аккумулятором Donut Lab, должны были начаться к концу первого квартала (31 марта). По данным Verge, если вы заказали TS Pro в прошлом году, вы все равно должны получить его вовремя. Но если вы опоздали, то, скорее всего, вам придется ждать не раньше четвертого квартала этого года.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Сможет ли твердотельная батарея Donut с большим радиусом действия спасти EV-мотоциклы?</title>
-      <link>https://blog.alimov.top/can-donuts-high-range-solid-state-battery-really-save-ev-motorcycles/</link>
-      <pubDate>Mon, 05 Jan 2026 17:45:58 +0000</pubDate>
-      <guid>https://blog.alimov.top/can-donuts-high-range-solid-state-battery-really-save-ev-motorcycles/</guid>
-      <description>&lt;p&gt;Сегодня я разговаривал с Патриком Джорджем из InsideEVs, как раз после анонса твердотельных батарей от Donut Lab и Verge Motorcycles. Мы обсуждали характеристики новой батареи. И действительно, это впечатляющий прорыв, поскольку Verge TS Pro с новой твердотельной батареей утверждает, что она обеспечивает огромный запас хода в 370 миль и быструю зарядку до 100% заряда менее чем за 20 минут. &lt;/p&gt;&#xA;&lt;p&gt;В общем, это все, что вы можете пожелать от батареи для мотоцикла EV. Но он задал мне особенно острый вопрос, который важен для всего остального мира; настолько, что это послужило толчком к написанию этой статьи.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Solid State Battery on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/solid-state-battery/</link>
+		<description>Recent content in Solid State Battery on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 22 Apr 2026 12:55:30 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/solid-state-battery/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Утверждается, что «твёрдотельная» батарея электромотоцикла построена на обмане</title>
+				<link>https://blog.alimov.top/theres-a-big-claim-that-this-ev-companys-solid-state-motorcycle-battery-is-built/</link>
+				<pubDate>Wed, 22 Apr 2026 12:55:30 +0000</pubDate>
+				<guid>https://blog.alimov.top/theres-a-big-claim-that-this-ev-companys-solid-state-motorcycle-battery-is-built/</guid>
+				<description>&lt;p&gt;Честно говоря, я всегда держался на расстоянии от новой твердотельной батареи Donut Labs, хотя ценю усилия небольших компаний, которые толкают технический прогресс вперед. Однако история Donut Labs, которая грешит на приукрашивание технических характеристик, заставляет быть осторожным.&lt;/p&gt;&#xA;&lt;p&gt;Самый вопиющий пример - это их &amp;ldquo;мировой рекорд&amp;rdquo; по дальности хода на скорости всего 12 миль в час в пробках Лондона. Любой мотоцикл покажет сумасшедший запас хода в таких условиях.&lt;/p&gt;&#xA;&lt;p&gt;Когда Donut Labs и их партнер Verge Motorcycles объявили о создании твердотельной батареи, которая десятилетиями была целью всего автомобильного и электротехнического мира, и установили ее на мотоцикл, мой внутренний детектив был настороже. Затем компании начали публиковать результаты &amp;ldquo;сторонних&amp;rdquo; тестов, которые подтверждали ряд чересчур оптимистичных заявлений.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Испытали твёрдотельный мотоциклетный аккумулятор. Осталось много вопросов</title>
+				<link>https://blog.alimov.top/this-solid-state-motorcycle-battery-was-independently-tested-im-still-not-convin/</link>
+				<pubDate>Tue, 24 Feb 2026 14:38:52 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-solid-state-motorcycle-battery-was-independently-tested-im-still-not-convin/</guid>
+				<description>&lt;p&gt;Несколько недель назад компании Donut Labs и Verge Motorcycles представили то, что они называют революционным мотоциклом. По их заявлениям, это первый в мире мотоцикл с твердотельной батареей. И обещания были весьма громкими.&lt;/p&gt;&#xA;&lt;p&gt;Неслыханные скорости зарядки. Невероятно большая емкость батареи, позволяющая совершать дальние поездки. И меньшее количество компонентов, к тому же. Батарея кажется неким философским камнем в мире электромобилей, поскольку все пытаются создать ее раньше других. Но как и упомянутый алхимический материал, характеристики батареи казались слишком хорошими, чтобы быть правдой. Особенно после демонстраций Verge по валидации.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Мотоцикл с питанием от твердотельных аккумуляторов от Verge Не стоит откладывать, если вы уже</title>
+				<link>https://blog.alimov.top/verges-solid-state-battery-powered-motorcycle-shouldnt-be-delayed-if-you-already/</link>
+				<pubDate>Mon, 09 Feb 2026 13:52:56 +0000</pubDate>
+				<guid>https://blog.alimov.top/verges-solid-state-battery-powered-motorcycle-shouldnt-be-delayed-if-you-already/</guid>
+				<description>&lt;p&gt;Новость о том, что Verge Motorcycles и финский стартап Donut Lab будут работать вместе над созданием первого в мире серийного мотоцикла, работающего от твердотельного аккумулятора, заставила всех производителей насторожиться. Но вскоре после того, как исполнительный редактор Джонатон Кляйн написал эту новость, мы узнали, что производство будет отложено. Ну, оно задерживается только в том случае, если вы закажете мотоцикл сегодня.&lt;/p&gt;&#xA;&lt;p&gt;Поставки Verge Motorcycles TS Pro, оснащенного твердотельным аккумулятором Donut Lab, должны были начаться к концу первого квартала (31 марта). По данным Verge, если вы заказали TS Pro в прошлом году, вы все равно должны получить его вовремя. Но если вы опоздали, то, скорее всего, вам придется ждать не раньше четвертого квартала этого года.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Сможет ли твердотельная батарея Donut с большим радиусом действия спасти EV-мотоциклы?</title>
+				<link>https://blog.alimov.top/can-donuts-high-range-solid-state-battery-really-save-ev-motorcycles/</link>
+				<pubDate>Mon, 05 Jan 2026 17:45:58 +0000</pubDate>
+				<guid>https://blog.alimov.top/can-donuts-high-range-solid-state-battery-really-save-ev-motorcycles/</guid>
+				<description>&lt;p&gt;Сегодня я разговаривал с Патриком Джорджем из InsideEVs, как раз после анонса твердотельных батарей от Donut Lab и Verge Motorcycles. Мы обсуждали характеристики новой батареи. И действительно, это впечатляющий прорыв, поскольку Verge TS Pro с новой твердотельной батареей утверждает, что она обеспечивает огромный запас хода в 370 миль и быструю зарядку до 100% заряда менее чем за 20 минут. &lt;/p&gt;&#xA;&lt;p&gt;В общем, это все, что вы можете пожелать от батареи для мотоцикла EV. Но он задал мне особенно острый вопрос, который важен для всего остального мира; настолько, что это послужило толчком к написанию этой статьи.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

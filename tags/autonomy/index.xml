@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Autonomy on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/autonomy/</link>
-    <description>Recent content in Autonomy on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Mon, 04 May 2026 13:19:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/autonomy/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Бездроновый квадроцикл с парой пусковых установок ракет и громким именем</title>
-      <link>https://blog.alimov.top/this-autonomous-atv-has-twin-missile-launchers-and-a-rad-name/</link>
-      <pubDate>Mon, 04 May 2026 13:19:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-autonomous-atv-has-twin-missile-launchers-and-a-rad-name/</guid>
-      <description>&lt;p&gt;Поле боя стремительно меняется. С появлением автономных систем, наряду с электрификацией и беспилотной авиацией, современным армиям нужны новые стратегии и инструменты для ведения сегодняшних и завтрашних конфликтов, а также для защиты тех, кто находится на родине.&lt;/p&gt;&#xA;&lt;p&gt;Кроме того, военная техника с инженерной точки зрения зачастую просто потрясающая.&lt;/p&gt;&#xA;&lt;p&gt;Яркий пример — Ripsaw M1 UGV, амфибийный, вседорожный, полностью электрический и автономный квадроцикл, оснащенный парными ракетными установками. По сути, это миниатюрный электрический танк, способный проделывать путь через любую местность, необходимую морским пехотинцам, а также вести борьбу с беспилотниками, служить вьючным животным и выполнять множество других задач.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Autonomy on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/autonomy/</link>
+		<description>Recent content in Autonomy on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 04 May 2026 13:19:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/autonomy/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Бездроновый квадроцикл с парой пусковых установок ракет и громким именем</title>
+				<link>https://blog.alimov.top/this-autonomous-atv-has-twin-missile-launchers-and-a-rad-name/</link>
+				<pubDate>Mon, 04 May 2026 13:19:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-autonomous-atv-has-twin-missile-launchers-and-a-rad-name/</guid>
+				<description>&lt;p&gt;Поле боя стремительно меняется. С появлением автономных систем, наряду с электрификацией и беспилотной авиацией, современным армиям нужны новые стратегии и инструменты для ведения сегодняшних и завтрашних конфликтов, а также для защиты тех, кто находится на родине.&lt;/p&gt;&#xA;&lt;p&gt;Кроме того, военная техника с инженерной точки зрения зачастую просто потрясающая.&lt;/p&gt;&#xA;&lt;p&gt;Яркий пример — Ripsaw M1 UGV, амфибийный, вседорожный, полностью электрический и автономный квадроцикл, оснащенный парными ракетными установками. По сути, это миниатюрный электрический танк, способный проделывать путь через любую местность, необходимую морским пехотинцам, а также вести борьбу с беспилотниками, служить вьючным животным и выполнять множество других задач.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

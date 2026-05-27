@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Top-Level Racing on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/top-level-racing/</link>
-    <description>Recent content in Top-Level Racing on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 26 Feb 2026 13:28:29 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/top-level-racing/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Переведи или замени на:  Стоит ли ждать разочарования от Топрака Разгатлиоглу в MotoGP?</title>
-      <link>https://blog.alimov.top/is-toprak-razgatlioglu-gonna-suck-in-motogp/</link>
-      <pubDate>Thu, 26 Feb 2026 13:28:29 +0000</pubDate>
-      <guid>https://blog.alimov.top/is-toprak-razgatlioglu-gonna-suck-in-motogp/</guid>
-      <description>&lt;p&gt;Несмотря на то, что следующий год обещает быть очень переменчивым в MotoGP, в этом году все внимание приковано к гонщикам. Рынок райдеров сейчас очень активен, и даже до начала сезона уже ходят слухи о том, куда перейдут те или иные гонщики в сезоне 2027 года, когда все команды получат новые мотоциклы и проведут несколько новых гонок.&lt;/p&gt;&#xA;&lt;p&gt;От Педро Акосты до Хорхе Мартина, братьев Маркес, а также Багнайи и Беччеки, все интересуются, что произойдет, кто где окажется и, самое главное, кто сможет завоевать последний титул в эре 1,000cc.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Top-Level Racing on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/top-level-racing/</link>
+		<description>Recent content in Top-Level Racing on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 26 Feb 2026 13:28:29 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/top-level-racing/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Переведи или замени на:  Стоит ли ждать разочарования от Топрака Разгатлиоглу в MotoGP?</title>
+				<link>https://blog.alimov.top/is-toprak-razgatlioglu-gonna-suck-in-motogp/</link>
+				<pubDate>Thu, 26 Feb 2026 13:28:29 +0000</pubDate>
+				<guid>https://blog.alimov.top/is-toprak-razgatlioglu-gonna-suck-in-motogp/</guid>
+				<description>&lt;p&gt;Несмотря на то, что следующий год обещает быть очень переменчивым в MotoGP, в этом году все внимание приковано к гонщикам. Рынок райдеров сейчас очень активен, и даже до начала сезона уже ходят слухи о том, куда перейдут те или иные гонщики в сезоне 2027 года, когда все команды получат новые мотоциклы и проведут несколько новых гонок.&lt;/p&gt;&#xA;&lt;p&gt;От Педро Акосты до Хорхе Мартина, братьев Маркес, а также Багнайи и Беччеки, все интересуются, что произойдет, кто где окажется и, самое главное, кто сможет завоевать последний титул в эре 1,000cc.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

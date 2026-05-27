@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Recall on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/recall/</link>
-    <description>Recent content in Recall on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Fri, 15 May 2026 12:11:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/recall/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Отзыв ATV Can-Am Outlander Pro и Max Pro из-за смертельно опасного дефекта</title>
-      <link>https://blog.alimov.top/can-am-outlander-pro-and-max-pro-atvs-recalled-over-potentially-deadly-malfuncti/</link>
-      <pubDate>Fri, 15 May 2026 12:11:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/can-am-outlander-pro-and-max-pro-atvs-recalled-over-potentially-deadly-malfuncti/</guid>
-      <description>&lt;p&gt;Компания Bombardier Recreational Products (BRP), владеющая брендом Can-Am, объявила о отзыве целого ряда ATV Can-Am Outlander 500 Pro, 700 Pro и Max Pro, выпущенных в 2023, 2024, 2025 и 2026 годах. Причиной послужила проблема с программным обеспечением режима ограничителя скорости, который может вызвать внезапное и непредсказуемое ускорение. Это, в свою очередь, может привести к аварии, серьезной травме или даже смерти.&lt;/p&gt;&#xA;&lt;p&gt;Отзыв был объявлен в США через Комиссию по безопасности потребительских товаров 14 мая 2026 года. Под отзыв попали примерно 2820 единиц техники. В список вошли ATV Outlander 500/700 Pro и Max Pro 2025 и 2026 годов, оснащенные режимом ограничителя скорости, а также модели 2023 и 2024 годов, получившие обновление программного обеспечения ЭБУ через дилера Can-Am после 3 февраля 2026 года.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Recall on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/recall/</link>
+		<description>Recent content in Recall on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 15 May 2026 12:11:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/recall/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Отзыв ATV Can-Am Outlander Pro и Max Pro из-за смертельно опасного дефекта</title>
+				<link>https://blog.alimov.top/can-am-outlander-pro-and-max-pro-atvs-recalled-over-potentially-deadly-malfuncti/</link>
+				<pubDate>Fri, 15 May 2026 12:11:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/can-am-outlander-pro-and-max-pro-atvs-recalled-over-potentially-deadly-malfuncti/</guid>
+				<description>&lt;p&gt;Компания Bombardier Recreational Products (BRP), владеющая брендом Can-Am, объявила о отзыве целого ряда ATV Can-Am Outlander 500 Pro, 700 Pro и Max Pro, выпущенных в 2023, 2024, 2025 и 2026 годах. Причиной послужила проблема с программным обеспечением режима ограничителя скорости, который может вызвать внезапное и непредсказуемое ускорение. Это, в свою очередь, может привести к аварии, серьезной травме или даже смерти.&lt;/p&gt;&#xA;&lt;p&gt;Отзыв был объявлен в США через Комиссию по безопасности потребительских товаров 14 мая 2026 года. Под отзыв попали примерно 2820 единиц техники. В список вошли ATV Outlander 500/700 Pro и Max Pro 2025 и 2026 годов, оснащенные режимом ограничителя скорости, а также модели 2023 и 2024 годов, получившие обновление программного обеспечения ЭБУ через дилера Can-Am после 3 февраля 2026 года.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

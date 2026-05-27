@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Primavera on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/primavera/</link>
-    <description>Recent content in Primavera on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Sat, 21 Mar 2026 12:53:01 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/primavera/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>У Vespa появились самые маленькие скутеры с дисковыми тормозами со всех сторон</title>
-      <link>https://blog.alimov.top/vespas-smallest-scooters-finally-get-disc-brakes-all-around-in-the-year-2026/</link>
-      <pubDate>Sat, 21 Mar 2026 12:53:01 +0000</pubDate>
-      <guid>https://blog.alimov.top/vespas-smallest-scooters-finally-get-disc-brakes-all-around-in-the-year-2026/</guid>
-      <description>&lt;p&gt;Середина марта, а в стране Vespa уже весна. Откуда я знаю? Да потому, что вышли обновления Primavera и Sprint S на 2026 год, и это не просто новая палитра цветов, которую предлагает Piaggio для поклонников Vespa.&lt;/p&gt;&#xA;&lt;p&gt;Начнем с самой большой новости: никаких барабанных тормозов сзади! Да, вы правильно прочитали; независимо от того, выберете ли вы версию своего любимого стильного скутера объемом 50cc, 125cc, 150cc или EV, теперь у вас будет полный комплект дискового тормоза с 220-мм стальным тормозным диском и двухпоршневым суппортом сзади. На переднем колесе уже был дисковый тормоз, и ABS также идет в стандартной комплектации, поэтому останавливаться на любом из скутеров Vespa 2026 года должно быть еще лучше.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Primavera on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/primavera/</link>
+		<description>Recent content in Primavera on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 21 Mar 2026 12:53:01 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/primavera/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>У Vespa появились самые маленькие скутеры с дисковыми тормозами со всех сторон</title>
+				<link>https://blog.alimov.top/vespas-smallest-scooters-finally-get-disc-brakes-all-around-in-the-year-2026/</link>
+				<pubDate>Sat, 21 Mar 2026 12:53:01 +0000</pubDate>
+				<guid>https://blog.alimov.top/vespas-smallest-scooters-finally-get-disc-brakes-all-around-in-the-year-2026/</guid>
+				<description>&lt;p&gt;Середина марта, а в стране Vespa уже весна. Откуда я знаю? Да потому, что вышли обновления Primavera и Sprint S на 2026 год, и это не просто новая палитра цветов, которую предлагает Piaggio для поклонников Vespa.&lt;/p&gt;&#xA;&lt;p&gt;Начнем с самой большой новости: никаких барабанных тормозов сзади! Да, вы правильно прочитали; независимо от того, выберете ли вы версию своего любимого стильного скутера объемом 50cc, 125cc, 150cc или EV, теперь у вас будет полный комплект дискового тормоза с 220-мм стальным тормозным диском и двухпоршневым суппортом сзади. На переднем колесе уже был дисковый тормоз, и ABS также идет в стандартной комплектации, поэтому останавливаться на любом из скутеров Vespa 2026 года должно быть еще лучше.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

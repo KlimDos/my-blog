@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Yadea on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/yadea/</link>
-    <description>Recent content in Yadea on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Mon, 04 May 2026 11:34:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/yadea/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Уязвимости в ПО угрожают безопасности электробайков Zero и скутеров Yadea</title>
-      <link>https://blog.alimov.top/zero-motorcycles-and-yadea-scooters-both-have-software-security-vulnerabilities/</link>
-      <pubDate>Mon, 04 May 2026 11:34:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/zero-motorcycles-and-yadea-scooters-both-have-software-security-vulnerabilities/</guid>
-      <description>&lt;p&gt;В нашем всё более связанном мире всё больше окружающих нас вещей разрабатываются с учётом максимальной связности. Нужен ли вашему холодильнику Bluetooth и/или Wi-Fi для передачи данных? А микроволновой печи? Автомобилю? Может быть, даже мотоциклу?&lt;/p&gt;&#xA;&lt;p&gt;Честно говоря, если вы действительно нуждаетесь в том, чтобы холодильник присылал вам уведомление на телефон о том, что дверь открыта, я не совсем уверен, как это должно помочь, когда вы уже в аэропорту и собираетесь сесть в самолёт. Мне кажется, что это немного похоже на решение гипотетической проблемы, которая, возможно, не существует в реальности.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Yadea on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/yadea/</link>
+		<description>Recent content in Yadea on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 04 May 2026 11:34:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/yadea/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Уязвимости в ПО угрожают безопасности электробайков Zero и скутеров Yadea</title>
+				<link>https://blog.alimov.top/zero-motorcycles-and-yadea-scooters-both-have-software-security-vulnerabilities/</link>
+				<pubDate>Mon, 04 May 2026 11:34:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/zero-motorcycles-and-yadea-scooters-both-have-software-security-vulnerabilities/</guid>
+				<description>&lt;p&gt;В нашем всё более связанном мире всё больше окружающих нас вещей разрабатываются с учётом максимальной связности. Нужен ли вашему холодильнику Bluetooth и/или Wi-Fi для передачи данных? А микроволновой печи? Автомобилю? Может быть, даже мотоциклу?&lt;/p&gt;&#xA;&lt;p&gt;Честно говоря, если вы действительно нуждаетесь в том, чтобы холодильник присылал вам уведомление на телефон о том, что дверь открыта, я не совсем уверен, как это должно помочь, когда вы уже в аэропорту и собираетесь сесть в самолёт. Мне кажется, что это немного похоже на решение гипотетической проблемы, которая, возможно, не существует в реальности.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>King of the Hammers on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/king-of-the-hammers/</link>
-    <description>Recent content in King of the Hammers on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Fri, 27 Mar 2026 11:03:36 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/king-of-the-hammers/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Король Хаммеров в безопасности? США не отберут Джонсон-Вэлли</title>
-      <link>https://blog.alimov.top/is-king-of-the-hammers-safe-from-the-us-marine-corps-takeover-of-johnson-valley-/</link>
-      <pubDate>Fri, 27 Mar 2026 11:03:36 +0000</pubDate>
-      <guid>https://blog.alimov.top/is-king-of-the-hammers-safe-from-the-us-marine-corps-takeover-of-johnson-valley-/</guid>
-      <description>&lt;p&gt;Несколько месяцев назад мы писали, что Корпус морской пехоты США разработал новый план доступа к базе в Twentynine Palms в долине Джонсон-Вэлли, Калифорния. И по сути, это предложение фактически лишило бы общественность возможности использовать эту территорию для езды на внедорожниках, поскольку экстренные службы не смогли бы использовать воздушный транспорт.&lt;/p&gt;&#xA;&lt;p&gt;Речь идет о операциях поисково-спасательных служб и, что более важно, о возможности организаторов гонки King of the Hammers привлекать медицинских специалистов с вертолетами, что фактически убило бы знаменитые гонки.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Выгорает ли Король бездорожья? Взгляд на King of the Hammers</title>
-      <link>https://blog.alimov.top/is-the-burning-man-of-off-road-becoming-burned-out-a-look-at-king-of-the-hammers/</link>
-      <pubDate>Fri, 20 Feb 2026 12:00:19 +0000</pubDate>
-      <guid>https://blog.alimov.top/is-the-burning-man-of-off-road-becoming-burned-out-a-look-at-king-of-the-hammers/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Хаммер Ланг&amp;rdquo;: Любой, кто провел неделю в долине Джонсон, Калифорния, во время ежегодного ралли King of the Hammers, может подтвердить, что Хаммер Ланг - это вполне реальная штука, и она sucks.&lt;/p&gt;&#xA;&lt;p&gt;Зловещее облако пыли нависло над высохшим озером, когда тысячи UTV, 4x4, мотоциклов, квадроциклов и караванов пересекали пустынную поверхность. Ветер иногда прояснял воздух, но также создавал песчаную бурю, покрывая автомобили и грузовики светлым коричневым порошком. Тот же порошок попадал в легкие, и через несколько дней сопли становились коричневыми, а сухой кашель появлялся.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Безумие на Королевском Молоте: пора навести порядок</title>
-      <link>https://blog.alimov.top/idiots-behaving-badly-are-going-to-get-king-of-the-hammers-killed-its-time-to-do/</link>
-      <pubDate>Wed, 11 Feb 2026 12:01:52 +0000</pubDate>
-      <guid>https://blog.alimov.top/idiots-behaving-badly-are-going-to-get-king-of-the-hammers-killed-its-time-to-do/</guid>
-      <description>&lt;p&gt;Знаменитый King of the Hammers - гонки по бездорожью, которые проходят в Johnson Valley, Калифорния, - только что завершились. И судя по освещению в социальных сетях, это было настоящее безумие. Не столько сами гонки, которые хорошо организованы и имеют правила, которых придерживаются участники. Сколько толпа фанатов, которая превратила всю долину в свой личный пьяный праздник, вылившийся в нечто, похожее на бунт на свалке.&lt;/p&gt;&#xA;&lt;p&gt;И вот где я могу сильно разозлить кучу чувствительных людей, и вы, ребята, именно такие, потому что вы придурки, которые могут довести до закрытия King of the Hammers навсегда. Мероприятие уже находится на грани существования, но ваша свобода самовыражения не дает вам права вести себя как идиоты, не неся последствий. Но эти последствия касаются не только вас, придурков, которые бросают полные пива в людей в Chocolate Thunder или дерутся с другими парнями в плоских козырьках. Они касаются всего сообщества любителей бездорожья и могут привести к закрытию всей долины для всех.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>King of the Hammers on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/king-of-the-hammers/</link>
+		<description>Recent content in King of the Hammers on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 27 Mar 2026 11:03:36 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/king-of-the-hammers/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Король Хаммеров в безопасности? США не отберут Джонсон-Вэлли</title>
+				<link>https://blog.alimov.top/is-king-of-the-hammers-safe-from-the-us-marine-corps-takeover-of-johnson-valley-/</link>
+				<pubDate>Fri, 27 Mar 2026 11:03:36 +0000</pubDate>
+				<guid>https://blog.alimov.top/is-king-of-the-hammers-safe-from-the-us-marine-corps-takeover-of-johnson-valley-/</guid>
+				<description>&lt;p&gt;Несколько месяцев назад мы писали, что Корпус морской пехоты США разработал новый план доступа к базе в Twentynine Palms в долине Джонсон-Вэлли, Калифорния. И по сути, это предложение фактически лишило бы общественность возможности использовать эту территорию для езды на внедорожниках, поскольку экстренные службы не смогли бы использовать воздушный транспорт.&lt;/p&gt;&#xA;&lt;p&gt;Речь идет о операциях поисково-спасательных служб и, что более важно, о возможности организаторов гонки King of the Hammers привлекать медицинских специалистов с вертолетами, что фактически убило бы знаменитые гонки.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Выгорает ли Король бездорожья? Взгляд на King of the Hammers</title>
+				<link>https://blog.alimov.top/is-the-burning-man-of-off-road-becoming-burned-out-a-look-at-king-of-the-hammers/</link>
+				<pubDate>Fri, 20 Feb 2026 12:00:19 +0000</pubDate>
+				<guid>https://blog.alimov.top/is-the-burning-man-of-off-road-becoming-burned-out-a-look-at-king-of-the-hammers/</guid>
+				<description>&lt;p&gt;&amp;ldquo;Хаммер Ланг&amp;rdquo;: Любой, кто провел неделю в долине Джонсон, Калифорния, во время ежегодного ралли King of the Hammers, может подтвердить, что Хаммер Ланг - это вполне реальная штука, и она sucks.&lt;/p&gt;&#xA;&lt;p&gt;Зловещее облако пыли нависло над высохшим озером, когда тысячи UTV, 4x4, мотоциклов, квадроциклов и караванов пересекали пустынную поверхность. Ветер иногда прояснял воздух, но также создавал песчаную бурю, покрывая автомобили и грузовики светлым коричневым порошком. Тот же порошок попадал в легкие, и через несколько дней сопли становились коричневыми, а сухой кашель появлялся.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Безумие на Королевском Молоте: пора навести порядок</title>
+				<link>https://blog.alimov.top/idiots-behaving-badly-are-going-to-get-king-of-the-hammers-killed-its-time-to-do/</link>
+				<pubDate>Wed, 11 Feb 2026 12:01:52 +0000</pubDate>
+				<guid>https://blog.alimov.top/idiots-behaving-badly-are-going-to-get-king-of-the-hammers-killed-its-time-to-do/</guid>
+				<description>&lt;p&gt;Знаменитый King of the Hammers - гонки по бездорожью, которые проходят в Johnson Valley, Калифорния, - только что завершились. И судя по освещению в социальных сетях, это было настоящее безумие. Не столько сами гонки, которые хорошо организованы и имеют правила, которых придерживаются участники. Сколько толпа фанатов, которая превратила всю долину в свой личный пьяный праздник, вылившийся в нечто, похожее на бунт на свалке.&lt;/p&gt;&#xA;&lt;p&gt;И вот где я могу сильно разозлить кучу чувствительных людей, и вы, ребята, именно такие, потому что вы придурки, которые могут довести до закрытия King of the Hammers навсегда. Мероприятие уже находится на грани существования, но ваша свобода самовыражения не дает вам права вести себя как идиоты, не неся последствий. Но эти последствия касаются не только вас, придурков, которые бросают полные пива в людей в Chocolate Thunder или дерутся с другими парнями в плоских козырьках. Они касаются всего сообщества любителей бездорожья и могут привести к закрытию всей долины для всех.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

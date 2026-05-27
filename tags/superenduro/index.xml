@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Superenduro on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/superenduro/</link>
-    <description>Recent content in Superenduro on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 19 Mar 2026 12:38:25 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/superenduro/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Электромотоцикл снова творит историю на фоне изменений в правилах FIM EnduroGP</title>
-      <link>https://blog.alimov.top/ev-motorcycle-company-makes-even-more-history-amid-fim-endurogp-rules-shakeup/</link>
-      <pubDate>Thu, 19 Mar 2026 12:38:25 +0000</pubDate>
-      <guid>https://blog.alimov.top/ev-motorcycle-company-makes-even-more-history-amid-fim-endurogp-rules-shakeup/</guid>
-      <description>&lt;p&gt;Сейчас Stark врывается в мир внедорожных гонок, оставляя свой след в истории.&lt;/p&gt;&#xA;&lt;p&gt;Не так давно разразился скандал, когда изменение правил в последний момент фактически лишило Stark возможности участвовать в FIM SuperEnduro World Championship. Однако после ещё одного изменения правил компания не только получила допуск, но и завоевала титул производителя уже на следующий год. А теперь Stark стал первым производителем электрических мотоциклов, создавшим команду для участия в FIM EnduroGP World Championship.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Superenduro on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/superenduro/</link>
+		<description>Recent content in Superenduro on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 19 Mar 2026 12:38:25 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/superenduro/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Электромотоцикл снова творит историю на фоне изменений в правилах FIM EnduroGP</title>
+				<link>https://blog.alimov.top/ev-motorcycle-company-makes-even-more-history-amid-fim-endurogp-rules-shakeup/</link>
+				<pubDate>Thu, 19 Mar 2026 12:38:25 +0000</pubDate>
+				<guid>https://blog.alimov.top/ev-motorcycle-company-makes-even-more-history-amid-fim-endurogp-rules-shakeup/</guid>
+				<description>&lt;p&gt;Сейчас Stark врывается в мир внедорожных гонок, оставляя свой след в истории.&lt;/p&gt;&#xA;&lt;p&gt;Не так давно разразился скандал, когда изменение правил в последний момент фактически лишило Stark возможности участвовать в FIM SuperEnduro World Championship. Однако после ещё одного изменения правил компания не только получила допуск, но и завоевала титул производителя уже на следующий год. А теперь Stark стал первым производителем электрических мотоциклов, создавшим команду для участия в FIM EnduroGP World Championship.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

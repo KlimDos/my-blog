@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Trike on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/trike/</link>
-    <description>Recent content in Trike on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Mon, 11 May 2026 11:44:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/trike/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Электрический трицикл разгоняется до 120 км/ч, но есть один нюанс</title>
-      <link>https://blog.alimov.top/this-ev-trike-can-hit-75mph-but-you-have-to-pedal-it/</link>
-      <pubDate>Mon, 11 May 2026 11:44:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-ev-trike-can-hit-75mph-but-you-have-to-pedal-it/</guid>
-      <description>&lt;p&gt;Я всеми руками за умную инженерию. И за то, чтобы пересесть с больших и неповоротливых машин, особенно в черте города. Но в какой-то момент приходится остановиться и задуматься: «Точно ли вы уверены в этом?» Поверьте, это именно тот случай. Когда я впервые увидел Cixi Vigoz, я спросил себя: «Они точно уверены в этом?!»&lt;/p&gt;&#xA;&lt;p&gt;Почему, спросите вы? Потому что перед вами трик, способный разогнаться до 120 км/ч, полностью закрытый, с педальным приводом&amp;hellip; что-то. Да, вы правильно прочитали. Этот трик, частично электрический, требует от водителя/райдера крутить педали, чтобы транспортное средство продолжало двигаться. И если вы остановитесь, оно просто встанет. По сути, Vigoz балансирует на грани между электровелосипедом, маленькой городской машиной и лежачим велосипедом с джойстиком из самолета.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>А Трик Старка Варг? Конечно, почему нет.</title>
-      <link>https://blog.alimov.top/a-trike-stark-varg-sure-why-not/</link>
-      <pubDate>Sun, 08 Feb 2026 14:31:56 +0000</pubDate>
-      <guid>https://blog.alimov.top/a-trike-stark-varg-sure-why-not/</guid>
-      <description>&lt;p&gt;Вот что я только что ворвался в свой дом после того, как сломал машину Stark Varg EX через наш район. Я уснул много колесных арьеров за миг и не раз думал: &amp;ldquo;Знаете что? Мне кажется, мне нужно меньше веса передней части, больше задней части и лучшее трение, чтобы я мог отбрасывать её с пешком.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Потому что, возможно вы не знаете, но Stark Varg EX имеет метрический тонк вращения и может его применить за одно мгновение и только одним движением руки. Даже на слабых поверхностях, таких как очень сухая дырчатая песчаная дорога нашего района.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Trike on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/trike/</link>
+		<description>Recent content in Trike on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 11 May 2026 11:44:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/trike/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Электрический трицикл разгоняется до 120 км/ч, но есть один нюанс</title>
+				<link>https://blog.alimov.top/this-ev-trike-can-hit-75mph-but-you-have-to-pedal-it/</link>
+				<pubDate>Mon, 11 May 2026 11:44:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-ev-trike-can-hit-75mph-but-you-have-to-pedal-it/</guid>
+				<description>&lt;p&gt;Я всеми руками за умную инженерию. И за то, чтобы пересесть с больших и неповоротливых машин, особенно в черте города. Но в какой-то момент приходится остановиться и задуматься: «Точно ли вы уверены в этом?» Поверьте, это именно тот случай. Когда я впервые увидел Cixi Vigoz, я спросил себя: «Они точно уверены в этом?!»&lt;/p&gt;&#xA;&lt;p&gt;Почему, спросите вы? Потому что перед вами трик, способный разогнаться до 120 км/ч, полностью закрытый, с педальным приводом&amp;hellip; что-то. Да, вы правильно прочитали. Этот трик, частично электрический, требует от водителя/райдера крутить педали, чтобы транспортное средство продолжало двигаться. И если вы остановитесь, оно просто встанет. По сути, Vigoz балансирует на грани между электровелосипедом, маленькой городской машиной и лежачим велосипедом с джойстиком из самолета.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>А Трик Старка Варг? Конечно, почему нет.</title>
+				<link>https://blog.alimov.top/a-trike-stark-varg-sure-why-not/</link>
+				<pubDate>Sun, 08 Feb 2026 14:31:56 +0000</pubDate>
+				<guid>https://blog.alimov.top/a-trike-stark-varg-sure-why-not/</guid>
+				<description>&lt;p&gt;Вот что я только что ворвался в свой дом после того, как сломал машину Stark Varg EX через наш район. Я уснул много колесных арьеров за миг и не раз думал: &amp;ldquo;Знаете что? Мне кажется, мне нужно меньше веса передней части, больше задней части и лучшее трение, чтобы я мог отбрасывать её с пешком.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;Потому что, возможно вы не знаете, но Stark Varg EX имеет метрический тонк вращения и может его применить за одно мгновение и только одним движением руки. Даже на слабых поверхностях, таких как очень сухая дырчатая песчаная дорога нашего района.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

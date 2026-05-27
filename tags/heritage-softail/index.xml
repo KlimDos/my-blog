@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Heritage Softail on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/heritage-softail/</link>
-    <description>Recent content in Heritage Softail on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Tue, 27 Jan 2026 12:50:04 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/heritage-softail/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Судя по всему, Harley-Davidson (все еще) делает фиолетовые мотоциклы</title>
-      <link>https://blog.alimov.top/apparently-harley-davidson-still-makes-purple-motorcycles/</link>
-      <pubDate>Tue, 27 Jan 2026 12:50:04 +0000</pubDate>
-      <guid>https://blog.alimov.top/apparently-harley-davidson-still-makes-purple-motorcycles/</guid>
-      <description>&lt;p&gt;Я первым признаю, когда ошибаюсь или когда не проявил должной осмотрительности. В данном случае последнее более уместно. На прошлой неделе я писал о новом пакете отделки Solo от Harley-Davidson для мотоциклов Street Bob, Heritage Softail и Street Glide 2026 года. В этом минималистичном варианте отделки предлагается только один цвет, правда, серый.&lt;/p&gt;&#xA;&lt;p&gt;Я задавался вопросом, почему производители мотоциклов следуют по пути Millennial Gray к будущему без цвета, и почему мотоциклист, который хочет получить бесцветную версию мотоцикла, должен довольствоваться ахроматическим цветом. В свое оправдание могу сказать, что это было скорее подражание тенденции, которая началась в 2010-х годах, когда миллениалы после окончания колледжа стали окрашивать свои дома в серый цвет.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Heritage Softail on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/heritage-softail/</link>
+		<description>Recent content in Heritage Softail on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 27 Jan 2026 12:50:04 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/heritage-softail/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Судя по всему, Harley-Davidson (все еще) делает фиолетовые мотоциклы</title>
+				<link>https://blog.alimov.top/apparently-harley-davidson-still-makes-purple-motorcycles/</link>
+				<pubDate>Tue, 27 Jan 2026 12:50:04 +0000</pubDate>
+				<guid>https://blog.alimov.top/apparently-harley-davidson-still-makes-purple-motorcycles/</guid>
+				<description>&lt;p&gt;Я первым признаю, когда ошибаюсь или когда не проявил должной осмотрительности. В данном случае последнее более уместно. На прошлой неделе я писал о новом пакете отделки Solo от Harley-Davidson для мотоциклов Street Bob, Heritage Softail и Street Glide 2026 года. В этом минималистичном варианте отделки предлагается только один цвет, правда, серый.&lt;/p&gt;&#xA;&lt;p&gt;Я задавался вопросом, почему производители мотоциклов следуют по пути Millennial Gray к будущему без цвета, и почему мотоциклист, который хочет получить бесцветную версию мотоцикла, должен довольствоваться ахроматическим цветом. В свое оправдание могу сказать, что это было скорее подражание тенденции, которая началась в 2010-х годах, когда миллениалы после окончания колледжа стали окрашивать свои дома в серый цвет.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

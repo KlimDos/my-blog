@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Long Range on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/long-range/</link>
-    <description>Recent content in Long Range on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Tue, 03 Feb 2026 13:18:18 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/long-range/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Компания Stark создает более емкую батарею, которая может решить проблему с дальностью поездки на дорожных велосипедах</title>
-      <link>https://blog.alimov.top/stark-is-building-a-bigger-battery-which-could-solve-for-its-upcoming-on-road-bi/</link>
-      <pubDate>Tue, 03 Feb 2026 13:18:18 +0000</pubDate>
-      <guid>https://blog.alimov.top/stark-is-building-a-bigger-battery-which-could-solve-for-its-upcoming-on-road-bi/</guid>
-      <description>&lt;p&gt;Как человек, который любит электрические мотоциклы, скажу, что у них есть большая проблема: запас хода. В то время как электромобили и грузовики могут скрыть проблемы с дальностью хода с помощью все более крупных батарей под полом, то же самое нельзя сделать с электромотоциклами, где вес и размер стоят на первом месте. Здесь просто нет места для больших батарей.&lt;/p&gt;&#xA;&lt;p&gt;Поэтому с момента своего появления электромотоциклы вынуждены были довольствоваться ничтожным запасом хода, из-за чего их популярность была практически нулевой. Я хочу сказать, что сажусь на мотоцикл ради свободы открытой дороги, а не для того, чтобы планировать 25-ступенчатую гонку с гипермилингом до ближайшего города. Именно поэтому я считаю, что в настоящее время единственными мотоциклами EV, которые имеют смысл, являются кроссовые мотоциклы, где запас хода не имеет значения после 100 миль.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Сможет ли твердотельная батарея Donut с большим радиусом действия спасти EV-мотоциклы?</title>
-      <link>https://blog.alimov.top/can-donuts-high-range-solid-state-battery-really-save-ev-motorcycles/</link>
-      <pubDate>Mon, 05 Jan 2026 17:45:58 +0000</pubDate>
-      <guid>https://blog.alimov.top/can-donuts-high-range-solid-state-battery-really-save-ev-motorcycles/</guid>
-      <description>&lt;p&gt;Сегодня я разговаривал с Патриком Джорджем из InsideEVs, как раз после анонса твердотельных батарей от Donut Lab и Verge Motorcycles. Мы обсуждали характеристики новой батареи. И действительно, это впечатляющий прорыв, поскольку Verge TS Pro с новой твердотельной батареей утверждает, что она обеспечивает огромный запас хода в 370 миль и быструю зарядку до 100% заряда менее чем за 20 минут. &lt;/p&gt;&#xA;&lt;p&gt;В общем, это все, что вы можете пожелать от батареи для мотоцикла EV. Но он задал мне особенно острый вопрос, который важен для всего остального мира; настолько, что это послужило толчком к написанию этой статьи.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Long Range on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/long-range/</link>
+		<description>Recent content in Long Range on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 03 Feb 2026 13:18:18 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/long-range/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Компания Stark создает более емкую батарею, которая может решить проблему с дальностью поездки на дорожных велосипедах</title>
+				<link>https://blog.alimov.top/stark-is-building-a-bigger-battery-which-could-solve-for-its-upcoming-on-road-bi/</link>
+				<pubDate>Tue, 03 Feb 2026 13:18:18 +0000</pubDate>
+				<guid>https://blog.alimov.top/stark-is-building-a-bigger-battery-which-could-solve-for-its-upcoming-on-road-bi/</guid>
+				<description>&lt;p&gt;Как человек, который любит электрические мотоциклы, скажу, что у них есть большая проблема: запас хода. В то время как электромобили и грузовики могут скрыть проблемы с дальностью хода с помощью все более крупных батарей под полом, то же самое нельзя сделать с электромотоциклами, где вес и размер стоят на первом месте. Здесь просто нет места для больших батарей.&lt;/p&gt;&#xA;&lt;p&gt;Поэтому с момента своего появления электромотоциклы вынуждены были довольствоваться ничтожным запасом хода, из-за чего их популярность была практически нулевой. Я хочу сказать, что сажусь на мотоцикл ради свободы открытой дороги, а не для того, чтобы планировать 25-ступенчатую гонку с гипермилингом до ближайшего города. Именно поэтому я считаю, что в настоящее время единственными мотоциклами EV, которые имеют смысл, являются кроссовые мотоциклы, где запас хода не имеет значения после 100 миль.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Сможет ли твердотельная батарея Donut с большим радиусом действия спасти EV-мотоциклы?</title>
+				<link>https://blog.alimov.top/can-donuts-high-range-solid-state-battery-really-save-ev-motorcycles/</link>
+				<pubDate>Mon, 05 Jan 2026 17:45:58 +0000</pubDate>
+				<guid>https://blog.alimov.top/can-donuts-high-range-solid-state-battery-really-save-ev-motorcycles/</guid>
+				<description>&lt;p&gt;Сегодня я разговаривал с Патриком Джорджем из InsideEVs, как раз после анонса твердотельных батарей от Donut Lab и Verge Motorcycles. Мы обсуждали характеристики новой батареи. И действительно, это впечатляющий прорыв, поскольку Verge TS Pro с новой твердотельной батареей утверждает, что она обеспечивает огромный запас хода в 370 миль и быструю зарядку до 100% заряда менее чем за 20 минут. &lt;/p&gt;&#xA;&lt;p&gt;В общем, это все, что вы можете пожелать от батареи для мотоцикла EV. Но он задал мне особенно острый вопрос, который важен для всего остального мира; настолько, что это послужило толчком к написанию этой статьи.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

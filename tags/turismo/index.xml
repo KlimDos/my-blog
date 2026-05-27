@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Turismo on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/turismo/</link>
-    <description>Recent content in Turismo on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Wed, 18 Feb 2026 14:05:31 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/turismo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Новые владельцы MotoGP не могут перенести ГП Австралии на трассу Формулы-1</title>
-      <link>https://blog.alimov.top/motogps-new-owners-blocked-from-moving-the-australian-gp-to-an-f1-track/</link>
-      <pubDate>Wed, 18 Feb 2026 14:05:31 +0000</pubDate>
-      <guid>https://blog.alimov.top/motogps-new-owners-blocked-from-moving-the-australian-gp-to-an-f1-track/</guid>
-      <description>&lt;p&gt;Если вы, как и я, являетесь поклонником MotoGP, то мысль о том, что Филлип-Айленд лишится места проведения гонок, не давала вам покоя с тех пор, как вы узнали, что срок действия контракта истекает в 2026 году. Компания MotoGP Sports Entertainment, официально называвшаяся Dorna Sports, не собиралась продлевать контракт с Филлипом и вместо него рассматривала возможность замены трассы Формулы 1 на Альберт-парк. Теперь мы знаем, как развиваются эти планы.&lt;/p&gt;&#xA;&lt;p&gt;Идея поменять Филлип-Айленд на Альберт-парк витает в умах фанатов MotoGP по всему миру с конца сезона 2025 года, но местные власти делают все возможное, чтобы Филлип-Айленд оставался единственным местом проведения австралийских гонок MotoGP. Недавно лейбористское правительство Аллана отклонило предложение MotoGP Sport Entrainment Group о переносе места проведения гонок. Но взаимодействие между правительством и управляющей организацией MotoGP было не совсем негативным.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Turismo on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/turismo/</link>
+		<description>Recent content in Turismo on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 18 Feb 2026 14:05:31 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/turismo/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Новые владельцы MotoGP не могут перенести ГП Австралии на трассу Формулы-1</title>
+				<link>https://blog.alimov.top/motogps-new-owners-blocked-from-moving-the-australian-gp-to-an-f1-track/</link>
+				<pubDate>Wed, 18 Feb 2026 14:05:31 +0000</pubDate>
+				<guid>https://blog.alimov.top/motogps-new-owners-blocked-from-moving-the-australian-gp-to-an-f1-track/</guid>
+				<description>&lt;p&gt;Если вы, как и я, являетесь поклонником MotoGP, то мысль о том, что Филлип-Айленд лишится места проведения гонок, не давала вам покоя с тех пор, как вы узнали, что срок действия контракта истекает в 2026 году. Компания MotoGP Sports Entertainment, официально называвшаяся Dorna Sports, не собиралась продлевать контракт с Филлипом и вместо него рассматривала возможность замены трассы Формулы 1 на Альберт-парк. Теперь мы знаем, как развиваются эти планы.&lt;/p&gt;&#xA;&lt;p&gt;Идея поменять Филлип-Айленд на Альберт-парк витает в умах фанатов MotoGP по всему миру с конца сезона 2025 года, но местные власти делают все возможное, чтобы Филлип-Айленд оставался единственным местом проведения австралийских гонок MotoGP. Недавно лейбористское правительство Аллана отклонило предложение MotoGP Sport Entrainment Group о переносе места проведения гонок. Но взаимодействие между правительством и управляющей организацией MotoGP было не совсем негативным.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

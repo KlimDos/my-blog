@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Vegan on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/vegan/</link>
-    <description>Recent content in Vegan on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Sat, 08 Nov 2025 15:00:45 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/vegan/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Suzuki выпустил готовые карри — мы их попробовали и в восторге</title>
-      <link>https://blog.alimov.top/i-tried-all-of-suzukis-ready-to-eat-curries-and-theyre-delicious/</link>
-      <pubDate>Sat, 08 Nov 2025 15:00:45 +0000</pubDate>
-      <guid>https://blog.alimov.top/i-tried-all-of-suzukis-ready-to-eat-curries-and-theyre-delicious/</guid>
-      <description>&lt;p&gt;Наверное, я только что заразил хотя бы малую часть наших читателей музыкальной заразой. Но сделал я это, конечно, с самыми лучшими намерениями. Узнав, что Suzuki решила выпустить набор из четырёх разных карри с упаковкой, вдохновлённой транспортными средствами, я просто не мог удержаться.&lt;/p&gt;&#xA;&lt;p&gt;Мне срочно нужно было заполучить этот набор. И я его получил. Упаковка была очень аккуратной, что меня просто привело в восторг; внутри даже был милый маленький листок с благодарственным письмом за мою покупку. Я был безумно рад вскрыть коробку.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Vegan on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/vegan/</link>
+		<description>Recent content in Vegan on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 08 Nov 2025 15:00:45 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/vegan/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Suzuki выпустил готовые карри — мы их попробовали и в восторге</title>
+				<link>https://blog.alimov.top/i-tried-all-of-suzukis-ready-to-eat-curries-and-theyre-delicious/</link>
+				<pubDate>Sat, 08 Nov 2025 15:00:45 +0000</pubDate>
+				<guid>https://blog.alimov.top/i-tried-all-of-suzukis-ready-to-eat-curries-and-theyre-delicious/</guid>
+				<description>&lt;p&gt;Наверное, я только что заразил хотя бы малую часть наших читателей музыкальной заразой. Но сделал я это, конечно, с самыми лучшими намерениями. Узнав, что Suzuki решила выпустить набор из четырёх разных карри с упаковкой, вдохновлённой транспортными средствами, я просто не мог удержаться.&lt;/p&gt;&#xA;&lt;p&gt;Мне срочно нужно было заполучить этот набор. И я его получил. Упаковка была очень аккуратной, что меня просто привело в восторг; внутри даже был милый маленький листок с благодарственным письмом за мою покупку. Я был безумно рад вскрыть коробку.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

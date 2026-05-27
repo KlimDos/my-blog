@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Western Hunt Expo on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/western-hunt-expo/</link>
-    <description>Recent content in Western Hunt Expo on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Tue, 17 Feb 2026 13:30:36 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/western-hunt-expo/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Этот рюкзак может стать идеальным рюкзаком для мотоциклистов и охотников, который я когда-либо видел</title>
-      <link>https://blog.alimov.top/this-backpack-could-be-the-perfect-motorcycle-and-hunting-pack-ive-ever-seen/</link>
-      <pubDate>Tue, 17 Feb 2026 13:30:36 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-backpack-could-be-the-perfect-motorcycle-and-hunting-pack-ive-ever-seen/</guid>
-      <description>&lt;p&gt;Уже довольно долгое время я нахожусь в поисках идеального рюкзака для всего на свете. Такой, в котором я смогу взять с собой приключенческую мотоэкипировку и походное снаряжение, когда захочу на несколько дней исчезнуть в лесу с мотоциклом, и при этом буду готов к кровавым и мерзким разборкам на охоте с рюкзаком. И я перепробовал их немало.&lt;/p&gt;&#xA;&lt;p&gt;В последние месяцы я много времени проводил с рюкзаком USWE, но для охотничьих подвигов мне постоянно приходилось переключаться на Sitka. И если USWE хорош для мотопутешествий, то для охоты он не годится. К сожалению, с Sitka все обстоит наоборот. Это хорошие инструменты, но они не очень хороши, когда вы используете их на незнакомой территории.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Western Hunt Expo on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/western-hunt-expo/</link>
+		<description>Recent content in Western Hunt Expo on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 17 Feb 2026 13:30:36 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/western-hunt-expo/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Этот рюкзак может стать идеальным рюкзаком для мотоциклистов и охотников, который я когда-либо видел</title>
+				<link>https://blog.alimov.top/this-backpack-could-be-the-perfect-motorcycle-and-hunting-pack-ive-ever-seen/</link>
+				<pubDate>Tue, 17 Feb 2026 13:30:36 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-backpack-could-be-the-perfect-motorcycle-and-hunting-pack-ive-ever-seen/</guid>
+				<description>&lt;p&gt;Уже довольно долгое время я нахожусь в поисках идеального рюкзака для всего на свете. Такой, в котором я смогу взять с собой приключенческую мотоэкипировку и походное снаряжение, когда захочу на несколько дней исчезнуть в лесу с мотоциклом, и при этом буду готов к кровавым и мерзким разборкам на охоте с рюкзаком. И я перепробовал их немало.&lt;/p&gt;&#xA;&lt;p&gt;В последние месяцы я много времени проводил с рюкзаком USWE, но для охотничьих подвигов мне постоянно приходилось переключаться на Sitka. И если USWE хорош для мотопутешествий, то для охоты он не годится. К сожалению, с Sitka все обстоит наоборот. Это хорошие инструменты, но они не очень хороши, когда вы используете их на незнакомой территории.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

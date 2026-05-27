@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Dealership on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/dealership/</link>
-    <description>Recent content in Dealership on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Fri, 22 May 2026 14:16:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/dealership/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>отоциклетная компания заменит продавцов ИИ: лишь бы они не были такими раздражающими</title>
-      <link>https://blog.alimov.top/this-motorcycle-company-wants-to-replace-salespeople-with-ai-just-make-them-suck/</link>
-      <pubDate>Fri, 22 May 2026 14:16:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-motorcycle-company-wants-to-replace-salespeople-with-ai-just-make-them-suck/</guid>
-      <description>&lt;p&gt;Какое место, кроме ГАИ, вызывает наибольшее раздражение? Если вы ответили &amp;ldquo;дилерский центр&amp;rdquo;, то вы правы. Несмотря на всеобщую ненависть, это то место, куда нам приходится обращаться, когда мы хотим приобрести новый мотоцикл. И это в значительной степени благодаря невероятно влиятельной и коррумпированной ассоциации дилеров в США и их нежеланию изменить свои хищнические методы.&lt;/p&gt;&#xA;&lt;p&gt;Зачем исправлять то, что и так работает? По крайней мере, не то, что позволяет обманывать людей, вгоняя их в огромные долги под высокие проценты и скрывая всевозможные комиссии, чтобы потом вывалить их на вас в финансовом отделе. Что не так с такой системой?! О, субстандартные кредиты снова достигли исторического максимума? Ой.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Dealership on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/dealership/</link>
+		<description>Recent content in Dealership on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 22 May 2026 14:16:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/dealership/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>отоциклетная компания заменит продавцов ИИ: лишь бы они не были такими раздражающими</title>
+				<link>https://blog.alimov.top/this-motorcycle-company-wants-to-replace-salespeople-with-ai-just-make-them-suck/</link>
+				<pubDate>Fri, 22 May 2026 14:16:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-motorcycle-company-wants-to-replace-salespeople-with-ai-just-make-them-suck/</guid>
+				<description>&lt;p&gt;Какое место, кроме ГАИ, вызывает наибольшее раздражение? Если вы ответили &amp;ldquo;дилерский центр&amp;rdquo;, то вы правы. Несмотря на всеобщую ненависть, это то место, куда нам приходится обращаться, когда мы хотим приобрести новый мотоцикл. И это в значительной степени благодаря невероятно влиятельной и коррумпированной ассоциации дилеров в США и их нежеланию изменить свои хищнические методы.&lt;/p&gt;&#xA;&lt;p&gt;Зачем исправлять то, что и так работает? По крайней мере, не то, что позволяет обманывать людей, вгоняя их в огромные долги под высокие проценты и скрывая всевозможные комиссии, чтобы потом вывалить их на вас в финансовом отделе. Что не так с такой системой?! О, субстандартные кредиты снова достигли исторического максимума? Ой.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

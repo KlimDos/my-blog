@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mount Panorama on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/mount-panorama/</link>
-    <description>Recent content in Mount Panorama on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Fri, 13 Feb 2026 13:33:51 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/mount-panorama/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Да, Росси снова участвует в гонке Bathurst 12 Hour.</title>
-      <link>https://blog.alimov.top/yes-rossi-is-racing-the-bathurst-12-hour-again-heres-how-to-watch/</link>
-      <pubDate>Fri, 13 Feb 2026 13:33:51 +0000</pubDate>
-      <guid>https://blog.alimov.top/yes-rossi-is-racing-the-bathurst-12-hour-again-heres-how-to-watch/</guid>
-      <description>&lt;p&gt;Близится время &amp;ldquo;Батерст 12 часов&amp;rdquo; 2026 года, ребята! Да, я прекрасно понимаю, что он никак не связан ни с мотоциклами, ни со снегоходами, ни с PWC, ни с чем-либо еще, что мы обычно освещаем на RideApart. Но, как вы можете знать, а можете и не знать, в ней участвует один бывший гонщик MotoGP, с которым вы, возможно, знакомы.&lt;/p&gt;&#xA;&lt;p&gt;Он носит имя &amp;ldquo;Валентино Росси&amp;rdquo;. Надеюсь, вы можете представить его в своем воображении, да?&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Mount Panorama on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/mount-panorama/</link>
+		<description>Recent content in Mount Panorama on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 13 Feb 2026 13:33:51 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/mount-panorama/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Да, Росси снова участвует в гонке Bathurst 12 Hour.</title>
+				<link>https://blog.alimov.top/yes-rossi-is-racing-the-bathurst-12-hour-again-heres-how-to-watch/</link>
+				<pubDate>Fri, 13 Feb 2026 13:33:51 +0000</pubDate>
+				<guid>https://blog.alimov.top/yes-rossi-is-racing-the-bathurst-12-hour-again-heres-how-to-watch/</guid>
+				<description>&lt;p&gt;Близится время &amp;ldquo;Батерст 12 часов&amp;rdquo; 2026 года, ребята! Да, я прекрасно понимаю, что он никак не связан ни с мотоциклами, ни со снегоходами, ни с PWC, ни с чем-либо еще, что мы обычно освещаем на RideApart. Но, как вы можете знать, а можете и не знать, в ней участвует один бывший гонщик MotoGP, с которым вы, возможно, знакомы.&lt;/p&gt;&#xA;&lt;p&gt;Он носит имя &amp;ldquo;Валентино Росси&amp;rdquo;. Надеюсь, вы можете представить его в своем воображении, да?&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

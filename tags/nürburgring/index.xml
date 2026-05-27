@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Nürburgring on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/n%C3%BCrburgring/</link>
-    <description>Recent content in Nürburgring on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 07 May 2026 13:35:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/n%C3%BCrburgring/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Гонки на скутере по Нордшляйфе: полный экстрим</title>
-      <link>https://blog.alimov.top/heres-the-insanity-of-what-racing-a-scooter-at-the-nurburgring-is-like/</link>
-      <pubDate>Thu, 07 May 2026 13:35:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/heres-the-insanity-of-what-racing-a-scooter-at-the-nurburgring-is-like/</guid>
-      <description>&lt;p&gt;Если вы не являетесь фанатом новостей Нюрбургринга, вы, возможно, не знаете об Анlassen. Это ежегодное мероприятие, которое проводится в начале мотосезона в Германии на одной из самых знаменитых и уникальных гоночных трасс мира. Каждый год мотоциклы и скутеры из Германии и других стран съезжаются на трассу, чтобы принять участие в однодневном двухколесном празднике.&lt;/p&gt;&#xA;&lt;p&gt;По данным самой трассы, в 2025 году мероприятие посетило около 42 000 человек, что весьма впечатляет! Но если вы пропустили это событие или просто хотите узнать, что значит мчаться на безумном маленьком двухтактном гоночном скутере по трассе, Миша Чарудин здесь, чтобы поделиться с вами своим опытом. Он практически сделал Нюрбургринг своей жизнью, выступая на всевозможных транспортных средствах, включая свой 35-сильный сильно модифицированный гоночный скутер.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Nürburgring on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/n%C3%BCrburgring/</link>
+		<description>Recent content in Nürburgring on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 07 May 2026 13:35:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/n%C3%BCrburgring/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Гонки на скутере по Нордшляйфе: полный экстрим</title>
+				<link>https://blog.alimov.top/heres-the-insanity-of-what-racing-a-scooter-at-the-nurburgring-is-like/</link>
+				<pubDate>Thu, 07 May 2026 13:35:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/heres-the-insanity-of-what-racing-a-scooter-at-the-nurburgring-is-like/</guid>
+				<description>&lt;p&gt;Если вы не являетесь фанатом новостей Нюрбургринга, вы, возможно, не знаете об Анlassen. Это ежегодное мероприятие, которое проводится в начале мотосезона в Германии на одной из самых знаменитых и уникальных гоночных трасс мира. Каждый год мотоциклы и скутеры из Германии и других стран съезжаются на трассу, чтобы принять участие в однодневном двухколесном празднике.&lt;/p&gt;&#xA;&lt;p&gt;По данным самой трассы, в 2025 году мероприятие посетило около 42 000 человек, что весьма впечатляет! Но если вы пропустили это событие или просто хотите узнать, что значит мчаться на безумном маленьком двухтактном гоночном скутере по трассе, Миша Чарудин здесь, чтобы поделиться с вами своим опытом. Он практически сделал Нюрбургринг своей жизнью, выступая на всевозможных транспортных средствах, включая свой 35-сильный сильно модифицированный гоночный скутер.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

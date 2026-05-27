@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Eicher on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/eicher/</link>
-    <description>Recent content in Eicher on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Wed, 08 Apr 2026 11:15:52 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/eicher/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Электрический мотоцикл Royal Enfield: характеристики и ваше мнение</title>
-      <link>https://blog.alimov.top/royal-enfields-first-electric-motorcycle-specs-are-here-what-do-you-think/</link>
-      <pubDate>Wed, 08 Apr 2026 11:15:52 +0000</pubDate>
-      <guid>https://blog.alimov.top/royal-enfields-first-electric-motorcycle-specs-are-here-what-do-you-think/</guid>
-      <description>&lt;p&gt;Когда Royal Enfield впервые показала концепт Flying Flea C6 EV на EICMA пару лет назад, это было действительно впечатляюще по двум причинам. Во-первых, это, конечно, визуальная привлекательность дизайна. Нет ничего другого, похожего на этот мотоцикл.&lt;/p&gt;&#xA;&lt;p&gt;Вторая часть, вполне понятно, вызвала вопросы о компании, которая так крепко держится за свою историю, внезапно сделав резкий поворот в сторону электрической платформы. Если этот сюжет вам знаком, то, вероятно, потому, что он уже был обыгран. Но в отличие от истории с Harley и LiveWire, здесь нет цели создать высококлассную машину, доступную лишь единицам.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Eicher on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/eicher/</link>
+		<description>Recent content in Eicher on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 08 Apr 2026 11:15:52 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/eicher/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Электрический мотоцикл Royal Enfield: характеристики и ваше мнение</title>
+				<link>https://blog.alimov.top/royal-enfields-first-electric-motorcycle-specs-are-here-what-do-you-think/</link>
+				<pubDate>Wed, 08 Apr 2026 11:15:52 +0000</pubDate>
+				<guid>https://blog.alimov.top/royal-enfields-first-electric-motorcycle-specs-are-here-what-do-you-think/</guid>
+				<description>&lt;p&gt;Когда Royal Enfield впервые показала концепт Flying Flea C6 EV на EICMA пару лет назад, это было действительно впечатляюще по двум причинам. Во-первых, это, конечно, визуальная привлекательность дизайна. Нет ничего другого, похожего на этот мотоцикл.&lt;/p&gt;&#xA;&lt;p&gt;Вторая часть, вполне понятно, вызвала вопросы о компании, которая так крепко держится за свою историю, внезапно сделав резкий поворот в сторону электрической платформы. Если этот сюжет вам знаком, то, вероятно, потому, что он уже был обыгран. Но в отличие от истории с Harley и LiveWire, здесь нет цели создать высококлассную машину, доступную лишь единицам.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

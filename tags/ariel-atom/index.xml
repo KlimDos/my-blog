@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Ariel Atom on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/ariel-atom/</link>
-    <description>Recent content in Ariel Atom on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Sun, 26 Apr 2026 13:16:20 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/ariel-atom/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Битва заряженных мотоциклов: Triumph против Suzuki и Ariel</title>
-      <link>https://blog.alimov.top/battle-of-the-supercharged-motorcycles-triumph-vs-suzuki-vs-ariel/</link>
-      <pubDate>Sun, 26 Apr 2026 13:16:20 +0000</pubDate>
-      <guid>https://blog.alimov.top/battle-of-the-supercharged-motorcycles-triumph-vs-suzuki-vs-ariel/</guid>
-      <description>&lt;p&gt;Мы уже видели ранее, что комплект нагнетателя TTS Performance (и весьма желательные дополнительные модификации, чтобы помочь вашему мотоциклу справиться с возросшей мощностью) может дать insane производительность. Кто может забыть SuperBusa? Наверное, все помнят.&lt;/p&gt;&#xA;&lt;p&gt;Хотя ни Triumph Rocket III, ни Suzuki GSX1400 (и даже Ariel Atom, который также присутствует в этом видео, хоть и немного отстает от двух других байков), не достигают 370 л.с., как SuperBusa, они все равно далеко не медленные. Rocket III выдаёт заявленные 320 л.с., как и Ariel Atom. GSX1400, в свою очередь, выдаёт &amp;ldquo;всего&amp;rdquo; 220 л.с. - это, конечно, тоже очень много.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Ariel Atom on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/ariel-atom/</link>
+		<description>Recent content in Ariel Atom on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 26 Apr 2026 13:16:20 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/ariel-atom/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Битва заряженных мотоциклов: Triumph против Suzuki и Ariel</title>
+				<link>https://blog.alimov.top/battle-of-the-supercharged-motorcycles-triumph-vs-suzuki-vs-ariel/</link>
+				<pubDate>Sun, 26 Apr 2026 13:16:20 +0000</pubDate>
+				<guid>https://blog.alimov.top/battle-of-the-supercharged-motorcycles-triumph-vs-suzuki-vs-ariel/</guid>
+				<description>&lt;p&gt;Мы уже видели ранее, что комплект нагнетателя TTS Performance (и весьма желательные дополнительные модификации, чтобы помочь вашему мотоциклу справиться с возросшей мощностью) может дать insane производительность. Кто может забыть SuperBusa? Наверное, все помнят.&lt;/p&gt;&#xA;&lt;p&gt;Хотя ни Triumph Rocket III, ни Suzuki GSX1400 (и даже Ariel Atom, который также присутствует в этом видео, хоть и немного отстает от двух других байков), не достигают 370 л.с., как SuperBusa, они все равно далеко не медленные. Rocket III выдаёт заявленные 320 л.с., как и Ariel Atom. GSX1400, в свою очередь, выдаёт &amp;ldquo;всего&amp;rdquo; 220 л.с. - это, конечно, тоже очень много.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

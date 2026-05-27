@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Keith Ball on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/keith-ball/</link>
-    <description>Recent content in Keith Ball on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Sat, 14 Feb 2026 12:01:35 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/keith-ball/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Владелец журнала Easyriders опубликовал и удалил статью о педофилии</title>
-      <link>https://blog.alimov.top/the-owner-of-easyriders-magazine-just-published-and-took-down-a-story-about-pedo/</link>
-      <pubDate>Sat, 14 Feb 2026 12:01:35 +0000</pubDate>
-      <guid>https://blog.alimov.top/the-owner-of-easyriders-magazine-just-published-and-took-down-a-story-about-pedo/</guid>
-      <description>&lt;p&gt;Честно говоря, я бы с удовольствием не писал эту статью, поэтому предупреждаю вас, прежде чем продолжить. К сожалению, нам придется поговорить о педофилии, так что если эта тема вызывает у вас дискомфорт и триггер, а это действительно должно быть так для всех, уходите.&lt;/p&gt;&#xA;&lt;p&gt;Почему RideApart освещает эту тему? Потому что недавно в эфир вышла статья, вызвавшая абсолютно праведный пожар и впоследствии удаленная владельцем журнала Easyriders на его личном сайте BikerNet, а также последовавшие за этим сообщения создателей контента и абсолютно дерьмовые, полусерьезные, ужасные извинения владельца.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Keith Ball on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/keith-ball/</link>
+		<description>Recent content in Keith Ball on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 14 Feb 2026 12:01:35 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/keith-ball/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Владелец журнала Easyriders опубликовал и удалил статью о педофилии</title>
+				<link>https://blog.alimov.top/the-owner-of-easyriders-magazine-just-published-and-took-down-a-story-about-pedo/</link>
+				<pubDate>Sat, 14 Feb 2026 12:01:35 +0000</pubDate>
+				<guid>https://blog.alimov.top/the-owner-of-easyriders-magazine-just-published-and-took-down-a-story-about-pedo/</guid>
+				<description>&lt;p&gt;Честно говоря, я бы с удовольствием не писал эту статью, поэтому предупреждаю вас, прежде чем продолжить. К сожалению, нам придется поговорить о педофилии, так что если эта тема вызывает у вас дискомфорт и триггер, а это действительно должно быть так для всех, уходите.&lt;/p&gt;&#xA;&lt;p&gt;Почему RideApart освещает эту тему? Потому что недавно в эфир вышла статья, вызвавшая абсолютно праведный пожар и впоследствии удаленная владельцем журнала Easyriders на его личном сайте BikerNet, а также последовавшие за этим сообщения создателей контента и абсолютно дерьмовые, полусерьезные, ужасные извинения владельца.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

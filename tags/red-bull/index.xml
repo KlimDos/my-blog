@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Red Bull on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/red-bull/</link>
-    <description>Recent content in Red Bull on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 21 May 2026 13:06:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/red-bull/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tech3 продолжит выступать с KTM. KTM снова всех выручает</title>
-      <link>https://blog.alimov.top/tech3-is-sticking-with-ktm-power-ktm-saved-once-again/</link>
-      <pubDate>Thu, 21 May 2026 13:06:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/tech3-is-sticking-with-ktm-power-ktm-saved-once-again/</guid>
-      <description>&lt;p&gt;KTM снова получает передышку, что уже становится 500-й за последние два года. После громкой истории о том, будет ли KTM работать со своей спутниковой командой MotoGP, Tech3 Racing, последняя объявила о продолжении сотрудничества с поставщиком двигателей. И, честно говоря, это было очень неопределенно и даже катастрофично для будущего команды в MotoGP.&lt;/p&gt;&#xA;&lt;p&gt;Я говорю это потому, что после банкротства KTM и последующего спасения, над брендом висел вопрос о том, останется ли он в MotoGP. Топ-уровень гонок всегда является убыточным с финансовой точки зрения - никакие спонсорские деньги не могут окупить затраты на исследования и разработки. И менеджеры KTM, занимавшиеся банкротством, не ошиблись, когда сказали, что KTM покинет спорт, так как финансовое бремя было слишком велико.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Гонки Vespa на rooftop-трек: звучит скучно, а выглядит — огонь!</title>
-      <link>https://blog.alimov.top/a-bunch-of-vespa-scooters-once-raced-on-a-rooftop-race-track-and-its-so-much-coo/</link>
-      <pubDate>Tue, 28 Apr 2026 11:39:37 +0000</pubDate>
-      <guid>https://blog.alimov.top/a-bunch-of-vespa-scooters-once-raced-on-a-rooftop-race-track-and-its-so-much-coo/</guid>
-      <description>&lt;p&gt;23 апреля 2026 года марка Vespa отметила свой 80-летний юбилей, и самое время вспомнить о сумасшедших трюках, которые исполняли ваши друзья на этих скутерах. Разве не для этого существуют дни рождения? Я тоже так подумал!&lt;/p&gt;&#xA;&lt;p&gt;Примерно 15 лет назад, в 2011 году, толпа веспистов (надеюсь, это правильное коллективное название) descended на очень специальную гоночную трассу в Италии. Нет, не на ту. И не на ту тоже, хотя, скорее всего, скутеры Vespa когда-то были на большинстве трасс, о которых вы думаете.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Red Bull on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/red-bull/</link>
+		<description>Recent content in Red Bull on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 21 May 2026 13:06:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/red-bull/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Tech3 продолжит выступать с KTM. KTM снова всех выручает</title>
+				<link>https://blog.alimov.top/tech3-is-sticking-with-ktm-power-ktm-saved-once-again/</link>
+				<pubDate>Thu, 21 May 2026 13:06:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/tech3-is-sticking-with-ktm-power-ktm-saved-once-again/</guid>
+				<description>&lt;p&gt;KTM снова получает передышку, что уже становится 500-й за последние два года. После громкой истории о том, будет ли KTM работать со своей спутниковой командой MotoGP, Tech3 Racing, последняя объявила о продолжении сотрудничества с поставщиком двигателей. И, честно говоря, это было очень неопределенно и даже катастрофично для будущего команды в MotoGP.&lt;/p&gt;&#xA;&lt;p&gt;Я говорю это потому, что после банкротства KTM и последующего спасения, над брендом висел вопрос о том, останется ли он в MotoGP. Топ-уровень гонок всегда является убыточным с финансовой точки зрения - никакие спонсорские деньги не могут окупить затраты на исследования и разработки. И менеджеры KTM, занимавшиеся банкротством, не ошиблись, когда сказали, что KTM покинет спорт, так как финансовое бремя было слишком велико.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Гонки Vespa на rooftop-трек: звучит скучно, а выглядит — огонь!</title>
+				<link>https://blog.alimov.top/a-bunch-of-vespa-scooters-once-raced-on-a-rooftop-race-track-and-its-so-much-coo/</link>
+				<pubDate>Tue, 28 Apr 2026 11:39:37 +0000</pubDate>
+				<guid>https://blog.alimov.top/a-bunch-of-vespa-scooters-once-raced-on-a-rooftop-race-track-and-its-so-much-coo/</guid>
+				<description>&lt;p&gt;23 апреля 2026 года марка Vespa отметила свой 80-летний юбилей, и самое время вспомнить о сумасшедших трюках, которые исполняли ваши друзья на этих скутерах. Разве не для этого существуют дни рождения? Я тоже так подумал!&lt;/p&gt;&#xA;&lt;p&gt;Примерно 15 лет назад, в 2011 году, толпа веспистов (надеюсь, это правильное коллективное название) descended на очень специальную гоночную трассу в Италии. Нет, не на ту. И не на ту тоже, хотя, скорее всего, скутеры Vespa когда-то были на большинстве трасс, о которых вы думаете.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

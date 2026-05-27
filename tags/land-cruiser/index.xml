@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Land Cruiser on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/land-cruiser/</link>
-    <description>Recent content in Land Cruiser on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Mon, 18 May 2026 12:23:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/land-cruiser/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Toyota создала внедорожный электросамокат на трёх колёсах, который помещается в машину</title>
-      <link>https://blog.alimov.top/toyota-built-an-off-road-electric-3-wheeled-scooter-that-fits-in-your-car-you-mi/</link>
-      <pubDate>Mon, 18 May 2026 12:23:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/toyota-built-an-off-road-electric-3-wheeled-scooter-that-fits-in-your-car-you-mi/</guid>
-      <description>&lt;p&gt;Мне нравятся необычные концепты и транспортные средства, которые сочетают в себе разные пространства и подходят для среднего потребителя. Toyota Land Hopper Concept - это как раз одно из таких решений, представляющее собой электрический трайк, который внешне напоминает электросамокат Lime, трехколесный мотоцикл Yamaha с наклоном и мотоциклы Cake нескольких лет назад.&lt;/p&gt;&#xA;&lt;p&gt;Еще более странно, что он разработан для перевозки в багажнике внедорожника Toyota Land Cruiser, подобно старому Honda Motocompo и новым электросамокатам Motocompacto EV. Причем, по заявлению Toyota, он способен accompany вас в приключениях на Land Cruiser, что означает, что он пригоден для езды по бездорожью.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Land Cruiser on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/land-cruiser/</link>
+		<description>Recent content in Land Cruiser on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 18 May 2026 12:23:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/land-cruiser/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Toyota создала внедорожный электросамокат на трёх колёсах, который помещается в машину</title>
+				<link>https://blog.alimov.top/toyota-built-an-off-road-electric-3-wheeled-scooter-that-fits-in-your-car-you-mi/</link>
+				<pubDate>Mon, 18 May 2026 12:23:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/toyota-built-an-off-road-electric-3-wheeled-scooter-that-fits-in-your-car-you-mi/</guid>
+				<description>&lt;p&gt;Мне нравятся необычные концепты и транспортные средства, которые сочетают в себе разные пространства и подходят для среднего потребителя. Toyota Land Hopper Concept - это как раз одно из таких решений, представляющее собой электрический трайк, который внешне напоминает электросамокат Lime, трехколесный мотоцикл Yamaha с наклоном и мотоциклы Cake нескольких лет назад.&lt;/p&gt;&#xA;&lt;p&gt;Еще более странно, что он разработан для перевозки в багажнике внедорожника Toyota Land Cruiser, подобно старому Honda Motocompo и новым электросамокатам Motocompacto EV. Причем, по заявлению Toyota, он способен accompany вас в приключениях на Land Cruiser, что означает, что он пригоден для езды по бездорожью.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

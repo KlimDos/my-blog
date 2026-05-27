@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hodaka on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/hodaka/</link>
-    <description>Recent content in Hodaka on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Wed, 28 Jan 2026 12:29:53 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/hodaka/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Этот 50-летний мотоцикл обречен, или интернет поможет ребятам спасти его?</title>
-      <link>https://blog.alimov.top/is-this-50-year-old-dirt-bike-doomed-or-can-the-internet-help-these-guys-save-it/</link>
-      <pubDate>Wed, 28 Jan 2026 12:29:53 +0000</pubDate>
-      <guid>https://blog.alimov.top/is-this-50-year-old-dirt-bike-doomed-or-can-the-internet-help-these-guys-save-it/</guid>
-      <description>&lt;p&gt;Когда я был маленьким, как я уже, кажется, упоминал, я всегда был одним из тех детей, у которых был миллион вопросов к взрослым в моей жизни. Большинство из них касалось вопросов &amp;ldquo;а почему?&amp;rdquo; по любому поводу. Не потому, что я пытался быть занозой в заднице, а потому, что мне искренне хотелось знать.&lt;/p&gt;&#xA;&lt;p&gt;Почему? Как? Пожалуйста, объясните, как все это работает, я хочу понять!&lt;/p&gt;&#xA;&lt;p&gt;Оба моих дедушки и бабушки, к их чести, были очень самостоятельными людьми. Мой дедушка показывал мне некоторые вещи, например, почему он посадил семена в саду определенным образом, как он их подкармливал, когда и почему. Моя бабушка показывала мне другие вещи, например, как она готовит пиццу с нуля или как тщательно расчесывает, придает форму и распыляет кусочек искусственного меха, чтобы сделать модную женскую прическу для куклы, которую она делала из старой винной бутылки (и шила для нее гламурное платье на швейной машинке, которую мой дедушка для нее электрифицировал).&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Hodaka on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/hodaka/</link>
+		<description>Recent content in Hodaka on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 28 Jan 2026 12:29:53 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/hodaka/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Этот 50-летний мотоцикл обречен, или интернет поможет ребятам спасти его?</title>
+				<link>https://blog.alimov.top/is-this-50-year-old-dirt-bike-doomed-or-can-the-internet-help-these-guys-save-it/</link>
+				<pubDate>Wed, 28 Jan 2026 12:29:53 +0000</pubDate>
+				<guid>https://blog.alimov.top/is-this-50-year-old-dirt-bike-doomed-or-can-the-internet-help-these-guys-save-it/</guid>
+				<description>&lt;p&gt;Когда я был маленьким, как я уже, кажется, упоминал, я всегда был одним из тех детей, у которых был миллион вопросов к взрослым в моей жизни. Большинство из них касалось вопросов &amp;ldquo;а почему?&amp;rdquo; по любому поводу. Не потому, что я пытался быть занозой в заднице, а потому, что мне искренне хотелось знать.&lt;/p&gt;&#xA;&lt;p&gt;Почему? Как? Пожалуйста, объясните, как все это работает, я хочу понять!&lt;/p&gt;&#xA;&lt;p&gt;Оба моих дедушки и бабушки, к их чести, были очень самостоятельными людьми. Мой дедушка показывал мне некоторые вещи, например, почему он посадил семена в саду определенным образом, как он их подкармливал, когда и почему. Моя бабушка показывала мне другие вещи, например, как она готовит пиццу с нуля или как тщательно расчесывает, придает форму и распыляет кусочек искусственного меха, чтобы сделать модную женскую прическу для куклы, которую она делала из старой винной бутылки (и шила для нее гламурное платье на швейной машинке, которую мой дедушка для нее электрифицировал).&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

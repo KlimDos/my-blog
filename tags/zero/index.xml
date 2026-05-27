@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Zero on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/zero/</link>
-    <description>Recent content in Zero on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Mon, 18 May 2026 20:01:09 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/zero/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Первый электромотоцикл Segway для бездорожья удивительно дешёвый и захочется детям</title>
-      <link>https://blog.alimov.top/segways-first-ev-dirt-bike-is-cheap-as-hell-and-your-kid-is-going-to-want-it/</link>
-      <pubDate>Mon, 18 May 2026 20:01:09 +0000</pubDate>
-      <guid>https://blog.alimov.top/segways-first-ev-dirt-bike-is-cheap-as-hell-and-your-kid-is-going-to-want-it/</guid>
-      <description>&lt;p&gt;На прошлой неделе я тестировал новый электрический квадроцикл Can-Am Outlander в сельской местности Висконсина, и как вы ожидаете, тема электромобилей в загородной местности не могла не возникнуть. И действительно, мы говорили о том, что молодежь сегодня гораздо более активно принимает эту технологию, особенно в сегменте электрических мотоциклов для бездорожья.&lt;/p&gt;&#xA;&lt;p&gt;Однако, несмотря на то, что есть еще некоторое количество консерваторов, которые сетуют на переход от бензиновых двигателей к электрическим (&amp;ldquo;эти молодые выскочки должны научиться регулировать карбюратор, черт возьми!&amp;rdquo;), в отрасли все больше голосов звучат за будущее, которое будет работать исключительно на электромобилях.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Безопасность детских электромотоциклов: вина лежит на родителях</title>
-      <link>https://blog.alimov.top/youth-ev-dirt-bike-safety-doesnt-exist-parents-are-to-blame/</link>
-      <pubDate>Tue, 05 May 2026 11:02:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/youth-ev-dirt-bike-safety-doesnt-exist-parents-are-to-blame/</guid>
-      <description>&lt;p&gt;Многие мои коллеги с презрением относятся к электромотоциклам для езды по бездорожью, мол, они не являются «настоящими мотоциклами», и одновременно задаются вопросом: «Почему молодежь не интересуется мотоциклами?» На мой взгляд, эти два факта взаимосвязаны. Дети интересуются мотоциклами, просто они интересуются электромотоциклами для езды по бездорожью от Sur-Ron, Talaria, Zero, Stark и Segway.&lt;/p&gt;&#xA;&lt;p&gt;Родители скупают их как горячие пирожки, и, по моей anecdotal статистике из небольшого городка, 95% детей, катающихся сегодня, ездят именно на электромобилях. Они даже не берут обычные велосипеды или электровелосипеды. Они сразу переходят к электромотоциклам, и моя собственная дочь тоже присоединилась к этой группе.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Segway зовёт на помощь: улучшаем новый электробайк вместе!</title>
-      <link>https://blog.alimov.top/segway-wants-you-to-help-make-its-new-ev-dirt-bike-better/</link>
-      <pubDate>Tue, 28 Apr 2026 11:14:51 +0000</pubDate>
-      <guid>https://blog.alimov.top/segway-wants-you-to-help-make-its-new-ev-dirt-bike-better/</guid>
-      <description>&lt;p&gt;Когда я думаю о Segway, мне сразу приходят на ум туристы в велосипедных шлемах, катающиеся по городу на двухколесных транспортных средствах, похожих на астро-механических дроидов (помните R2-D2), сопровождаемых гидом с флагом на рюкзаке. Ведь компания Segway сделала себе имя на рынке двухколесных самобалансирующихся транспортных средств.&lt;/p&gt;&#xA;&lt;p&gt;Segway HT, или «Human Transporter», был изобретен американским инженером и предпринимателем Дином Каменом и вышел на рынок 25 лет назад. В 2015 году компания была приобретена Ninebot, пекинским конкурентом, который впоследствии расширил ассортимент транспортных средств, выпускаемых под брендом Segway, — скутеры, электробайки, роботизированные газонокосилки, гок-арты и UTV.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Zero on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/zero/</link>
+		<description>Recent content in Zero on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 18 May 2026 20:01:09 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/zero/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Первый электромотоцикл Segway для бездорожья удивительно дешёвый и захочется детям</title>
+				<link>https://blog.alimov.top/segways-first-ev-dirt-bike-is-cheap-as-hell-and-your-kid-is-going-to-want-it/</link>
+				<pubDate>Mon, 18 May 2026 20:01:09 +0000</pubDate>
+				<guid>https://blog.alimov.top/segways-first-ev-dirt-bike-is-cheap-as-hell-and-your-kid-is-going-to-want-it/</guid>
+				<description>&lt;p&gt;На прошлой неделе я тестировал новый электрический квадроцикл Can-Am Outlander в сельской местности Висконсина, и как вы ожидаете, тема электромобилей в загородной местности не могла не возникнуть. И действительно, мы говорили о том, что молодежь сегодня гораздо более активно принимает эту технологию, особенно в сегменте электрических мотоциклов для бездорожья.&lt;/p&gt;&#xA;&lt;p&gt;Однако, несмотря на то, что есть еще некоторое количество консерваторов, которые сетуют на переход от бензиновых двигателей к электрическим (&amp;ldquo;эти молодые выскочки должны научиться регулировать карбюратор, черт возьми!&amp;rdquo;), в отрасли все больше голосов звучат за будущее, которое будет работать исключительно на электромобилях.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Безопасность детских электромотоциклов: вина лежит на родителях</title>
+				<link>https://blog.alimov.top/youth-ev-dirt-bike-safety-doesnt-exist-parents-are-to-blame/</link>
+				<pubDate>Tue, 05 May 2026 11:02:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/youth-ev-dirt-bike-safety-doesnt-exist-parents-are-to-blame/</guid>
+				<description>&lt;p&gt;Многие мои коллеги с презрением относятся к электромотоциклам для езды по бездорожью, мол, они не являются «настоящими мотоциклами», и одновременно задаются вопросом: «Почему молодежь не интересуется мотоциклами?» На мой взгляд, эти два факта взаимосвязаны. Дети интересуются мотоциклами, просто они интересуются электромотоциклами для езды по бездорожью от Sur-Ron, Talaria, Zero, Stark и Segway.&lt;/p&gt;&#xA;&lt;p&gt;Родители скупают их как горячие пирожки, и, по моей anecdotal статистике из небольшого городка, 95% детей, катающихся сегодня, ездят именно на электромобилях. Они даже не берут обычные велосипеды или электровелосипеды. Они сразу переходят к электромотоциклам, и моя собственная дочь тоже присоединилась к этой группе.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Segway зовёт на помощь: улучшаем новый электробайк вместе!</title>
+				<link>https://blog.alimov.top/segway-wants-you-to-help-make-its-new-ev-dirt-bike-better/</link>
+				<pubDate>Tue, 28 Apr 2026 11:14:51 +0000</pubDate>
+				<guid>https://blog.alimov.top/segway-wants-you-to-help-make-its-new-ev-dirt-bike-better/</guid>
+				<description>&lt;p&gt;Когда я думаю о Segway, мне сразу приходят на ум туристы в велосипедных шлемах, катающиеся по городу на двухколесных транспортных средствах, похожих на астро-механических дроидов (помните R2-D2), сопровождаемых гидом с флагом на рюкзаке. Ведь компания Segway сделала себе имя на рынке двухколесных самобалансирующихся транспортных средств.&lt;/p&gt;&#xA;&lt;p&gt;Segway HT, или «Human Transporter», был изобретен американским инженером и предпринимателем Дином Каменом и вышел на рынок 25 лет назад. В 2015 году компания была приобретена Ninebot, пекинским конкурентом, который впоследствии расширил ассортимент транспортных средств, выпускаемых под брендом Segway, — скутеры, электробайки, роботизированные газонокосилки, гок-арты и UTV.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

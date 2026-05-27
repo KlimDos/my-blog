@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Op-Ed on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/op-ed/</link>
-    <description>Recent content in Op-Ed on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Fri, 20 Feb 2026 13:58:55 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/op-ed/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Когда вместе делаешь дело, знания и байки становятся ещё круче</title>
-      <link>https://blog.alimov.top/heres-what-happens-when-you-plug-in-share-knowledge-and-do-cool-things-together/</link>
-      <pubDate>Fri, 20 Feb 2026 13:58:55 +0000</pubDate>
-      <guid>https://blog.alimov.top/heres-what-happens-when-you-plug-in-share-knowledge-and-do-cool-things-together/</guid>
-      <description>&lt;p&gt;Как я уже рассказывал здесь в своё время, я всегда был и, скорее всего, останусь на всю жизнь любознательным человеком. Мне кажется, что всегда есть что-то новое, что можно узнать и понять, и хотя я точно забываю многое, это обычно происходит потому, что я пытаюсь впитать как можно больше новой информации. И, собственно, я всегда был таким. Когда-то я даже собирался стать библиотекарем, не так ли?&lt;/p&gt;&#xA;&lt;p&gt;За годы я делился здесь на RideApart несколькими видео из серии Brick House Builds, и делал я это по нескольким причинам. Одна из них, конечно, — винтажные Honda, но другая важная причина — умение БJ объяснять и разбирать то, что он делает, так, чтобы те, кто не имеет такого опыта и навыков, могли начать понимать это.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Op-Ed on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/op-ed/</link>
+		<description>Recent content in Op-Ed on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 20 Feb 2026 13:58:55 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/op-ed/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Когда вместе делаешь дело, знания и байки становятся ещё круче</title>
+				<link>https://blog.alimov.top/heres-what-happens-when-you-plug-in-share-knowledge-and-do-cool-things-together/</link>
+				<pubDate>Fri, 20 Feb 2026 13:58:55 +0000</pubDate>
+				<guid>https://blog.alimov.top/heres-what-happens-when-you-plug-in-share-knowledge-and-do-cool-things-together/</guid>
+				<description>&lt;p&gt;Как я уже рассказывал здесь в своё время, я всегда был и, скорее всего, останусь на всю жизнь любознательным человеком. Мне кажется, что всегда есть что-то новое, что можно узнать и понять, и хотя я точно забываю многое, это обычно происходит потому, что я пытаюсь впитать как можно больше новой информации. И, собственно, я всегда был таким. Когда-то я даже собирался стать библиотекарем, не так ли?&lt;/p&gt;&#xA;&lt;p&gt;За годы я делился здесь на RideApart несколькими видео из серии Brick House Builds, и делал я это по нескольким причинам. Одна из них, конечно, — винтажные Honda, но другая важная причина — умение БJ объяснять и разбирать то, что он делает, так, чтобы те, кто не имеет такого опыта и навыков, могли начать понимать это.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

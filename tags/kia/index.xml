@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Kia on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/kia/</link>
-    <description>Recent content in Kia on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Tue, 28 Apr 2026 11:01:32 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/kia/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Honda уходит из автомобильного рынка Южной Кореи, сосредоточившись на мотоциклах</title>
-      <link>https://blog.alimov.top/honda-chooses-motorcycles-over-cars-in-south-korea-stops-selling-automobiles-com/</link>
-      <pubDate>Tue, 28 Apr 2026 11:01:32 +0000</pubDate>
-      <guid>https://blog.alimov.top/honda-chooses-motorcycles-over-cars-in-south-korea-stops-selling-automobiles-com/</guid>
-      <description>&lt;p&gt;подтвердила, что до конца года закроет свой бизнес по продаже автомобилей в Южной Корее. Мотоциклы останутся, но автомобильному направлению пришел конец. На первый взгляд, это кажется странным. Honda обычно ассоциируется с такими автомобилями, как Civic и CR-V. Но если взглянуть на корейский рынок, то это решение начинает выглядеть не как отступление, а как рассчитанный шаг.&lt;/p&gt;&#xA;&lt;p&gt;На южнокорейском рынке Honda никогда не была лидером продаж. Она работала как нишевый импортер, пытаясь отвоевать место под солнцем в рынке, доминируемом Hyundai и Kia. Эти бренды не только лидируют по продажам, но и формируют сам рынок, опираясь на масштаб, сильную лояльность бренда и агрессивное ценообразование. Для иностранного бренда с ограниченной линейкой моделей конкурировать здесь не просто сложно, а фактически невозможно.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Kia on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/kia/</link>
+		<description>Recent content in Kia on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 28 Apr 2026 11:01:32 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/kia/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Honda уходит из автомобильного рынка Южной Кореи, сосредоточившись на мотоциклах</title>
+				<link>https://blog.alimov.top/honda-chooses-motorcycles-over-cars-in-south-korea-stops-selling-automobiles-com/</link>
+				<pubDate>Tue, 28 Apr 2026 11:01:32 +0000</pubDate>
+				<guid>https://blog.alimov.top/honda-chooses-motorcycles-over-cars-in-south-korea-stops-selling-automobiles-com/</guid>
+				<description>&lt;p&gt;подтвердила, что до конца года закроет свой бизнес по продаже автомобилей в Южной Корее. Мотоциклы останутся, но автомобильному направлению пришел конец. На первый взгляд, это кажется странным. Honda обычно ассоциируется с такими автомобилями, как Civic и CR-V. Но если взглянуть на корейский рынок, то это решение начинает выглядеть не как отступление, а как рассчитанный шаг.&lt;/p&gt;&#xA;&lt;p&gt;На южнокорейском рынке Honda никогда не была лидером продаж. Она работала как нишевый импортер, пытаясь отвоевать место под солнцем в рынке, доминируемом Hyundai и Kia. Эти бренды не только лидируют по продажам, но и формируют сам рынок, опираясь на масштаб, сильную лояльность бренда и агрессивное ценообразование. Для иностранного бренда с ограниченной линейкой моделей конкурировать здесь не просто сложно, а фактически невозможно.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

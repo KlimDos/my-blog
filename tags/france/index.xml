@@ -1,26 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>France on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/france/</link>
-    <description>Recent content in France on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Sat, 25 Apr 2026 11:23:10 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/france/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Европейская мотоциклетная промышленность резко рванула вверх в этом году. Или нет?</title>
-      <link>https://blog.alimov.top/europes-motorcycle-industry-went-into-overdrive-this-year-or-did-it/</link>
-      <pubDate>Sat, 25 Apr 2026 11:23:10 +0000</pubDate>
-      <guid>https://blog.alimov.top/europes-motorcycle-industry-went-into-overdrive-this-year-or-did-it/</guid>
-      <description>&lt;p&gt;Европейская ассоциация производителей мотоциклов (ACEM) только что опубликовала данные о регистрации мотоциклов за первый квартал 2026 года, и на первый взгляд кажется, что рынок мотоциклов в Европе внезапно загорелся. По Франции, Германии, Италии, Испании и Великобритании было зарегистрировано 250 762 единицы, что на 21,1% больше, чем в прошлом году. Это большой скачок за короткий период, особенно для зрелого рынка.&lt;/p&gt;&#xA;&lt;p&gt;Но когда начинаешь разбираться, становится ясно, что это не внезапный бум. Это больше похоже на рынок, который наконец-то пришел в себя после довольно странного 2025 года.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Стартап электробайков утроил выручку и вышел в плюс</title>
-      <link>https://blog.alimov.top/this-ev-dirt-bike-startup-just-tripled-revenue-and-went-profitable/</link>
-      <pubDate>Sun, 19 Apr 2026 13:47:46 +0000</pubDate>
-      <guid>https://blog.alimov.top/this-ev-dirt-bike-startup-just-tripled-revenue-and-went-profitable/</guid>
-      <description>&lt;p&gt;Stark Future только что опубликовала финансовые результаты за первый квартал 2026 года, и они весьма впечатляют. Выручка компании выросла на 212 процентов по сравнению с аналогичным периодом прошлого года. Это相当于 росту в 3,12 раза всего за один квартал. Не опечатка.&lt;/p&gt;&#xA;&lt;p&gt;Параллельно компания достигла своего первого периода прибыльности по EBITDA, что означает, что она не только продаёт мотоциклы, но и зарабатывает на этом.&lt;/p&gt;&#xA;&lt;p&gt;Давайте посмотрим на это под другим углом. Большинство стартапов в сфере электромобилей всё ещё застряли на этапе, когда рост сопровождается большими убытками. Они сжигают деньги, масштабируются позже, и пытаются разобраться во всём этом в конечном итоге. Stark просто пропустила этот этап и сказала: «Мы будем расти быстро и действовать дисциплинированно». Уже это делает отчёт достойным внимания.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>France on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/france/</link>
+		<description>Recent content in France on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 25 Apr 2026 11:23:10 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/france/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Европейская мотоциклетная промышленность резко рванула вверх в этом году. Или нет?</title>
+				<link>https://blog.alimov.top/europes-motorcycle-industry-went-into-overdrive-this-year-or-did-it/</link>
+				<pubDate>Sat, 25 Apr 2026 11:23:10 +0000</pubDate>
+				<guid>https://blog.alimov.top/europes-motorcycle-industry-went-into-overdrive-this-year-or-did-it/</guid>
+				<description>&lt;p&gt;Европейская ассоциация производителей мотоциклов (ACEM) только что опубликовала данные о регистрации мотоциклов за первый квартал 2026 года, и на первый взгляд кажется, что рынок мотоциклов в Европе внезапно загорелся. По Франции, Германии, Италии, Испании и Великобритании было зарегистрировано 250 762 единицы, что на 21,1% больше, чем в прошлом году. Это большой скачок за короткий период, особенно для зрелого рынка.&lt;/p&gt;&#xA;&lt;p&gt;Но когда начинаешь разбираться, становится ясно, что это не внезапный бум. Это больше похоже на рынок, который наконец-то пришел в себя после довольно странного 2025 года.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Стартап электробайков утроил выручку и вышел в плюс</title>
+				<link>https://blog.alimov.top/this-ev-dirt-bike-startup-just-tripled-revenue-and-went-profitable/</link>
+				<pubDate>Sun, 19 Apr 2026 13:47:46 +0000</pubDate>
+				<guid>https://blog.alimov.top/this-ev-dirt-bike-startup-just-tripled-revenue-and-went-profitable/</guid>
+				<description>&lt;p&gt;Stark Future только что опубликовала финансовые результаты за первый квартал 2026 года, и они весьма впечатляют. Выручка компании выросла на 212 процентов по сравнению с аналогичным периодом прошлого года. Это相当于 росту в 3,12 раза всего за один квартал. Не опечатка.&lt;/p&gt;&#xA;&lt;p&gt;Параллельно компания достигла своего первого периода прибыльности по EBITDA, что означает, что она не только продаёт мотоциклы, но и зарабатывает на этом.&lt;/p&gt;&#xA;&lt;p&gt;Давайте посмотрим на это под другим углом. Большинство стартапов в сфере электромобилей всё ещё застряли на этапе, когда рост сопровождается большими убытками. Они сжигают деньги, масштабируются позже, и пытаются разобраться во всём этом в конечном итоге. Stark просто пропустила этот этап и сказала: «Мы будем расти быстро и действовать дисциплинированно». Уже это делает отчёт достойным внимания.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Diy on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/diy/</link>
-    <description>Recent content in Diy on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Fri, 17 Apr 2026 11:37:04 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/diy/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Парень собрал рабочий карт из LEGO — или это уже автомобиль?</title>
-      <link>https://blog.alimov.top/bum-just-made-a-working-lego-go-kart-or-maybe-this-qualifies-as-a-lego-car/</link>
-      <pubDate>Fri, 17 Apr 2026 11:37:04 +0000</pubDate>
-      <guid>https://blog.alimov.top/bum-just-made-a-working-lego-go-kart-or-maybe-this-qualifies-as-a-lego-car/</guid>
-      <description>&lt;p&gt;Построить рабочий LEGO-картинго — это, наверное, мечта каждого ребенка. А может быть, и каждого взрослого, не расставшегося с детскими игрушками? Точно! Я считал, что это предел мечтаний для LEGO, пока не посмотрел видео от BUM, и понял, что на самом деле мечта — построить LEGO-машину. Но даже после просмотра видео я не совсем уверен, насколько это реально.&lt;/p&gt;&#xA;&lt;p&gt;Ребята из BUM решили рискнуть и использовать старую основу электрического картинга как фундамент для этого «Bugatti LEGO car». Конечно, просто так взять и прикрепить блоки LEGO к трубчатой раме не получится. Стоит отметить, что в BUM используют гигантские блоки LEGO, а не обычные.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Теперь можно 3D-печатью создавать редкие запчасти для мотоциклов</title>
-      <link>https://blog.alimov.top/you-can-totally-3d-print-those-hard-to-find-replacement-motorcycle-pieces-now/</link>
-      <pubDate>Wed, 15 Apr 2026 13:03:59 +0000</pubDate>
-      <guid>https://blog.alimov.top/you-can-totally-3d-print-those-hard-to-find-replacement-motorcycle-pieces-now/</guid>
-      <description>&lt;p&gt;Порой вселенная DIY работает загадочными способами. Всего неделю назад я делился последним видео Superfastmatt, где он показывал нам все эксперименты, которые он проводил в 3D-печати металлических деталей для некоторых своих автомобильных проектов.&lt;/p&gt;&#xA;&lt;p&gt;И хотя этот впечатляющий выпускной коллектор, который он показывает, был сделан по его спецификациям, специально для его автомобиля, побившего рекорды скорости на суше, совсем не сложно понять, как эти процессы могут быть полезны любому DIYеру, который захочет их использовать, включая мотоцикльных энтузиастов и любителей мотоспорта.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Вы испортили гаечный ключ на своем велосипеде: Что делать дальше?</title>
-      <link>https://blog.alimov.top/so-you-messed-up-wrenching-on-your-bike-what-do-you-do-next/</link>
-      <pubDate>Thu, 22 Jan 2026 12:52:10 +0000</pubDate>
-      <guid>https://blog.alimov.top/so-you-messed-up-wrenching-on-your-bike-what-do-you-do-next/</guid>
-      <description>&lt;p&gt;Одна из вещей, которые я по-настоящему люблю в Интернете, - это люди, которые очень увлечены чем-то, тратят тонны времени и энергии (а часто и денег, но ведь деньги не считаются, когда ты очень увлечен, не так ли?) на изучение всего, что связано с этим.&lt;/p&gt;&#xA;&lt;p&gt;А затем они делятся этой страстью с остальными. Во времена Flickr и форумов можно было найти длинные темы с подробным описанием того, как они сделали X сложную вещь со своим велосипедом, и как вы можете сделать это тоже. Целые объяснения, иногда с нарисованными от руки диаграммами, и все в таком духе. Это было очень похоже на цифровой эквивалент поиска группы друзей-единомышленников в своем районе, посиделок в их гараже, подвале или на кухне крошечной квартирки и простого выяснения, как изменить ту единственную вещь, которая сводит вас с ума в вашем мотоцикле.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Diy on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/diy/</link>
+		<description>Recent content in Diy on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 17 Apr 2026 11:37:04 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/diy/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Парень собрал рабочий карт из LEGO — или это уже автомобиль?</title>
+				<link>https://blog.alimov.top/bum-just-made-a-working-lego-go-kart-or-maybe-this-qualifies-as-a-lego-car/</link>
+				<pubDate>Fri, 17 Apr 2026 11:37:04 +0000</pubDate>
+				<guid>https://blog.alimov.top/bum-just-made-a-working-lego-go-kart-or-maybe-this-qualifies-as-a-lego-car/</guid>
+				<description>&lt;p&gt;Построить рабочий LEGO-картинго — это, наверное, мечта каждого ребенка. А может быть, и каждого взрослого, не расставшегося с детскими игрушками? Точно! Я считал, что это предел мечтаний для LEGO, пока не посмотрел видео от BUM, и понял, что на самом деле мечта — построить LEGO-машину. Но даже после просмотра видео я не совсем уверен, насколько это реально.&lt;/p&gt;&#xA;&lt;p&gt;Ребята из BUM решили рискнуть и использовать старую основу электрического картинга как фундамент для этого «Bugatti LEGO car». Конечно, просто так взять и прикрепить блоки LEGO к трубчатой раме не получится. Стоит отметить, что в BUM используют гигантские блоки LEGO, а не обычные.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Теперь можно 3D-печатью создавать редкие запчасти для мотоциклов</title>
+				<link>https://blog.alimov.top/you-can-totally-3d-print-those-hard-to-find-replacement-motorcycle-pieces-now/</link>
+				<pubDate>Wed, 15 Apr 2026 13:03:59 +0000</pubDate>
+				<guid>https://blog.alimov.top/you-can-totally-3d-print-those-hard-to-find-replacement-motorcycle-pieces-now/</guid>
+				<description>&lt;p&gt;Порой вселенная DIY работает загадочными способами. Всего неделю назад я делился последним видео Superfastmatt, где он показывал нам все эксперименты, которые он проводил в 3D-печати металлических деталей для некоторых своих автомобильных проектов.&lt;/p&gt;&#xA;&lt;p&gt;И хотя этот впечатляющий выпускной коллектор, который он показывает, был сделан по его спецификациям, специально для его автомобиля, побившего рекорды скорости на суше, совсем не сложно понять, как эти процессы могут быть полезны любому DIYеру, который захочет их использовать, включая мотоцикльных энтузиастов и любителей мотоспорта.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Вы испортили гаечный ключ на своем велосипеде: Что делать дальше?</title>
+				<link>https://blog.alimov.top/so-you-messed-up-wrenching-on-your-bike-what-do-you-do-next/</link>
+				<pubDate>Thu, 22 Jan 2026 12:52:10 +0000</pubDate>
+				<guid>https://blog.alimov.top/so-you-messed-up-wrenching-on-your-bike-what-do-you-do-next/</guid>
+				<description>&lt;p&gt;Одна из вещей, которые я по-настоящему люблю в Интернете, - это люди, которые очень увлечены чем-то, тратят тонны времени и энергии (а часто и денег, но ведь деньги не считаются, когда ты очень увлечен, не так ли?) на изучение всего, что связано с этим.&lt;/p&gt;&#xA;&lt;p&gt;А затем они делятся этой страстью с остальными. Во времена Flickr и форумов можно было найти длинные темы с подробным описанием того, как они сделали X сложную вещь со своим велосипедом, и как вы можете сделать это тоже. Целые объяснения, иногда с нарисованными от руки диаграммами, и все в таком духе. Это было очень похоже на цифровой эквивалент поиска группы друзей-единомышленников в своем районе, посиделок в их гараже, подвале или на кухне крошечной квартирки и простого выяснения, как изменить ту единственную вещь, которая сводит вас с ума в вашем мотоцикле.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

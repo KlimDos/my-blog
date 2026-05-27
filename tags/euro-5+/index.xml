@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Euro 5&#43; on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/euro-5&#43;/</link>
-    <description>Recent content in Euro 5&#43; on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Sat, 25 Apr 2026 11:23:10 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/euro-5+/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Европейская мотоциклетная промышленность резко рванула вверх в этом году. Или нет?</title>
-      <link>https://blog.alimov.top/europes-motorcycle-industry-went-into-overdrive-this-year-or-did-it/</link>
-      <pubDate>Sat, 25 Apr 2026 11:23:10 +0000</pubDate>
-      <guid>https://blog.alimov.top/europes-motorcycle-industry-went-into-overdrive-this-year-or-did-it/</guid>
-      <description>&lt;p&gt;Европейская ассоциация производителей мотоциклов (ACEM) только что опубликовала данные о регистрации мотоциклов за первый квартал 2026 года, и на первый взгляд кажется, что рынок мотоциклов в Европе внезапно загорелся. По Франции, Германии, Италии, Испании и Великобритании было зарегистрировано 250 762 единицы, что на 21,1% больше, чем в прошлом году. Это большой скачок за короткий период, особенно для зрелого рынка.&lt;/p&gt;&#xA;&lt;p&gt;Но когда начинаешь разбираться, становится ясно, что это не внезапный бум. Это больше похоже на рынок, который наконец-то пришел в себя после довольно странного 2025 года.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Euro 5&#43; on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/euro-5&#43;/</link>
+		<description>Recent content in Euro 5&#43; on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Sat, 25 Apr 2026 11:23:10 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/euro-5+/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Европейская мотоциклетная промышленность резко рванула вверх в этом году. Или нет?</title>
+				<link>https://blog.alimov.top/europes-motorcycle-industry-went-into-overdrive-this-year-or-did-it/</link>
+				<pubDate>Sat, 25 Apr 2026 11:23:10 +0000</pubDate>
+				<guid>https://blog.alimov.top/europes-motorcycle-industry-went-into-overdrive-this-year-or-did-it/</guid>
+				<description>&lt;p&gt;Европейская ассоциация производителей мотоциклов (ACEM) только что опубликовала данные о регистрации мотоциклов за первый квартал 2026 года, и на первый взгляд кажется, что рынок мотоциклов в Европе внезапно загорелся. По Франции, Германии, Италии, Испании и Великобритании было зарегистрировано 250 762 единицы, что на 21,1% больше, чем в прошлом году. Это большой скачок за короткий период, особенно для зрелого рынка.&lt;/p&gt;&#xA;&lt;p&gt;Но когда начинаешь разбираться, становится ясно, что это не внезапный бум. Это больше похоже на рынок, который наконец-то пришел в себя после довольно странного 2025 года.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

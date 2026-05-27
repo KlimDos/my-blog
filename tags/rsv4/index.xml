@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Rsv4 on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/rsv4/</link>
-    <description>Recent content in Rsv4 on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Tue, 21 Apr 2026 11:26:21 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/rsv4/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Все 30 лимитированных Aprilia America Superbike распроданы</title>
-      <link>https://blog.alimov.top/all-30-of-aprilias-150-000-limited-edition-america-superbike-have-been-sold/</link>
-      <pubDate>Tue, 21 Apr 2026 11:26:21 +0000</pubDate>
-      <guid>https://blog.alimov.top/all-30-of-aprilias-150-000-limited-edition-america-superbike-have-been-sold/</guid>
-      <description>&lt;p&gt;Когда появилась информация о том, что Aprilia собирается праздновать 250-летие США, моё первое thought было: «Что, почему?» Ведь Aprilia — это итальянская компания, и хотя американский рынок для неё важен, но не критически важен.&lt;/p&gt;&#xA;&lt;p&gt;Речь идёт о мотоцикле X 250th, который по сути является просто ещё одним MotoGP-овским RSV4. Это крутой супербайк, не поймите меня неправильно. Но я искренне не понимаю, почему Aprilia, из всех компаний, решила праздновать 250-летие Америки. Видимо, я в меньшинстве, потому что тираж этого специального издания мотоцикла ограничен 30 экземплярами, а цена аж $150,000. И тем не менее, все 30 мотоциклов были проданы всего за 14 дней.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Rsv4 on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/rsv4/</link>
+		<description>Recent content in Rsv4 on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 21 Apr 2026 11:26:21 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/rsv4/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Все 30 лимитированных Aprilia America Superbike распроданы</title>
+				<link>https://blog.alimov.top/all-30-of-aprilias-150-000-limited-edition-america-superbike-have-been-sold/</link>
+				<pubDate>Tue, 21 Apr 2026 11:26:21 +0000</pubDate>
+				<guid>https://blog.alimov.top/all-30-of-aprilias-150-000-limited-edition-america-superbike-have-been-sold/</guid>
+				<description>&lt;p&gt;Когда появилась информация о том, что Aprilia собирается праздновать 250-летие США, моё первое thought было: «Что, почему?» Ведь Aprilia — это итальянская компания, и хотя американский рынок для неё важен, но не критически важен.&lt;/p&gt;&#xA;&lt;p&gt;Речь идёт о мотоцикле X 250th, который по сути является просто ещё одним MotoGP-овским RSV4. Это крутой супербайк, не поймите меня неправильно. Но я искренне не понимаю, почему Aprilia, из всех компаний, решила праздновать 250-летие Америки. Видимо, я в меньшинстве, потому что тираж этого специального издания мотоцикла ограничен 30 экземплярами, а цена аж $150,000. И тем не менее, все 30 мотоциклов были проданы всего за 14 дней.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

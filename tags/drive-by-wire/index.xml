@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Drive-by-Wire on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/drive-by-wire/</link>
-    <description>Recent content in Drive-by-Wire on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Mon, 25 May 2026 11:01:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/drive-by-wire/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Тест-драйв Honda Pioneer 1000 Deluxe: король бездорожья среди мотовездеходных машин</title>
-      <link>https://blog.alimov.top/first-drive-review-the-new-honda-pioneer-1000-deluxe-is-a-mountain-goat-of-a-utv/</link>
-      <pubDate>Mon, 25 May 2026 11:01:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/first-drive-review-the-new-honda-pioneer-1000-deluxe-is-a-mountain-goat-of-a-utv/</guid>
-      <description>&lt;p&gt;2026 Honda Pioneer 1000 Deluxe: настоящий рабочий инструмент с приятным лицом&lt;/p&gt;&#xA;&lt;p&gt;Когда я взглянул на 2026 Honda Pioneer 1000 Deluxe, я не мог не вспомнить Clark Kent - неприметный, дружелюбный и простой. Но не обманывайтесь его внешним видом: этот side-by-side - это машина, созданная для работы и удовольствия.&lt;/p&gt;&#xA;&lt;p&gt;Испытания проходили на огромном ранчо в Техасе, где я смог проверить возможности Pioneer 1000 Deluxe в различных условиях. Это не машина для гонок, а рабочий инструмент, предназначенный для выполнения задач.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Drive-by-Wire on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/drive-by-wire/</link>
+		<description>Recent content in Drive-by-Wire on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 25 May 2026 11:01:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/drive-by-wire/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Тест-драйв Honda Pioneer 1000 Deluxe: король бездорожья среди мотовездеходных машин</title>
+				<link>https://blog.alimov.top/first-drive-review-the-new-honda-pioneer-1000-deluxe-is-a-mountain-goat-of-a-utv/</link>
+				<pubDate>Mon, 25 May 2026 11:01:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/first-drive-review-the-new-honda-pioneer-1000-deluxe-is-a-mountain-goat-of-a-utv/</guid>
+				<description>&lt;p&gt;2026 Honda Pioneer 1000 Deluxe: настоящий рабочий инструмент с приятным лицом&lt;/p&gt;&#xA;&lt;p&gt;Когда я взглянул на 2026 Honda Pioneer 1000 Deluxe, я не мог не вспомнить Clark Kent - неприметный, дружелюбный и простой. Но не обманывайтесь его внешним видом: этот side-by-side - это машина, созданная для работы и удовольствия.&lt;/p&gt;&#xA;&lt;p&gt;Испытания проходили на огромном ранчо в Техасе, где я смог проверить возможности Pioneer 1000 Deluxe в различных условиях. Это не машина для гонок, а рабочий инструмент, предназначенный для выполнения задач.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

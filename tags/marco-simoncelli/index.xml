@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Marco Simoncelli on 🏍️ Бип-бип, сука</title>
-    <link>https://blog.alimov.top/tags/marco-simoncelli/</link>
-    <description>Recent content in Marco Simoncelli on 🏍️ Бип-бип, сука</description>
-    <generator>Hugo</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 14 May 2026 11:11:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.alimov.top/tags/marco-simoncelli/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>правила безопасности MotoGP: шаг вперед или угроза для гонщиков?</title>
-      <link>https://blog.alimov.top/is-motogps-new-safety-regulation-putting-riders-in-more-danger/</link>
-      <pubDate>Thu, 14 May 2026 11:11:00 +0000</pubDate>
-      <guid>https://blog.alimov.top/is-motogps-new-safety-regulation-putting-riders-in-more-danger/</guid>
-      <description>&lt;p&gt;В этом году в MotoGP вступило в силу новое правило безопасности. По сути, оно означает, что любой мотоцикл, двигатель которого заглох после падения, должен быть перемещён на сервисную дорогу, прежде чем пытаться завести его снова. Раньше, если мотоцикл был в рабочем состоянии после падения, райдеры получали помощь от маршалов, которые давали им пинка, чтобы завести мотоцикл. Однако чиновники сочли, что это слишком опасно для маршалов.&lt;/p&gt;&#xA;&lt;p&gt;К сожалению, это решение может поставить райдеров в большую опасность и привести к ещё большему количеству аварий, подобных той, что случилась с одним из самых ярких звёзд MotoGP, Марко Симончелли.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Marco Simoncelli on 🏍️ Бип-бип, сука</title>
+		<link>https://blog.alimov.top/tags/marco-simoncelli/</link>
+		<description>Recent content in Marco Simoncelli on 🏍️ Бип-бип, сука</description>
+		<generator>Hugo</generator>
+		<language>ru</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 14 May 2026 11:11:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://blog.alimov.top/tags/marco-simoncelli/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>правила безопасности MotoGP: шаг вперед или угроза для гонщиков?</title>
+				<link>https://blog.alimov.top/is-motogps-new-safety-regulation-putting-riders-in-more-danger/</link>
+				<pubDate>Thu, 14 May 2026 11:11:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/is-motogps-new-safety-regulation-putting-riders-in-more-danger/</guid>
+				<description>&lt;p&gt;В этом году в MotoGP вступило в силу новое правило безопасности. По сути, оно означает, что любой мотоцикл, двигатель которого заглох после падения, должен быть перемещён на сервисную дорогу, прежде чем пытаться завести его снова. Раньше, если мотоцикл был в рабочем состоянии после падения, райдеры получали помощь от маршалов, которые давали им пинка, чтобы завести мотоцикл. Однако чиновники сочли, что это слишком опасно для маршалов.&lt;/p&gt;&#xA;&lt;p&gt;К сожалению, это решение может поставить райдеров в большую опасность и привести к ещё большему количеству аварий, подобных той, что случилась с одним из самых ярких звёзд MotoGP, Марко Симончелли.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
