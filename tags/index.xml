@@ -10,11 +10,39 @@
 		
 		
 		
-			<lastBuildDate>Wed, 27 May 2026 13:38:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 27 May 2026 14:42:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>BMW</title>
+				<title>Formula 1</title>
+				<link>https://blog.alimov.top/tags/formula-1/</link>
+				<pubDate>Wed, 27 May 2026 14:42:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/tags/formula-1/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pramac Yamaha</title>
+				<link>https://blog.alimov.top/tags/pramac-yamaha/</link>
+				<pubDate>Wed, 27 May 2026 14:42:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/tags/pramac-yamaha/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ross Brawn</title>
+				<link>https://blog.alimov.top/tags/ross-brawn/</link>
+				<pubDate>Wed, 27 May 2026 14:42:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/tags/ross-brawn/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Yamaha</title>
+				<link>https://blog.alimov.top/tags/yamaha/</link>
+				<pubDate>Wed, 27 May 2026 14:42:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/tags/yamaha/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Bmw</title>
 				<link>https://blog.alimov.top/tags/bmw/</link>
 				<pubDate>Wed, 27 May 2026 13:38:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/bmw/</guid>
@@ -95,13 +123,6 @@
 				<link>https://blog.alimov.top/tags/kove-moto/</link>
 				<pubDate>Wed, 27 May 2026 12:17:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/kove-moto/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Yamaha</title>
-				<link>https://blog.alimov.top/tags/yamaha/</link>
-				<pubDate>Wed, 27 May 2026 12:17:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/tags/yamaha/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -546,7 +567,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Ce Level 2</title>
+				<title>Ce-Level 2</title>
 				<link>https://blog.alimov.top/tags/ce-level-2/</link>
 				<pubDate>Fri, 22 May 2026 12:14:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/ce-level-2/</guid>
@@ -679,7 +700,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Ktm</title>
+				<title>KTM</title>
 				<link>https://blog.alimov.top/tags/ktm/</link>
 				<pubDate>Thu, 21 May 2026 13:06:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/ktm/</guid>
@@ -1169,7 +1190,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Can Am</title>
+				<title>Can-Am</title>
 				<link>https://blog.alimov.top/tags/can-am/</link>
 				<pubDate>Tue, 19 May 2026 11:01:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/can-am/</guid>
@@ -1288,14 +1309,14 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Suzuki Gsx-8s</title>
+				<title>Suzuki GSX-8S</title>
 				<link>https://blog.alimov.top/tags/suzuki-gsx-8s/</link>
 				<pubDate>Mon, 18 May 2026 11:27:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/suzuki-gsx-8s/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Yamaha MT-07</title>
+				<title>Yamaha Mt-07</title>
 				<link>https://blog.alimov.top/tags/yamaha-mt-07/</link>
 				<pubDate>Mon, 18 May 2026 11:27:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/yamaha-mt-07/</guid>
@@ -1708,7 +1729,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>ATV</title>
+				<title>Atv</title>
 				<link>https://blog.alimov.top/tags/atv/</link>
 				<pubDate>Mon, 11 May 2026 12:37:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/atv/</guid>
@@ -1750,7 +1771,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>E-Bike</title>
+				<title>E Bike</title>
 				<link>https://blog.alimov.top/tags/e-bike/</link>
 				<pubDate>Mon, 11 May 2026 11:44:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/e-bike/</guid>
@@ -1929,13 +1950,6 @@
 				<link>https://blog.alimov.top/tags/christian-horner/</link>
 				<pubDate>Fri, 08 May 2026 11:18:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/christian-horner/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Formula 1</title>
-				<link>https://blog.alimov.top/tags/formula-1/</link>
-				<pubDate>Fri, 08 May 2026 11:18:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/tags/formula-1/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -7035,7 +7049,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Suzuki Gsx-8r</title>
+				<title>Suzuki GSX-8R</title>
 				<link>https://blog.alimov.top/tags/suzuki-gsx-8r/</link>
 				<pubDate>Fri, 13 Mar 2026 11:34:14 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/suzuki-gsx-8r/</guid>
