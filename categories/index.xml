@@ -10,21 +10,35 @@
 		
 		
 		
-			<lastBuildDate>Wed, 27 May 2026 14:42:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 28 May 2026 11:22:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Гонки</title>
-				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
-				<pubDate>Wed, 27 May 2026 14:42:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
+				<title>Positions</title>
+				<link>https://blog.alimov.top/categories/positions/</link>
+				<pubDate>Thu, 28 May 2026 11:22:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/positions/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Wed, 27 May 2026 14:42:00 +0000</pubDate>
+				<pubDate>Thu, 28 May 2026 11:22:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Electric Motorcycles</title>
+				<link>https://blog.alimov.top/categories/electric-motorcycles/</link>
+				<pubDate>Thu, 28 May 2026 11:08:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/electric-motorcycles/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Гонки</title>
+				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
+				<pubDate>Thu, 28 May 2026 10:57:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -84,24 +98,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Electric Motorcycles</title>
-				<link>https://blog.alimov.top/categories/electric-motorcycles/</link>
-				<pubDate>Fri, 22 May 2026 12:43:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/electric-motorcycles/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Gear News</title>
 				<link>https://blog.alimov.top/categories/gear-news/</link>
 				<pubDate>Fri, 22 May 2026 12:14:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/gear-news/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Positions</title>
-				<link>https://blog.alimov.top/categories/positions/</link>
-				<pubDate>Fri, 22 May 2026 11:18:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/positions/</guid>
 				<description></description>
 			</item>
 			<item>
