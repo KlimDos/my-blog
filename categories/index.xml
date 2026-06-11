@@ -10,21 +10,49 @@
 		
 		
 		
-			<lastBuildDate>Thu, 11 Jun 2026 11:59:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 11 Jun 2026 13:19:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Новости</title>
+				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
+				<pubDate>Thu, 11 Jun 2026 13:19:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Технологии</title>
+				<link>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
+				<pubDate>Thu, 11 Jun 2026 13:19:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Standard &amp; Naked</title>
+				<link>https://blog.alimov.top/categories/standard--naked/</link>
+				<pubDate>Thu, 11 Jun 2026 12:41:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/standard--naked/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Scooters</title>
+				<link>https://blog.alimov.top/categories/scooters/</link>
+				<pubDate>Thu, 11 Jun 2026 12:39:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/scooters/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Motorcycle Culture</title>
+				<link>https://blog.alimov.top/categories/motorcycle-culture/</link>
+				<pubDate>Thu, 11 Jun 2026 12:11:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/motorcycle-culture/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Гонки</title>
 				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
 				<pubDate>Thu, 11 Jun 2026 11:59:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Новости</title>
-				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Thu, 11 Jun 2026 11:59:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -91,13 +119,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Standard &amp; Naked</title>
-				<link>https://blog.alimov.top/categories/standard--naked/</link>
-				<pubDate>Mon, 08 Jun 2026 13:28:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/standard--naked/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Кастом</title>
 				<link>https://blog.alimov.top/categories/%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC/</link>
 				<pubDate>Mon, 08 Jun 2026 13:08:00 +0000</pubDate>
@@ -109,13 +130,6 @@
 				<link>https://blog.alimov.top/categories/utv/</link>
 				<pubDate>Mon, 08 Jun 2026 12:31:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/utv/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Scooters</title>
-				<link>https://blog.alimov.top/categories/scooters/</link>
-				<pubDate>Mon, 08 Jun 2026 11:03:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/scooters/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -144,20 +158,6 @@
 				<link>https://blog.alimov.top/categories/experiences/</link>
 				<pubDate>Fri, 05 Jun 2026 11:01:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/experiences/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Технологии</title>
-				<link>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
-				<pubDate>Thu, 04 Jun 2026 11:04:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Motorcycle Culture</title>
-				<link>https://blog.alimov.top/categories/motorcycle-culture/</link>
-				<pubDate>Wed, 03 Jun 2026 12:48:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/motorcycle-culture/</guid>
 				<description></description>
 			</item>
 			<item>
