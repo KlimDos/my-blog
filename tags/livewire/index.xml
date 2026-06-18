@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Livewire on 🏍️ Бип-бип, сука</title>
+		<title>LiveWire on 🏍️ Бип-бип, сука</title>
 		<link>https://blog.alimov.top/tags/livewire/</link>
-		<description>Recent content in Livewire on 🏍️ Бип-бип, сука</description>
+		<description>Recent content in LiveWire on 🏍️ Бип-бип, сука</description>
 		<generator>Hugo</generator>
 		<language>ru</language>
 		
@@ -13,6 +13,13 @@
 			<lastBuildDate>Fri, 12 Jun 2026 17:53:55 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/tags/livewire/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Акции Harley-Davidson выросли после агрессивной рекламы Indian Motorcycle</title>
+				<link>https://blog.alimov.top/harleys-stock-has-only-risen-since-indian-motorcycles-attack-ad-campaign/</link>
+				<pubDate>Fri, 12 Jun 2026 17:53:55 +0000</pubDate>
+				<guid>https://blog.alimov.top/harleys-stock-has-only-risen-since-indian-motorcycles-attack-ad-campaign/</guid>
+				<description>&lt;p&gt;С тех пор как Indian Motorcycle запустила свою политизированную рекламную кампанию против главного конкурента, Harley-Davidson, а затем продолжила критику компании в тщательно подготовленном заявлении для RideApart, акции Harley выросли в цене.&lt;/p&gt;&#xA;&lt;p&gt;Стоимость акций, поднявшаяся примерно на 6% за последнюю неделю (к слову, Indian Motorcycle сейчас не является публичной компанией, поскольку её приобретение компанией Carolwood LP исключило её из состава Polaris), выросла не только после серии публикаций в соцсетях, в которых Indian Motorcycle жёстко раскритиковала Harley-Davidson за её инициативы по разнообразию и инклюзивности, приверженность электромотоциклам, производство за рубежом и выбор гендиректоров, но и после того, как Harley объявила о ряде новостей, которые инвесторы и публика, скорее всего, воспримут как позитивные.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Акции Harley-Davidson выросли после атаки Royal Enfield</title>
 				<link>https://blog.alimov.top/harleys-stock-has-risen-since-indians-attack-campaign/</link>
