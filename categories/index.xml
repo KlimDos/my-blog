@@ -10,21 +10,28 @@
 		
 		
 		
-			<lastBuildDate>Tue, 23 Jun 2026 14:03:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 23 Jun 2026 16:29:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>MotoGP</title>
-				<link>https://blog.alimov.top/categories/motogp/</link>
-				<pubDate>Tue, 23 Jun 2026 14:03:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/motogp/</guid>
+				<title>Recalls</title>
+				<link>https://blog.alimov.top/categories/recalls/</link>
+				<pubDate>Tue, 23 Jun 2026 16:29:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/recalls/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Tue, 23 Jun 2026 14:03:00 +0000</pubDate>
+				<pubDate>Tue, 23 Jun 2026 16:29:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>MotoGP</title>
+				<link>https://blog.alimov.top/categories/motogp/</link>
+				<pubDate>Tue, 23 Jun 2026 14:03:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/motogp/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -158,13 +165,6 @@
 				<link>https://blog.alimov.top/categories/scooters/</link>
 				<pubDate>Sun, 14 Jun 2026 12:19:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/scooters/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Recalls</title>
-				<link>https://blog.alimov.top/categories/recalls/</link>
-				<pubDate>Fri, 12 Jun 2026 13:45:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/recalls/</guid>
 				<description></description>
 			</item>
 			<item>
