@@ -10,27 +10,34 @@
 		
 		
 		
-			<lastBuildDate>Tue, 23 Jun 2026 12:52:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 23 Jun 2026 14:03:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Bajaj</title>
+				<link>https://blog.alimov.top/tags/bajaj/</link>
+				<pubDate>Tue, 23 Jun 2026 14:03:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/tags/bajaj/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Ducati</title>
 				<link>https://blog.alimov.top/tags/ducati/</link>
-				<pubDate>Tue, 23 Jun 2026 12:52:00 +0000</pubDate>
+				<pubDate>Tue, 23 Jun 2026 14:03:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/ducati/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Honda</title>
 				<link>https://blog.alimov.top/tags/honda/</link>
-				<pubDate>Tue, 23 Jun 2026 12:52:00 +0000</pubDate>
+				<pubDate>Tue, 23 Jun 2026 14:03:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/honda/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>KTM</title>
+				<title>Ktm</title>
 				<link>https://blog.alimov.top/tags/ktm/</link>
-				<pubDate>Tue, 23 Jun 2026 12:52:00 +0000</pubDate>
+				<pubDate>Tue, 23 Jun 2026 14:03:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/ktm/</guid>
 				<description></description>
 			</item>
@@ -602,7 +609,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Bmw</title>
+				<title>BMW</title>
 				<link>https://blog.alimov.top/tags/bmw/</link>
 				<pubDate>Thu, 18 Jun 2026 11:36:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/bmw/</guid>
@@ -686,17 +693,17 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Can Am</title>
-				<link>https://blog.alimov.top/tags/can-am/</link>
-				<pubDate>Wed, 17 Jun 2026 13:49:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/tags/can-am/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Can Am Off Road</title>
 				<link>https://blog.alimov.top/tags/can-am-off-road/</link>
 				<pubDate>Wed, 17 Jun 2026 13:49:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/can-am-off-road/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Can-Am</title>
+				<link>https://blog.alimov.top/tags/can-am/</link>
+				<pubDate>Wed, 17 Jun 2026 13:49:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/tags/can-am/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -1099,7 +1106,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Polaris Rzr</title>
+				<title>Polaris RZR</title>
 				<link>https://blog.alimov.top/tags/polaris-rzr/</link>
 				<pubDate>Mon, 15 Jun 2026 11:39:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/polaris-rzr/</guid>
@@ -1113,7 +1120,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Side-by-Side</title>
+				<title>Side by Side</title>
 				<link>https://blog.alimov.top/tags/side-by-side/</link>
 				<pubDate>Mon, 15 Jun 2026 11:29:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/side-by-side/</guid>
@@ -2072,13 +2079,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Bajaj</title>
-				<link>https://blog.alimov.top/tags/bajaj/</link>
-				<pubDate>Fri, 05 Jun 2026 12:03:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/tags/bajaj/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Royal Enfield</title>
 				<link>https://blog.alimov.top/tags/royal-enfield/</link>
 				<pubDate>Fri, 05 Jun 2026 11:54:00 +0000</pubDate>
@@ -2163,7 +2163,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>MV Agusta</title>
+				<title>Mv Agusta</title>
 				<link>https://blog.alimov.top/tags/mv-agusta/</link>
 				<pubDate>Thu, 04 Jun 2026 12:21:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/mv-agusta/</guid>
@@ -3409,7 +3409,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Ce Level 2</title>
+				<title>Ce-Level 2</title>
 				<link>https://blog.alimov.top/tags/ce-level-2/</link>
 				<pubDate>Fri, 22 May 2026 12:14:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/ce-level-2/</guid>
@@ -4137,7 +4137,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Bmw R 1300 Gs</title>
+				<title>BMW R 1300 GS</title>
 				<link>https://blog.alimov.top/tags/bmw-r-1300-gs/</link>
 				<pubDate>Thu, 14 May 2026 12:27:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/bmw-r-1300-gs/</guid>
@@ -4340,7 +4340,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>E Bike</title>
+				<title>E-Bike</title>
 				<link>https://blog.alimov.top/tags/e-bike/</link>
 				<pubDate>Mon, 11 May 2026 11:44:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/e-bike/</guid>

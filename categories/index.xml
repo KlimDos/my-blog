@@ -10,21 +10,28 @@
 		
 		
 		
-			<lastBuildDate>Tue, 23 Jun 2026 13:22:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 23 Jun 2026 14:03:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Индустрия</title>
-				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
-				<pubDate>Tue, 23 Jun 2026 13:22:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
+				<title>MotoGP</title>
+				<link>https://blog.alimov.top/categories/motogp/</link>
+				<pubDate>Tue, 23 Jun 2026 14:03:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/motogp/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Tue, 23 Jun 2026 13:22:00 +0000</pubDate>
+				<pubDate>Tue, 23 Jun 2026 14:03:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Индустрия</title>
+				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
+				<pubDate>Tue, 23 Jun 2026 13:22:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -312,13 +319,6 @@
 				<link>https://blog.alimov.top/categories/interviews/</link>
 				<pubDate>Thu, 09 Apr 2026 13:12:21 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/interviews/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>MotoGP</title>
-				<link>https://blog.alimov.top/categories/motogp/</link>
-				<pubDate>Wed, 08 Apr 2026 12:57:32 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/motogp/</guid>
 				<description></description>
 			</item>
 			<item>
