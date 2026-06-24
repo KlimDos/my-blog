@@ -10,21 +10,35 @@
 		
 		
 		
-			<lastBuildDate>Tue, 23 Jun 2026 18:58:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 24 Jun 2026 11:33:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Scooters</title>
-				<link>https://blog.alimov.top/categories/scooters/</link>
-				<pubDate>Tue, 23 Jun 2026 18:58:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/scooters/</guid>
+				<title>Positions</title>
+				<link>https://blog.alimov.top/categories/positions/</link>
+				<pubDate>Wed, 24 Jun 2026 11:33:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/positions/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Tue, 23 Jun 2026 18:58:00 +0000</pubDate>
+				<pubDate>Wed, 24 Jun 2026 11:33:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Rants</title>
+				<link>https://blog.alimov.top/categories/rants/</link>
+				<pubDate>Wed, 24 Jun 2026 11:01:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/rants/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Scooters</title>
+				<link>https://blog.alimov.top/categories/scooters/</link>
+				<pubDate>Tue, 23 Jun 2026 18:58:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/scooters/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -84,13 +98,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Rants</title>
-				<link>https://blog.alimov.top/categories/rants/</link>
-				<pubDate>Mon, 22 Jun 2026 10:55:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/rants/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Event</title>
 				<link>https://blog.alimov.top/categories/event/</link>
 				<pubDate>Fri, 19 Jun 2026 13:39:00 +0000</pubDate>
@@ -130,13 +137,6 @@
 				<link>https://blog.alimov.top/categories/real-riders/</link>
 				<pubDate>Thu, 18 Jun 2026 11:58:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/real-riders/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Positions</title>
-				<link>https://blog.alimov.top/categories/positions/</link>
-				<pubDate>Wed, 17 Jun 2026 11:31:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/positions/</guid>
 				<description></description>
 			</item>
 			<item>
