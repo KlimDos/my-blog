@@ -10,21 +10,28 @@
 		
 		
 		
-			<lastBuildDate>Wed, 24 Jun 2026 15:50:12 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 24 Jun 2026 18:23:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Гонки</title>
-				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
-				<pubDate>Wed, 24 Jun 2026 15:50:12 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
+				<title>Explainers</title>
+				<link>https://blog.alimov.top/categories/explainers/</link>
+				<pubDate>Wed, 24 Jun 2026 18:23:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/explainers/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Wed, 24 Jun 2026 15:50:12 +0000</pubDate>
+				<pubDate>Wed, 24 Jun 2026 18:23:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Гонки</title>
+				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
+				<pubDate>Wed, 24 Jun 2026 15:50:12 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -305,13 +312,6 @@
 				<link>https://blog.alimov.top/categories/movies/</link>
 				<pubDate>Wed, 22 Apr 2026 10:45:03 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/movies/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Explainers</title>
-				<link>https://blog.alimov.top/categories/explainers/</link>
-				<pubDate>Mon, 20 Apr 2026 11:05:17 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/explainers/</guid>
 				<description></description>
 			</item>
 			<item>
