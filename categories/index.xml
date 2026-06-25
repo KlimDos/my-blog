@@ -10,21 +10,35 @@
 		
 		
 		
-			<lastBuildDate>Wed, 24 Jun 2026 18:23:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 25 Jun 2026 11:56:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Explainers</title>
-				<link>https://blog.alimov.top/categories/explainers/</link>
-				<pubDate>Wed, 24 Jun 2026 18:23:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/explainers/</guid>
+				<title>Adventure &amp; Dual-Sport</title>
+				<link>https://blog.alimov.top/categories/adventure--dual-sport/</link>
+				<pubDate>Thu, 25 Jun 2026 11:56:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/adventure--dual-sport/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Wed, 24 Jun 2026 18:23:00 +0000</pubDate>
+				<pubDate>Thu, 25 Jun 2026 11:56:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Обзоры</title>
+				<link>https://blog.alimov.top/categories/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%D1%8B/</link>
+				<pubDate>Thu, 25 Jun 2026 11:00:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%D1%8B/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Explainers</title>
+				<link>https://blog.alimov.top/categories/explainers/</link>
+				<pubDate>Wed, 24 Jun 2026 18:23:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/explainers/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -91,13 +105,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Обзоры</title>
-				<link>https://blog.alimov.top/categories/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%D1%8B/</link>
-				<pubDate>Tue, 23 Jun 2026 11:03:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%D1%8B/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Технологии</title>
 				<link>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
 				<pubDate>Mon, 22 Jun 2026 12:43:00 +0000</pubDate>
@@ -123,13 +130,6 @@
 				<link>https://blog.alimov.top/categories/electric-motorcycles/</link>
 				<pubDate>Fri, 19 Jun 2026 12:53:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/electric-motorcycles/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Adventure &amp; Dual-Sport</title>
-				<link>https://blog.alimov.top/categories/adventure--dual-sport/</link>
-				<pubDate>Fri, 19 Jun 2026 11:24:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/adventure--dual-sport/</guid>
 				<description></description>
 			</item>
 			<item>
