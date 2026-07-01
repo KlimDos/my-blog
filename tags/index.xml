@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Tue, 30 Jun 2026 13:14:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 01 Jul 2026 11:17:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Mobility</title>
+				<link>https://blog.alimov.top/tags/mobility/</link>
+				<pubDate>Wed, 01 Jul 2026 11:17:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/tags/mobility/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>KTM</title>
+				<link>https://blog.alimov.top/tags/ktm/</link>
+				<pubDate>Wed, 01 Jul 2026 11:00:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/tags/ktm/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Adventure</title>
 				<link>https://blog.alimov.top/tags/adventure/</link>
@@ -175,10 +189,52 @@
 				<description></description>
 			</item>
 			<item>
+				<title>Cp2 Engine</title>
+				<link>https://blog.alimov.top/tags/cp2-engine/</link>
+				<pubDate>Tue, 30 Jun 2026 11:24:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/tags/cp2-engine/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Moto3</title>
+				<link>https://blog.alimov.top/tags/moto3/</link>
+				<pubDate>Tue, 30 Jun 2026 11:24:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/tags/moto3/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Yamaha</title>
 				<link>https://blog.alimov.top/tags/yamaha/</link>
 				<pubDate>Tue, 30 Jun 2026 11:24:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/yamaha/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Yamaha R7</title>
+				<link>https://blog.alimov.top/tags/yamaha-r7/</link>
+				<pubDate>Tue, 30 Jun 2026 11:24:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/tags/yamaha-r7/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Honda Adv160</title>
+				<link>https://blog.alimov.top/tags/honda-adv160/</link>
+				<pubDate>Tue, 30 Jun 2026 11:01:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/tags/honda-adv160/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Honda Adv350</title>
+				<link>https://blog.alimov.top/tags/honda-adv350/</link>
+				<pubDate>Tue, 30 Jun 2026 11:01:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/tags/honda-adv350/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Honda X Adv</title>
+				<link>https://blog.alimov.top/tags/honda-x-adv/</link>
+				<pubDate>Tue, 30 Jun 2026 11:01:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/tags/honda-x-adv/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -497,13 +553,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Ktm</title>
-				<link>https://blog.alimov.top/tags/ktm/</link>
-				<pubDate>Fri, 26 Jun 2026 12:38:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/tags/ktm/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Stark Alpha</title>
 				<link>https://blog.alimov.top/tags/stark-alpha/</link>
 				<pubDate>Fri, 26 Jun 2026 12:38:00 +0000</pubDate>
@@ -749,7 +798,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Honda Xl750 Transalp</title>
+				<title>Honda XL750 Transalp</title>
 				<link>https://blog.alimov.top/tags/honda-xl750-transalp/</link>
 				<pubDate>Thu, 25 Jun 2026 12:38:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/honda-xl750-transalp/</guid>
@@ -767,13 +816,6 @@
 				<link>https://blog.alimov.top/tags/adventure-scooter/</link>
 				<pubDate>Thu, 25 Jun 2026 11:56:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/adventure-scooter/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Honda X-Adv</title>
-				<link>https://blog.alimov.top/tags/honda-x-adv/</link>
-				<pubDate>Thu, 25 Jun 2026 11:56:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/tags/honda-x-adv/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -1015,7 +1057,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>LiveWire</title>
+				<title>Livewire</title>
 				<link>https://blog.alimov.top/tags/livewire/</link>
 				<pubDate>Wed, 24 Jun 2026 11:01:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/livewire/</guid>
@@ -1358,7 +1400,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Sur-Ron</title>
+				<title>Sur Ron</title>
 				<link>https://blog.alimov.top/tags/sur-ron/</link>
 				<pubDate>Fri, 19 Jun 2026 12:53:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/sur-ron/</guid>
@@ -2051,7 +2093,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Polaris RZR</title>
+				<title>Polaris Rzr</title>
 				<link>https://blog.alimov.top/tags/polaris-rzr/</link>
 				<pubDate>Mon, 15 Jun 2026 11:39:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/polaris-rzr/</guid>
@@ -2065,7 +2107,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Side by Side</title>
+				<title>Side-by-Side</title>
 				<link>https://blog.alimov.top/tags/side-by-side/</link>
 				<pubDate>Mon, 15 Jun 2026 11:29:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/side-by-side/</guid>
@@ -2366,7 +2408,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Yamaha Xsr900</title>
+				<title>Yamaha XSR900</title>
 				<link>https://blog.alimov.top/tags/yamaha-xsr900/</link>
 				<pubDate>Thu, 11 Jun 2026 11:23:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/yamaha-xsr900/</guid>
@@ -2723,7 +2765,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Go Kart</title>
+				<title>Go-Kart</title>
 				<link>https://blog.alimov.top/tags/go-kart/</link>
 				<pubDate>Mon, 08 Jun 2026 13:08:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/go-kart/</guid>
@@ -3920,7 +3962,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>820rr-Rs</title>
+				<title>820rr Rs</title>
 				<link>https://blog.alimov.top/tags/820rr-rs/</link>
 				<pubDate>Wed, 27 May 2026 12:17:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/820rr-rs/</guid>
@@ -4865,7 +4907,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Bmw R 1300 Gs</title>
+				<title>BMW R 1300 GS</title>
 				<link>https://blog.alimov.top/tags/bmw-r-1300-gs/</link>
 				<pubDate>Thu, 14 May 2026 12:27:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/bmw-r-1300-gs/</guid>
@@ -5047,17 +5089,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>E-Bike</title>
+				<title>E Bike</title>
 				<link>https://blog.alimov.top/tags/e-bike/</link>
 				<pubDate>Mon, 11 May 2026 11:44:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/e-bike/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Mobility</title>
-				<link>https://blog.alimov.top/tags/mobility/</link>
-				<pubDate>Mon, 11 May 2026 11:44:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/tags/mobility/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -6220,13 +6255,6 @@
 				<link>https://blog.alimov.top/tags/triumph-daytona-660/</link>
 				<pubDate>Sat, 25 Apr 2026 12:27:30 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/triumph-daytona-660/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Yamaha R7</title>
-				<link>https://blog.alimov.top/tags/yamaha-r7/</link>
-				<pubDate>Sat, 25 Apr 2026 12:27:30 +0000</pubDate>
-				<guid>https://blog.alimov.top/tags/yamaha-r7/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -11781,7 +11809,7 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Yamaha Yzf-R7</title>
+				<title>Yamaha YZF-R7</title>
 				<link>https://blog.alimov.top/tags/yamaha-yzf-r7/</link>
 				<pubDate>Wed, 11 Feb 2026 14:13:08 +0000</pubDate>
 				<guid>https://blog.alimov.top/tags/yamaha-yzf-r7/</guid>
