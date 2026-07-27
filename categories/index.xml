@@ -10,28 +10,42 @@
 		
 		
 		
-			<lastBuildDate>Sun, 26 Jul 2026 12:34:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 27 Jul 2026 11:50:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Event</title>
-				<link>https://blog.alimov.top/categories/event/</link>
-				<pubDate>Sun, 26 Jul 2026 12:34:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/event/</guid>
+				<title>Индустрия</title>
+				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
+				<pubDate>Mon, 27 Jul 2026 11:50:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Sun, 26 Jul 2026 12:34:00 +0000</pubDate>
+				<pubDate>Mon, 27 Jul 2026 11:50:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>Индустрия</title>
-				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
-				<pubDate>Sat, 25 Jul 2026 11:20:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
+				<title>Mobility</title>
+				<link>https://blog.alimov.top/categories/mobility/</link>
+				<pubDate>Mon, 27 Jul 2026 11:19:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/mobility/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Обзоры</title>
+				<link>https://blog.alimov.top/categories/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%D1%8B/</link>
+				<pubDate>Mon, 27 Jul 2026 11:00:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%D1%8B/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Event</title>
+				<link>https://blog.alimov.top/categories/event/</link>
+				<pubDate>Sun, 26 Jul 2026 12:34:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/event/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -130,13 +144,6 @@
 				<link>https://blog.alimov.top/categories/patents-and-trademarks/</link>
 				<pubDate>Tue, 21 Jul 2026 11:29:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/patents-and-trademarks/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Обзоры</title>
-				<link>https://blog.alimov.top/categories/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%D1%8B/</link>
-				<pubDate>Tue, 21 Jul 2026 11:01:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%D1%8B/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -256,13 +263,6 @@
 				<link>https://blog.alimov.top/categories/real-riders/</link>
 				<pubDate>Thu, 02 Jul 2026 11:45:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/real-riders/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Mobility</title>
-				<link>https://blog.alimov.top/categories/mobility/</link>
-				<pubDate>Wed, 01 Jul 2026 11:17:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/mobility/</guid>
 				<description></description>
 			</item>
 			<item>
