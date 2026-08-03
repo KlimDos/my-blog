@@ -10,9 +10,44 @@
 		
 		
 		
-			<lastBuildDate>Mon, 03 Aug 2026 11:41:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 03 Aug 2026 13:17:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Gear News</title>
+				<link>https://blog.alimov.top/categories/gear-news/</link>
+				<pubDate>Mon, 03 Aug 2026 13:17:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/gear-news/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Новости</title>
+				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
+				<pubDate>Mon, 03 Aug 2026 13:17:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Adventure &amp; Dual-Sport</title>
+				<link>https://blog.alimov.top/categories/adventure--dual-sport/</link>
+				<pubDate>Mon, 03 Aug 2026 12:57:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/adventure--dual-sport/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Технологии</title>
+				<link>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
+				<pubDate>Mon, 03 Aug 2026 12:42:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Индустрия</title>
+				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
+				<pubDate>Mon, 03 Aug 2026 12:01:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Off Road</title>
 				<link>https://blog.alimov.top/categories/off-road/</link>
@@ -21,31 +56,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Новости</title>
-				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Mon, 03 Aug 2026 11:41:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Adventure &amp; Dual-Sport</title>
-				<link>https://blog.alimov.top/categories/adventure--dual-sport/</link>
-				<pubDate>Mon, 03 Aug 2026 11:17:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/adventure--dual-sport/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Snowmobiles</title>
 				<link>https://blog.alimov.top/categories/snowmobiles/</link>
 				<pubDate>Sun, 02 Aug 2026 13:51:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/snowmobiles/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Индустрия</title>
-				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
-				<pubDate>Sat, 01 Aug 2026 11:40:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -133,13 +147,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Gear News</title>
-				<link>https://blog.alimov.top/categories/gear-news/</link>
-				<pubDate>Tue, 28 Jul 2026 11:01:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/gear-news/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Mobility</title>
 				<link>https://blog.alimov.top/categories/mobility/</link>
 				<pubDate>Mon, 27 Jul 2026 11:19:00 +0000</pubDate>
@@ -165,13 +172,6 @@
 				<link>https://blog.alimov.top/categories/for-sale/</link>
 				<pubDate>Fri, 24 Jul 2026 12:50:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/for-sale/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Технологии</title>
-				<link>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
-				<pubDate>Fri, 24 Jul 2026 12:15:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
