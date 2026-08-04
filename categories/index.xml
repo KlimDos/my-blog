@@ -10,28 +10,56 @@
 		
 		
 		
-			<lastBuildDate>Tue, 04 Aug 2026 11:26:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 04 Aug 2026 13:42:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>For Sale</title>
-				<link>https://blog.alimov.top/categories/for-sale/</link>
-				<pubDate>Tue, 04 Aug 2026 11:26:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/for-sale/</guid>
+				<title>Гонки</title>
+				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
+				<pubDate>Tue, 04 Aug 2026 13:42:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Tue, 04 Aug 2026 11:26:00 +0000</pubDate>
+				<pubDate>Tue, 04 Aug 2026 13:42:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>UTV</title>
+				<link>https://blog.alimov.top/categories/utv/</link>
+				<pubDate>Tue, 04 Aug 2026 13:00:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/utv/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Индустрия</title>
 				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
-				<pubDate>Tue, 04 Aug 2026 11:00:00 +0000</pubDate>
+				<pubDate>Tue, 04 Aug 2026 12:22:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Electric Motorcycles</title>
+				<link>https://blog.alimov.top/categories/electric-motorcycles/</link>
+				<pubDate>Tue, 04 Aug 2026 12:19:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/electric-motorcycles/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Explainers</title>
+				<link>https://blog.alimov.top/categories/explainers/</link>
+				<pubDate>Tue, 04 Aug 2026 11:51:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/explainers/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>For Sale</title>
+				<link>https://blog.alimov.top/categories/for-sale/</link>
+				<pubDate>Tue, 04 Aug 2026 11:26:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/for-sale/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -112,24 +140,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Гонки</title>
-				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
-				<pubDate>Thu, 30 Jul 2026 12:47:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Helmets</title>
 				<link>https://blog.alimov.top/categories/helmets/</link>
 				<pubDate>Thu, 30 Jul 2026 11:34:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/helmets/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Electric Motorcycles</title>
-				<link>https://blog.alimov.top/categories/electric-motorcycles/</link>
-				<pubDate>Thu, 30 Jul 2026 11:07:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/electric-motorcycles/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -175,13 +189,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>UTV</title>
-				<link>https://blog.alimov.top/categories/utv/</link>
-				<pubDate>Thu, 23 Jul 2026 12:02:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/utv/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Moto BS</title>
 				<link>https://blog.alimov.top/categories/moto-bs/</link>
 				<pubDate>Wed, 22 Jul 2026 13:10:00 +0000</pubDate>
@@ -214,13 +221,6 @@
 				<link>https://blog.alimov.top/categories/patents-and-trademarks/</link>
 				<pubDate>Tue, 21 Jul 2026 11:29:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/patents-and-trademarks/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Explainers</title>
-				<link>https://blog.alimov.top/categories/explainers/</link>
-				<pubDate>Mon, 20 Jul 2026 21:30:16 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/explainers/</guid>
 				<description></description>
 			</item>
 			<item>
