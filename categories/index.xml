@@ -10,21 +10,35 @@
 		
 		
 		
-			<lastBuildDate>Mon, 03 Aug 2026 13:17:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 04 Aug 2026 11:26:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Gear News</title>
-				<link>https://blog.alimov.top/categories/gear-news/</link>
-				<pubDate>Mon, 03 Aug 2026 13:17:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/gear-news/</guid>
+				<title>For Sale</title>
+				<link>https://blog.alimov.top/categories/for-sale/</link>
+				<pubDate>Tue, 04 Aug 2026 11:26:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/for-sale/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Mon, 03 Aug 2026 13:17:00 +0000</pubDate>
+				<pubDate>Tue, 04 Aug 2026 11:26:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Индустрия</title>
+				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
+				<pubDate>Tue, 04 Aug 2026 11:00:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gear News</title>
+				<link>https://blog.alimov.top/categories/gear-news/</link>
+				<pubDate>Mon, 03 Aug 2026 13:17:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/gear-news/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -39,13 +53,6 @@
 				<link>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
 				<pubDate>Mon, 03 Aug 2026 12:42:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Индустрия</title>
-				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
-				<pubDate>Mon, 03 Aug 2026 12:01:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -165,13 +172,6 @@
 				<link>https://blog.alimov.top/categories/event/</link>
 				<pubDate>Sun, 26 Jul 2026 12:34:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/event/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>For Sale</title>
-				<link>https://blog.alimov.top/categories/for-sale/</link>
-				<pubDate>Fri, 24 Jul 2026 12:50:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/for-sale/</guid>
 				<description></description>
 			</item>
 			<item>
