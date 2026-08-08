@@ -10,21 +10,28 @@
 		
 		
 		
-			<lastBuildDate>Fri, 07 Aug 2026 13:08:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 08 Aug 2026 14:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Event</title>
-				<link>https://blog.alimov.top/categories/event/</link>
-				<pubDate>Fri, 07 Aug 2026 13:08:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/event/</guid>
+				<title>How To</title>
+				<link>https://blog.alimov.top/categories/how-to/</link>
+				<pubDate>Sat, 08 Aug 2026 14:00:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/how-to/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Fri, 07 Aug 2026 13:08:00 +0000</pubDate>
+				<pubDate>Sat, 08 Aug 2026 14:00:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Event</title>
+				<link>https://blog.alimov.top/categories/event/</link>
+				<pubDate>Fri, 07 Aug 2026 13:08:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/event/</guid>
 				<description></description>
 			</item>
 			<item>
