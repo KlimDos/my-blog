@@ -10,21 +10,49 @@
 		
 		
 		
-			<lastBuildDate>Fri, 28 Aug 2026 11:29:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 28 Aug 2026 13:12:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Public Land Fights</title>
-				<link>https://blog.alimov.top/categories/public-land-fights/</link>
-				<pubDate>Fri, 28 Aug 2026 11:29:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/public-land-fights/</guid>
+				<title>Гонки</title>
+				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
+				<pubDate>Fri, 28 Aug 2026 13:12:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Fri, 28 Aug 2026 11:29:00 +0000</pubDate>
+				<pubDate>Fri, 28 Aug 2026 13:12:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Adventure &amp; Dual-Sport</title>
+				<link>https://blog.alimov.top/categories/adventure--dual-sport/</link>
+				<pubDate>Fri, 28 Aug 2026 13:01:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/adventure--dual-sport/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Explainers</title>
+				<link>https://blog.alimov.top/categories/explainers/</link>
+				<pubDate>Fri, 28 Aug 2026 12:24:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/explainers/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gear News</title>
+				<link>https://blog.alimov.top/categories/gear-news/</link>
+				<pubDate>Fri, 28 Aug 2026 12:04:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/gear-news/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Public Land Fights</title>
+				<link>https://blog.alimov.top/categories/public-land-fights/</link>
+				<pubDate>Fri, 28 Aug 2026 11:29:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/public-land-fights/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -39,13 +67,6 @@
 				<link>https://blog.alimov.top/categories/data-deep-dives/</link>
 				<pubDate>Fri, 28 Aug 2026 11:00:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/data-deep-dives/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Гонки</title>
-				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
-				<pubDate>Thu, 27 Aug 2026 12:56:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -109,13 +130,6 @@
 				<link>https://blog.alimov.top/categories/electric-motorcycles/</link>
 				<pubDate>Wed, 26 Aug 2026 11:03:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/electric-motorcycles/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Adventure &amp; Dual-Sport</title>
-				<link>https://blog.alimov.top/categories/adventure--dual-sport/</link>
-				<pubDate>Tue, 25 Aug 2026 12:02:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/adventure--dual-sport/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -189,13 +203,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Explainers</title>
-				<link>https://blog.alimov.top/categories/explainers/</link>
-				<pubDate>Thu, 13 Aug 2026 11:02:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/explainers/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>How To</title>
 				<link>https://blog.alimov.top/categories/how-to/</link>
 				<pubDate>Sat, 08 Aug 2026 14:00:00 +0000</pubDate>
@@ -207,13 +214,6 @@
 				<link>https://blog.alimov.top/categories/%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B1%D0%B0%D0%B9%D0%BA%D0%B8/</link>
 				<pubDate>Fri, 07 Aug 2026 12:49:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B1%D0%B0%D0%B9%D0%BA%D0%B8/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Gear News</title>
-				<link>https://blog.alimov.top/categories/gear-news/</link>
-				<pubDate>Fri, 07 Aug 2026 11:21:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/gear-news/</guid>
 				<description></description>
 			</item>
 			<item>
