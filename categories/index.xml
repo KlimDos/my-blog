@@ -10,21 +10,49 @@
 		
 		
 		
-			<lastBuildDate>Tue, 01 Sep 2026 11:36:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 04 Sep 2026 13:13:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Electric Motorcycles</title>
-				<link>https://blog.alimov.top/categories/electric-motorcycles/</link>
-				<pubDate>Tue, 01 Sep 2026 11:36:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/electric-motorcycles/</guid>
+				<title>Гонки</title>
+				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
+				<pubDate>Fri, 04 Sep 2026 13:13:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Tue, 01 Sep 2026 11:36:00 +0000</pubDate>
+				<pubDate>Fri, 04 Sep 2026 13:13:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Event</title>
+				<link>https://blog.alimov.top/categories/event/</link>
+				<pubDate>Fri, 04 Sep 2026 12:46:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/event/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Electric Motorcycles</title>
+				<link>https://blog.alimov.top/categories/electric-motorcycles/</link>
+				<pubDate>Fri, 04 Sep 2026 12:22:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/electric-motorcycles/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Moto BS</title>
+				<link>https://blog.alimov.top/categories/moto-bs/</link>
+				<pubDate>Fri, 04 Sep 2026 12:12:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/moto-bs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>PWCs</title>
+				<link>https://blog.alimov.top/categories/pwcs/</link>
+				<pubDate>Fri, 04 Sep 2026 11:33:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/pwcs/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -74,13 +102,6 @@
 				<link>https://blog.alimov.top/categories/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%D1%8B/</link>
 				<pubDate>Mon, 31 Aug 2026 11:00:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%D1%8B/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Гонки</title>
-				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
-				<pubDate>Fri, 28 Aug 2026 13:12:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -168,24 +189,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Event</title>
-				<link>https://blog.alimov.top/categories/event/</link>
-				<pubDate>Sat, 22 Aug 2026 11:24:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/event/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Armed and Dangerous</title>
 				<link>https://blog.alimov.top/categories/armed-and-dangerous/</link>
 				<pubDate>Fri, 21 Aug 2026 13:28:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/armed-and-dangerous/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>PWCs</title>
-				<link>https://blog.alimov.top/categories/pwcs/</link>
-				<pubDate>Fri, 21 Aug 2026 11:50:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/pwcs/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -235,13 +242,6 @@
 				<link>https://blog.alimov.top/categories/for-sale/</link>
 				<pubDate>Wed, 05 Aug 2026 12:41:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/for-sale/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Moto BS</title>
-				<link>https://blog.alimov.top/categories/moto-bs/</link>
-				<pubDate>Wed, 05 Aug 2026 11:33:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/moto-bs/</guid>
 				<description></description>
 			</item>
 			<item>
