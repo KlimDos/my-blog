@@ -10,21 +10,42 @@
 		
 		
 		
-			<lastBuildDate>Wed, 09 Sep 2026 13:19:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 10 Sep 2026 11:43:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Standard &amp; Naked</title>
-				<link>https://blog.alimov.top/categories/standard--naked/</link>
-				<pubDate>Wed, 09 Sep 2026 13:19:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/standard--naked/</guid>
+				<title>Гонки</title>
+				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
+				<pubDate>Thu, 10 Sep 2026 11:43:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Wed, 09 Sep 2026 13:19:00 +0000</pubDate>
+				<pubDate>Thu, 10 Sep 2026 11:43:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>PWCs</title>
+				<link>https://blog.alimov.top/categories/pwcs/</link>
+				<pubDate>Thu, 10 Sep 2026 11:21:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/pwcs/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Индустрия</title>
+				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
+				<pubDate>Thu, 10 Sep 2026 10:58:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Standard &amp; Naked</title>
+				<link>https://blog.alimov.top/categories/standard--naked/</link>
+				<pubDate>Wed, 09 Sep 2026 13:19:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/standard--naked/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -49,24 +70,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Индустрия</title>
-				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
-				<pubDate>Wed, 09 Sep 2026 11:14:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Positions</title>
 				<link>https://blog.alimov.top/categories/positions/</link>
 				<pubDate>Wed, 09 Sep 2026 11:11:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/positions/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Гонки</title>
-				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
-				<pubDate>Tue, 08 Sep 2026 13:53:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -102,13 +109,6 @@
 				<link>https://blog.alimov.top/categories/moto-bs/</link>
 				<pubDate>Fri, 04 Sep 2026 12:12:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/moto-bs/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>PWCs</title>
-				<link>https://blog.alimov.top/categories/pwcs/</link>
-				<pubDate>Fri, 04 Sep 2026 11:33:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/pwcs/</guid>
 				<description></description>
 			</item>
 			<item>
