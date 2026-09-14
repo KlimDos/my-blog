@@ -10,14 +10,35 @@
 		
 		
 		
-			<lastBuildDate>Mon, 14 Sep 2026 11:56:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 14 Sep 2026 13:26:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Games</title>
+				<link>https://blog.alimov.top/categories/games/</link>
+				<pubDate>Mon, 14 Sep 2026 13:26:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/games/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Mon, 14 Sep 2026 11:56:00 +0000</pubDate>
+				<pubDate>Mon, 14 Sep 2026 13:26:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Recalls</title>
+				<link>https://blog.alimov.top/categories/recalls/</link>
+				<pubDate>Mon, 14 Sep 2026 12:54:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/recalls/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Electric Motorcycles</title>
+				<link>https://blog.alimov.top/categories/electric-motorcycles/</link>
+				<pubDate>Mon, 14 Sep 2026 12:13:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/electric-motorcycles/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -81,13 +102,6 @@
 				<link>https://blog.alimov.top/categories/gear-news/</link>
 				<pubDate>Thu, 10 Sep 2026 12:56:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/gear-news/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Electric Motorcycles</title>
-				<link>https://blog.alimov.top/categories/electric-motorcycles/</link>
-				<pubDate>Thu, 10 Sep 2026 12:26:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/electric-motorcycles/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -165,13 +179,6 @@
 				<link>https://blog.alimov.top/categories/motogp/</link>
 				<pubDate>Wed, 02 Sep 2026 12:49:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/motogp/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Recalls</title>
-				<link>https://blog.alimov.top/categories/recalls/</link>
-				<pubDate>Wed, 02 Sep 2026 12:05:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/recalls/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -333,13 +340,6 @@
 				<link>https://blog.alimov.top/categories/movies/</link>
 				<pubDate>Wed, 22 Apr 2026 10:45:03 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/movies/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Games</title>
-				<link>https://blog.alimov.top/categories/games/</link>
-				<pubDate>Mon, 06 Apr 2026 11:25:01 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/games/</guid>
 				<description></description>
 			</item>
 			<item>
