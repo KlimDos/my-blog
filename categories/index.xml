@@ -10,14 +10,42 @@
 		
 		
 		
-			<lastBuildDate>Thu, 17 Sep 2026 11:43:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 17 Sep 2026 13:04:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Design</title>
+				<link>https://blog.alimov.top/categories/design/</link>
+				<pubDate>Thu, 17 Sep 2026 13:04:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/design/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Thu, 17 Sep 2026 11:43:00 +0000</pubDate>
+				<pubDate>Thu, 17 Sep 2026 13:04:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Гонки</title>
+				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
+				<pubDate>Thu, 17 Sep 2026 12:53:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Индустрия</title>
+				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
+				<pubDate>Thu, 17 Sep 2026 12:38:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Круизеры</title>
+				<link>https://blog.alimov.top/categories/%D0%BA%D1%80%D1%83%D0%B8%D0%B7%D0%B5%D1%80%D1%8B/</link>
+				<pubDate>Thu, 17 Sep 2026 12:14:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%BA%D1%80%D1%83%D0%B8%D0%B7%D0%B5%D1%80%D1%8B/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -63,13 +91,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Гонки</title>
-				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
-				<pubDate>Wed, 16 Sep 2026 11:15:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Real Racers</title>
 				<link>https://blog.alimov.top/categories/real-racers/</link>
 				<pubDate>Wed, 16 Sep 2026 11:08:00 +0000</pubDate>
@@ -98,13 +119,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Индустрия</title>
-				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
-				<pubDate>Tue, 15 Sep 2026 11:01:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Games</title>
 				<link>https://blog.alimov.top/categories/games/</link>
 				<pubDate>Mon, 14 Sep 2026 13:26:00 +0000</pubDate>
@@ -116,13 +130,6 @@
 				<link>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
 				<pubDate>Mon, 14 Sep 2026 11:56:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Design</title>
-				<link>https://blog.alimov.top/categories/design/</link>
-				<pubDate>Mon, 14 Sep 2026 11:02:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/design/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -256,13 +263,6 @@
 				<link>https://blog.alimov.top/categories/for-sale/</link>
 				<pubDate>Wed, 05 Aug 2026 12:41:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/for-sale/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Круизеры</title>
-				<link>https://blog.alimov.top/categories/%D0%BA%D1%80%D1%83%D0%B8%D0%B7%D0%B5%D1%80%D1%8B/</link>
-				<pubDate>Fri, 31 Jul 2026 12:39:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%BA%D1%80%D1%83%D0%B8%D0%B7%D0%B5%D1%80%D1%8B/</guid>
 				<description></description>
 			</item>
 			<item>
