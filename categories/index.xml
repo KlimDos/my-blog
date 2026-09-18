@@ -10,14 +10,42 @@
 		
 		
 		
-			<lastBuildDate>Fri, 18 Sep 2026 11:46:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 18 Sep 2026 13:49:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Event</title>
+				<link>https://blog.alimov.top/categories/event/</link>
+				<pubDate>Fri, 18 Sep 2026 13:49:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/event/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Fri, 18 Sep 2026 11:46:00 +0000</pubDate>
+				<pubDate>Fri, 18 Sep 2026 13:49:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Gear News</title>
+				<link>https://blog.alimov.top/categories/gear-news/</link>
+				<pubDate>Fri, 18 Sep 2026 12:58:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/gear-news/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Off Road</title>
+				<link>https://blog.alimov.top/categories/off-road/</link>
+				<pubDate>Fri, 18 Sep 2026 12:27:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/off-road/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>For Sale</title>
+				<link>https://blog.alimov.top/categories/for-sale/</link>
+				<pubDate>Fri, 18 Sep 2026 12:07:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/for-sale/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -91,13 +119,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Event</title>
-				<link>https://blog.alimov.top/categories/event/</link>
-				<pubDate>Wed, 16 Sep 2026 13:43:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/event/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Recalls</title>
 				<link>https://blog.alimov.top/categories/recalls/</link>
 				<pubDate>Wed, 16 Sep 2026 12:55:00 +0000</pubDate>
@@ -147,13 +168,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Gear News</title>
-				<link>https://blog.alimov.top/categories/gear-news/</link>
-				<pubDate>Thu, 10 Sep 2026 12:56:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/gear-news/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Standard &amp; Naked</title>
 				<link>https://blog.alimov.top/categories/standard--naked/</link>
 				<pubDate>Thu, 10 Sep 2026 12:13:00 +0000</pubDate>
@@ -165,13 +179,6 @@
 				<link>https://blog.alimov.top/categories/pwcs/</link>
 				<pubDate>Thu, 10 Sep 2026 11:21:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/pwcs/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Off Road</title>
-				<link>https://blog.alimov.top/categories/off-road/</link>
-				<pubDate>Mon, 07 Sep 2026 11:02:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/off-road/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -256,13 +263,6 @@
 				<link>https://blog.alimov.top/categories/how-to/</link>
 				<pubDate>Sat, 08 Aug 2026 14:00:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/how-to/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>For Sale</title>
-				<link>https://blog.alimov.top/categories/for-sale/</link>
-				<pubDate>Wed, 05 Aug 2026 12:41:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/for-sale/</guid>
 				<description></description>
 			</item>
 			<item>
