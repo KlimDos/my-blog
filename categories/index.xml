@@ -10,21 +10,28 @@
 		
 		
 		
-			<lastBuildDate>Fri, 18 Sep 2026 13:49:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 19 Sep 2026 12:49:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Event</title>
-				<link>https://blog.alimov.top/categories/event/</link>
-				<pubDate>Fri, 18 Sep 2026 13:49:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/event/</guid>
+				<title>Electric Motorcycles</title>
+				<link>https://blog.alimov.top/categories/electric-motorcycles/</link>
+				<pubDate>Sat, 19 Sep 2026 12:49:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/electric-motorcycles/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Fri, 18 Sep 2026 13:49:00 +0000</pubDate>
+				<pubDate>Sat, 19 Sep 2026 12:49:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Event</title>
+				<link>https://blog.alimov.top/categories/event/</link>
+				<pubDate>Fri, 18 Sep 2026 13:49:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/event/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -123,13 +130,6 @@
 				<link>https://blog.alimov.top/categories/recalls/</link>
 				<pubDate>Wed, 16 Sep 2026 12:55:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/recalls/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Electric Motorcycles</title>
-				<link>https://blog.alimov.top/categories/electric-motorcycles/</link>
-				<pubDate>Wed, 16 Sep 2026 11:38:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/electric-motorcycles/</guid>
 				<description></description>
 			</item>
 			<item>
