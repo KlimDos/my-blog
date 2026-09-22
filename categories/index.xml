@@ -10,21 +10,42 @@
 		
 		
 		
-			<lastBuildDate>Tue, 22 Sep 2026 11:42:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 22 Sep 2026 13:01:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>PWCs</title>
-				<link>https://blog.alimov.top/categories/pwcs/</link>
-				<pubDate>Tue, 22 Sep 2026 11:42:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/pwcs/</guid>
+				<title>Гонки</title>
+				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
+				<pubDate>Tue, 22 Sep 2026 13:01:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Tue, 22 Sep 2026 11:42:00 +0000</pubDate>
+				<pubDate>Tue, 22 Sep 2026 13:01:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Standard &amp; Naked</title>
+				<link>https://blog.alimov.top/categories/standard--naked/</link>
+				<pubDate>Tue, 22 Sep 2026 12:47:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/standard--naked/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Индустрия</title>
+				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
+				<pubDate>Tue, 22 Sep 2026 12:33:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>PWCs</title>
+				<link>https://blog.alimov.top/categories/pwcs/</link>
+				<pubDate>Tue, 22 Sep 2026 11:42:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/pwcs/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -63,24 +84,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Standard &amp; Naked</title>
-				<link>https://blog.alimov.top/categories/standard--naked/</link>
-				<pubDate>Mon, 21 Sep 2026 11:17:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/standard--naked/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Gear News</title>
 				<link>https://blog.alimov.top/categories/gear-news/</link>
 				<pubDate>Mon, 21 Sep 2026 11:01:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/gear-news/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Индустрия</title>
-				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
-				<pubDate>Sun, 20 Sep 2026 12:36:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -130,13 +137,6 @@
 				<link>https://blog.alimov.top/categories/design/</link>
 				<pubDate>Thu, 17 Sep 2026 13:04:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/design/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Гонки</title>
-				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
-				<pubDate>Thu, 17 Sep 2026 12:53:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
