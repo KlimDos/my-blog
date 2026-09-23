@@ -10,21 +10,42 @@
 		
 		
 		
-			<lastBuildDate>Tue, 22 Sep 2026 13:01:00 +0000</lastBuildDate>
+			<lastBuildDate>Wed, 23 Sep 2026 11:44:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Гонки</title>
-				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
-				<pubDate>Tue, 22 Sep 2026 13:01:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
+				<title>Electric Motorcycles</title>
+				<link>https://blog.alimov.top/categories/electric-motorcycles/</link>
+				<pubDate>Wed, 23 Sep 2026 11:44:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/electric-motorcycles/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Tue, 22 Sep 2026 13:01:00 +0000</pubDate>
+				<pubDate>Wed, 23 Sep 2026 11:44:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Off Road</title>
+				<link>https://blog.alimov.top/categories/off-road/</link>
+				<pubDate>Wed, 23 Sep 2026 11:22:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/off-road/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Positions</title>
+				<link>https://blog.alimov.top/categories/positions/</link>
+				<pubDate>Wed, 23 Sep 2026 11:00:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/positions/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Гонки</title>
+				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
+				<pubDate>Tue, 22 Sep 2026 13:01:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -46,13 +67,6 @@
 				<link>https://blog.alimov.top/categories/pwcs/</link>
 				<pubDate>Tue, 22 Sep 2026 11:42:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/pwcs/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Off Road</title>
-				<link>https://blog.alimov.top/categories/off-road/</link>
-				<pubDate>Tue, 22 Sep 2026 11:19:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/off-road/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -88,13 +102,6 @@
 				<link>https://blog.alimov.top/categories/gear-news/</link>
 				<pubDate>Mon, 21 Sep 2026 11:01:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/gear-news/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Electric Motorcycles</title>
-				<link>https://blog.alimov.top/categories/electric-motorcycles/</link>
-				<pubDate>Sat, 19 Sep 2026 12:49:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/electric-motorcycles/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -179,13 +186,6 @@
 				<link>https://blog.alimov.top/categories/games/</link>
 				<pubDate>Mon, 14 Sep 2026 13:26:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/games/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Positions</title>
-				<link>https://blog.alimov.top/categories/positions/</link>
-				<pubDate>Fri, 11 Sep 2026 12:01:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/positions/</guid>
 				<description></description>
 			</item>
 			<item>
