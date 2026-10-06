@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Livewire on 🏍️ Бип-бип, сука</title>
+		<title>LiveWire on 🏍️ Бип-бип, сука</title>
 		<link>https://blog.alimov.top/tags/livewire/</link>
-		<description>Recent content in Livewire on 🏍️ Бип-бип, сука</description>
+		<description>Recent content in LiveWire on 🏍️ Бип-бип, сука</description>
 		<generator>Hugo</generator>
 		<language>ru</language>
 		
 		
 		
 		
-			<lastBuildDate>Tue, 25 Aug 2026 13:21:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 06 Oct 2026 12:22:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/tags/livewire/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Биржа поверила в возрождение Harley-Davidson</title>
+				<link>https://blog.alimov.top/the-stock-market-is-backing-harley-davidsons-turnaround/</link>
+				<pubDate>Tue, 06 Oct 2026 12:22:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/the-stock-market-is-backing-harley-davidsons-turnaround/</guid>
+				<description>&lt;p&gt;В последние годы о Harley-Davidson было написано немало слов. Слов о падении этой иконной американской марки мотоциклов на протяжении последних трёх десятилетий. И слов о последних гендиректорах, включая нынешнего — Арти Старрса, который пришёл в мотоиндустрию не из мира мотоциклов, а из гольфа и пиццы. Некоторые из этих слов принадлежат мне и другим авторам RideApart, многие из которых задавались вопросом: правильное ли это решение для Motor Co.?&lt;/p&gt;&#xA;&lt;p&gt;Хорошо, что я писатель, а не член совета директоров, поскольку Старрсу, кажется, удалось вдохнуть новую жизнь в эту марку, которая была на спаде.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Минибайк Livewire для самых маленьких доступен в дилерских центрах</title>
 				<link>https://blog.alimov.top/livewires-tiny-ev-mini-bike-is-finally-available-at-a-dealership-near-you/</link>
