@@ -10,9 +10,37 @@
 		
 		
 		
-			<lastBuildDate>Thu, 08 Oct 2026 11:55:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 08 Oct 2026 13:36:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Mobility</title>
+				<link>https://blog.alimov.top/categories/mobility/</link>
+				<pubDate>Thu, 08 Oct 2026 13:36:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/mobility/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Новости</title>
+				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
+				<pubDate>Thu, 08 Oct 2026 13:36:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Off Road</title>
+				<link>https://blog.alimov.top/categories/off-road/</link>
+				<pubDate>Thu, 08 Oct 2026 12:25:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/off-road/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Технологии</title>
+				<link>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
+				<pubDate>Thu, 08 Oct 2026 12:08:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Electric Motorcycles</title>
 				<link>https://blog.alimov.top/categories/electric-motorcycles/</link>
@@ -21,24 +49,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Новости</title>
-				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Thu, 08 Oct 2026 11:55:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Гонки</title>
 				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
 				<pubDate>Thu, 08 Oct 2026 11:46:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Off Road</title>
-				<link>https://blog.alimov.top/categories/off-road/</link>
-				<pubDate>Thu, 08 Oct 2026 11:01:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/off-road/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -119,13 +133,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Mobility</title>
-				<link>https://blog.alimov.top/categories/mobility/</link>
-				<pubDate>Mon, 05 Oct 2026 11:19:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/mobility/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Scooters</title>
 				<link>https://blog.alimov.top/categories/scooters/</link>
 				<pubDate>Mon, 05 Oct 2026 11:05:00 +0000</pubDate>
@@ -144,13 +151,6 @@
 				<link>https://blog.alimov.top/categories/motogp/</link>
 				<pubDate>Fri, 02 Oct 2026 13:22:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/motogp/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Технологии</title>
-				<link>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
-				<pubDate>Thu, 01 Oct 2026 12:12:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
