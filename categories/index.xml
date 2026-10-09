@@ -10,21 +10,42 @@
 		
 		
 		
-			<lastBuildDate>Fri, 09 Oct 2026 11:36:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 09 Oct 2026 13:25:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Гонки</title>
 				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
-				<pubDate>Fri, 09 Oct 2026 11:36:00 +0000</pubDate>
+				<pubDate>Fri, 09 Oct 2026 13:25:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Fri, 09 Oct 2026 11:36:00 +0000</pubDate>
+				<pubDate>Fri, 09 Oct 2026 13:25:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Круизеры</title>
+				<link>https://blog.alimov.top/categories/%D0%BA%D1%80%D1%83%D0%B8%D0%B7%D0%B5%D1%80%D1%8B/</link>
+				<pubDate>Fri, 09 Oct 2026 12:51:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%BA%D1%80%D1%83%D0%B8%D0%B7%D0%B5%D1%80%D1%8B/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Scooters</title>
+				<link>https://blog.alimov.top/categories/scooters/</link>
+				<pubDate>Fri, 09 Oct 2026 12:37:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/scooters/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Индустрия</title>
+				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
+				<pubDate>Fri, 09 Oct 2026 12:04:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -77,20 +98,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Круизеры</title>
-				<link>https://blog.alimov.top/categories/%D0%BA%D1%80%D1%83%D0%B8%D0%B7%D0%B5%D1%80%D1%8B/</link>
-				<pubDate>Wed, 07 Oct 2026 12:10:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%BA%D1%80%D1%83%D0%B8%D0%B7%D0%B5%D1%80%D1%8B/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Индустрия</title>
-				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
-				<pubDate>Wed, 07 Oct 2026 11:00:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Standard &amp; Naked</title>
 				<link>https://blog.alimov.top/categories/standard--naked/</link>
 				<pubDate>Tue, 06 Oct 2026 13:27:00 +0000</pubDate>
@@ -130,13 +137,6 @@
 				<link>https://blog.alimov.top/categories/helmets/</link>
 				<pubDate>Mon, 05 Oct 2026 12:00:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/helmets/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Scooters</title>
-				<link>https://blog.alimov.top/categories/scooters/</link>
-				<pubDate>Mon, 05 Oct 2026 11:05:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/scooters/</guid>
 				<description></description>
 			</item>
 			<item>
