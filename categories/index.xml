@@ -10,21 +10,42 @@
 		
 		
 		
-			<lastBuildDate>Thu, 08 Oct 2026 13:36:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 09 Oct 2026 11:36:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Mobility</title>
-				<link>https://blog.alimov.top/categories/mobility/</link>
-				<pubDate>Thu, 08 Oct 2026 13:36:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/mobility/</guid>
+				<title>Гонки</title>
+				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
+				<pubDate>Fri, 09 Oct 2026 11:36:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Thu, 08 Oct 2026 13:36:00 +0000</pubDate>
+				<pubDate>Fri, 09 Oct 2026 11:36:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Positions</title>
+				<link>https://blog.alimov.top/categories/positions/</link>
+				<pubDate>Fri, 09 Oct 2026 11:14:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/positions/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Adventure &amp; Dual-Sport</title>
+				<link>https://blog.alimov.top/categories/adventure--dual-sport/</link>
+				<pubDate>Fri, 09 Oct 2026 11:02:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/adventure--dual-sport/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Mobility</title>
+				<link>https://blog.alimov.top/categories/mobility/</link>
+				<pubDate>Thu, 08 Oct 2026 13:36:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/mobility/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -49,20 +70,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Гонки</title>
-				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
-				<pubDate>Thu, 08 Oct 2026 11:46:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Positions</title>
-				<link>https://blog.alimov.top/categories/positions/</link>
-				<pubDate>Wed, 07 Oct 2026 12:50:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/positions/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>UTV</title>
 				<link>https://blog.alimov.top/categories/utv/</link>
 				<pubDate>Wed, 07 Oct 2026 12:22:00 +0000</pubDate>
@@ -74,13 +81,6 @@
 				<link>https://blog.alimov.top/categories/%D0%BA%D1%80%D1%83%D0%B8%D0%B7%D0%B5%D1%80%D1%8B/</link>
 				<pubDate>Wed, 07 Oct 2026 12:10:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BA%D1%80%D1%83%D0%B8%D0%B7%D0%B5%D1%80%D1%8B/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Adventure &amp; Dual-Sport</title>
-				<link>https://blog.alimov.top/categories/adventure--dual-sport/</link>
-				<pubDate>Wed, 07 Oct 2026 11:53:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/adventure--dual-sport/</guid>
 				<description></description>
 			</item>
 			<item>
