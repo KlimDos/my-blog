@@ -10,9 +10,23 @@
 		
 		
 		
-			<lastBuildDate>Sat, 24 Oct 2026 12:39:00 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 25 Oct 2026 12:45:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Гонки</title>
+				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
+				<pubDate>Sun, 25 Oct 2026 12:45:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Новости</title>
+				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
+				<pubDate>Sun, 25 Oct 2026 12:45:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Real Racers</title>
 				<link>https://blog.alimov.top/categories/real-racers/</link>
@@ -21,24 +35,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Новости</title>
-				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Sat, 24 Oct 2026 12:39:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Adventure &amp; Dual-Sport</title>
 				<link>https://blog.alimov.top/categories/adventure--dual-sport/</link>
 				<pubDate>Fri, 23 Oct 2026 13:56:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/adventure--dual-sport/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Гонки</title>
-				<link>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</link>
-				<pubDate>Fri, 23 Oct 2026 12:40:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8/</guid>
 				<description></description>
 			</item>
 			<item>
