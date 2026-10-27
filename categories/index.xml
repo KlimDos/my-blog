@@ -10,21 +10,35 @@
 		
 		
 		
-			<lastBuildDate>Mon, 26 Oct 2026 13:46:00 +0000</lastBuildDate>
+			<lastBuildDate>Tue, 27 Oct 2026 11:54:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Real Racers</title>
 				<link>https://blog.alimov.top/categories/real-racers/</link>
-				<pubDate>Mon, 26 Oct 2026 13:46:00 +0000</pubDate>
+				<pubDate>Tue, 27 Oct 2026 11:54:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/real-racers/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Mon, 26 Oct 2026 13:46:00 +0000</pubDate>
+				<pubDate>Tue, 27 Oct 2026 11:54:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Технологии</title>
+				<link>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
+				<pubDate>Tue, 27 Oct 2026 11:22:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Travel</title>
+				<link>https://blog.alimov.top/categories/travel/</link>
+				<pubDate>Tue, 27 Oct 2026 11:03:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/travel/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -126,13 +140,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Технологии</title>
-				<link>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</link>
-				<pubDate>Tue, 20 Oct 2026 13:38:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Public Land Fights</title>
 				<link>https://blog.alimov.top/categories/public-land-fights/</link>
 				<pubDate>Tue, 20 Oct 2026 12:26:00 +0000</pubDate>
@@ -151,13 +158,6 @@
 				<link>https://blog.alimov.top/categories/mobility/</link>
 				<pubDate>Mon, 19 Oct 2026 13:30:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/mobility/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Travel</title>
-				<link>https://blog.alimov.top/categories/travel/</link>
-				<pubDate>Mon, 19 Oct 2026 12:09:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/travel/</guid>
 				<description></description>
 			</item>
 			<item>
