@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>LiveWire on 🏍️ Бип-бип, сука</title>
+		<title>Livewire on 🏍️ Бип-бип, сука</title>
 		<link>https://blog.alimov.top/tags/livewire/</link>
-		<description>Recent content in LiveWire on 🏍️ Бип-бип, сука</description>
+		<description>Recent content in Livewire on 🏍️ Бип-бип, сука</description>
 		<generator>Hugo</generator>
 		<language>ru</language>
 		
 		
 		
 		
-			<lastBuildDate>Mon, 26 Oct 2026 11:18:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 29 Oct 2026 17:55:07 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/tags/livewire/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>LiveWire на грани серьёзных проблем</title>
+				<link>https://blog.alimov.top/livewire-is-in-serious-trouble/</link>
+				<pubDate>Thu, 29 Oct 2026 17:55:07 +0000</pubDate>
+				<guid>https://blog.alimov.top/livewire-is-in-serious-trouble/</guid>
+				<description>&lt;p&gt;Давайте смотреть правде в глаза. LiveWire, дочерняя компания Harley-Davidson, занимающаяся электрическими мотоциклами, испытывает трудности с самого начала. Изначально мотоциклы компании были переоценены и не предлагали ничего выдающегося, что привело к череде неудач и, в итоге, к одному результату: сжиганию денежных средств.&lt;/p&gt;&#xA;&lt;p&gt;Из года в год компания терпела неудачи, выпуская на рынок электрические мотоциклы для езды по дорогам, которые не находили отклика у покупателей. Самое главное, что они не соответствовали ожиданиям публики. Это отражается в продажах, которые никогда не превышали 1000 мотоциклов в год.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>LiveWire представит самый важный электромотоцикл на EICMA</title>
 				<link>https://blog.alimov.top/livewires-most-important-electric-motorcycle-ever-is-coming-to-eicma/</link>
