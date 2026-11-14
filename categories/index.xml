@@ -10,13 +10,20 @@
 		
 		
 		
-			<lastBuildDate>Fri, 13 Nov 2026 15:56:37 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 14 Nov 2026 14:27:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
+				<title>Scooters</title>
+				<link>https://blog.alimov.top/categories/scooters/</link>
+				<pubDate>Sat, 14 Nov 2026 14:27:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/scooters/</guid>
+				<description></description>
+			</item>
+			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Fri, 13 Nov 2026 15:56:37 +0000</pubDate>
+				<pubDate>Sat, 14 Nov 2026 14:27:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
 				<description></description>
 			</item>
@@ -249,13 +256,6 @@
 				<link>https://blog.alimov.top/categories/helmets/</link>
 				<pubDate>Mon, 26 Oct 2026 11:41:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/helmets/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Scooters</title>
-				<link>https://blog.alimov.top/categories/scooters/</link>
-				<pubDate>Thu, 22 Oct 2026 13:04:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/scooters/</guid>
 				<description></description>
 			</item>
 			<item>
