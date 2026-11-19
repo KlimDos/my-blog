@@ -10,28 +10,42 @@
 		
 		
 		
-			<lastBuildDate>Thu, 19 Nov 2026 12:42:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 19 Nov 2026 14:16:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Standard &amp; Naked</title>
-				<link>https://blog.alimov.top/categories/standard--naked/</link>
-				<pubDate>Thu, 19 Nov 2026 12:42:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/standard--naked/</guid>
+				<title>Rants</title>
+				<link>https://blog.alimov.top/categories/rants/</link>
+				<pubDate>Thu, 19 Nov 2026 14:16:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/rants/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Thu, 19 Nov 2026 12:42:00 +0000</pubDate>
+				<pubDate>Thu, 19 Nov 2026 14:16:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Standard &amp; Naked</title>
+				<link>https://blog.alimov.top/categories/standard--naked/</link>
+				<pubDate>Thu, 19 Nov 2026 13:50:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/standard--naked/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>MotoGP</title>
 				<link>https://blog.alimov.top/categories/motogp/</link>
-				<pubDate>Thu, 19 Nov 2026 12:39:00 +0000</pubDate>
+				<pubDate>Thu, 19 Nov 2026 13:20:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/motogp/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>EICMA</title>
+				<link>https://blog.alimov.top/categories/eicma/</link>
+				<pubDate>Thu, 19 Nov 2026 13:01:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/eicma/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -189,13 +203,6 @@
 				<description></description>
 			</item>
 			<item>
-				<title>EICMA</title>
-				<link>https://blog.alimov.top/categories/eicma/</link>
-				<pubDate>Wed, 11 Nov 2026 14:13:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/eicma/</guid>
-				<description></description>
-			</item>
-			<item>
 				<title>Real Riders</title>
 				<link>https://blog.alimov.top/categories/real-riders/</link>
 				<pubDate>Mon, 09 Nov 2026 15:37:00 +0000</pubDate>
@@ -221,13 +228,6 @@
 				<link>https://blog.alimov.top/categories/armed-and-dangerous/</link>
 				<pubDate>Fri, 06 Nov 2026 11:41:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/armed-and-dangerous/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Rants</title>
-				<link>https://blog.alimov.top/categories/rants/</link>
-				<pubDate>Thu, 05 Nov 2026 12:15:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/rants/</guid>
 				<description></description>
 			</item>
 			<item>
