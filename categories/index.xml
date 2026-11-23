@@ -10,21 +10,28 @@
 		
 		
 		
-			<lastBuildDate>Mon, 23 Nov 2026 14:05:00 +0000</lastBuildDate>
+			<lastBuildDate>Mon, 23 Nov 2026 18:51:46 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Armed and Dangerous</title>
-				<link>https://blog.alimov.top/categories/armed-and-dangerous/</link>
-				<pubDate>Mon, 23 Nov 2026 14:05:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/armed-and-dangerous/</guid>
+				<title>Индустрия</title>
+				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
+				<pubDate>Mon, 23 Nov 2026 18:51:46 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Mon, 23 Nov 2026 14:05:00 +0000</pubDate>
+				<pubDate>Mon, 23 Nov 2026 18:51:46 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Armed and Dangerous</title>
+				<link>https://blog.alimov.top/categories/armed-and-dangerous/</link>
+				<pubDate>Mon, 23 Nov 2026 14:05:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/armed-and-dangerous/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -179,13 +186,6 @@
 				<link>https://blog.alimov.top/categories/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%D1%8B/</link>
 				<pubDate>Fri, 13 Nov 2026 15:56:37 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BE%D0%B1%D0%B7%D0%BE%D1%80%D1%8B/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Индустрия</title>
-				<link>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</link>
-				<pubDate>Fri, 13 Nov 2026 14:44:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D1%8F/</guid>
 				<description></description>
 			</item>
 			<item>
