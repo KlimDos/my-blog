@@ -10,21 +10,28 @@
 		
 		
 		
-			<lastBuildDate>Fri, 27 Nov 2026 13:32:00 +0000</lastBuildDate>
+			<lastBuildDate>Sat, 28 Nov 2026 13:02:00 +0000</lastBuildDate>
 		
 			<atom:link href="https://blog.alimov.top/categories/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Recalls</title>
-				<link>https://blog.alimov.top/categories/recalls/</link>
-				<pubDate>Fri, 27 Nov 2026 13:32:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/recalls/</guid>
+				<title>Кастом</title>
+				<link>https://blog.alimov.top/categories/%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC/</link>
+				<pubDate>Sat, 28 Nov 2026 13:02:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Новости</title>
 				<link>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</link>
-				<pubDate>Fri, 27 Nov 2026 13:32:00 +0000</pubDate>
+				<pubDate>Sat, 28 Nov 2026 13:02:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Recalls</title>
+				<link>https://blog.alimov.top/categories/recalls/</link>
+				<pubDate>Fri, 27 Nov 2026 13:32:00 +0000</pubDate>
+				<guid>https://blog.alimov.top/categories/recalls/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -186,13 +193,6 @@
 				<link>https://blog.alimov.top/categories/helmets/</link>
 				<pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
 				<guid>https://blog.alimov.top/categories/helmets/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Кастом</title>
-				<link>https://blog.alimov.top/categories/%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC/</link>
-				<pubDate>Mon, 16 Nov 2026 14:57:00 +0000</pubDate>
-				<guid>https://blog.alimov.top/categories/%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC/</guid>
 				<description></description>
 			</item>
 			<item>
